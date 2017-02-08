@@ -15,12 +15,12 @@ This package is also available for [Atom](https://github.com/idleberg/atom-svg-i
 
 1. Make sure you already have [Package Control](https://packagecontrol.io/) installed
 2. Choose *“Install Package”* from the Command Palette (<kbd>Super</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
-3. Select *“SVG Icons”* and press <kbd>Enter</kbd>
+3. Select *“SVG Icon Snippets”* and press <kbd>Enter</kbd>
 
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/sublime-svg-icons "SVG Icons"`
+2. Clone repository `git clone https://github.com/idleberg/sublime-svg-icons "SVG Icon Snippets"`
 
 ## Usage
 

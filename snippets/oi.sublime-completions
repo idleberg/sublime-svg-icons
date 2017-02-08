@@ -3,895 +3,895 @@
   "completions": [
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-center\" class=\"align-center\"></use>\n</svg>",
-      "trigger": "align-center\t<svg>"
+      "trigger": "align-center\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-right\" class=\"expand-right\"></use>\n</svg>",
-      "trigger": "expand-right\t<svg>"
+      "trigger": "expand-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-bottom\" class=\"arrow-circle-bottom\"></use>\n</svg>",
-      "trigger": "arrow-circle-bottom\t<svg>"
+      "trigger": "arrow-circle-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#basket\" class=\"basket\"></use>\n</svg>",
-      "trigger": "basket\t<svg>"
+      "trigger": "basket\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#calendar\" class=\"calendar\"></use>\n</svg>",
-      "trigger": "calendar\t<svg>"
+      "trigger": "calendar\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#browser\" class=\"browser\"></use>\n</svg>",
-      "trigger": "browser\t<svg>"
+      "trigger": "browser\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#text\" class=\"text\"></use>\n</svg>",
-      "trigger": "text\t<svg>"
+      "trigger": "text\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#data-transfer-download\" class=\"data-transfer-download\"></use>\n</svg>",
-      "trigger": "data-transfer-download\t<svg>"
+      "trigger": "data-transfer-download\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#brush\" class=\"brush\"></use>\n</svg>",
-      "trigger": "brush\t<svg>"
+      "trigger": "brush\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-right\" class=\"caret-right\"></use>\n</svg>",
-      "trigger": "caret-right\t<svg>"
+      "trigger": "caret-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-bottom\" class=\"arrow-thick-bottom\"></use>\n</svg>",
-      "trigger": "arrow-thick-bottom\t<svg>"
+      "trigger": "arrow-thick-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#excerpt\" class=\"excerpt\"></use>\n</svg>",
-      "trigger": "excerpt\t<svg>"
+      "trigger": "excerpt\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#paperclip\" class=\"paperclip\"></use>\n</svg>",
-      "trigger": "paperclip\t<svg>"
+      "trigger": "paperclip\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#copywriting\" class=\"copywriting\"></use>\n</svg>",
-      "trigger": "copywriting\t<svg>"
+      "trigger": "copywriting\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-up\" class=\"collapse-up\"></use>\n</svg>",
-      "trigger": "collapse-up\t<svg>"
+      "trigger": "collapse-up\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#infinity\" class=\"infinity\"></use>\n</svg>",
-      "trigger": "infinity\t<svg>"
+      "trigger": "infinity\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#laptop\" class=\"laptop\"></use>\n</svg>",
-      "trigger": "laptop\t<svg>"
+      "trigger": "laptop\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#home\" class=\"home\"></use>\n</svg>",
-      "trigger": "home\t<svg>"
+      "trigger": "home\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#menu\" class=\"menu\"></use>\n</svg>",
-      "trigger": "menu\t<svg>"
+      "trigger": "menu\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-top\" class=\"arrow-thick-top\"></use>\n</svg>",
-      "trigger": "arrow-thick-top\t<svg>"
+      "trigger": "arrow-thick-top\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#book\" class=\"book\"></use>\n</svg>",
-      "trigger": "book\t<svg>"
+      "trigger": "book\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fork\" class=\"fork\"></use>\n</svg>",
-      "trigger": "fork\t<svg>"
+      "trigger": "fork\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#graph\" class=\"graph\"></use>\n</svg>",
-      "trigger": "graph\t<svg>"
+      "trigger": "graph\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#audio-spectrum\" class=\"audio-spectrum\"></use>\n</svg>",
-      "trigger": "audio-spectrum\t<svg>"
+      "trigger": "audio-spectrum\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rss-alt\" class=\"rss-alt\"></use>\n</svg>",
-      "trigger": "rss-alt\t<svg>"
+      "trigger": "rss-alt\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#timer\" class=\"timer\"></use>\n</svg>",
-      "trigger": "timer\t<svg>"
+      "trigger": "timer\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop-square\" class=\"loop-square\"></use>\n</svg>",
-      "trigger": "loop-square\t<svg>"
+      "trigger": "loop-square\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-serif-left\" class=\"double-quote-serif-left\"></use>\n</svg>",
-      "trigger": "double-quote-serif-left\t<svg>"
+      "trigger": "double-quote-serif-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-right\" class=\"collapse-right\"></use>\n</svg>",
-      "trigger": "collapse-right\t<svg>"
+      "trigger": "collapse-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-left\" class=\"caret-left\"></use>\n</svg>",
-      "trigger": "caret-left\t<svg>"
+      "trigger": "caret-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-low\" class=\"volume-low\"></use>\n</svg>",
-      "trigger": "volume-low\t<svg>"
+      "trigger": "volume-low\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eject\" class=\"eject\"></use>\n</svg>",
-      "trigger": "eject\t<svg>"
+      "trigger": "eject\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#clock\" class=\"clock\"></use>\n</svg>",
-      "trigger": "clock\t<svg>"
+      "trigger": "clock\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#check\" class=\"check\"></use>\n</svg>",
-      "trigger": "check\t<svg>"
+      "trigger": "check\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#target\" class=\"target\"></use>\n</svg>",
-      "trigger": "target\t<svg>"
+      "trigger": "target\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cog\" class=\"cog\"></use>\n</svg>",
-      "trigger": "cog\t<svg>"
+      "trigger": "cog\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-width\" class=\"resize-width\"></use>\n</svg>",
-      "trigger": "resize-width\t<svg>"
+      "trigger": "resize-width\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#spreadsheet\" class=\"spreadsheet\"></use>\n</svg>",
-      "trigger": "spreadsheet\t<svg>"
+      "trigger": "spreadsheet\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#external-link\" class=\"external-link\"></use>\n</svg>",
-      "trigger": "external-link\t<svg>"
+      "trigger": "external-link\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#euro\" class=\"euro\"></use>\n</svg>",
-      "trigger": "euro\t<svg>"
+      "trigger": "euro\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pin\" class=\"pin\"></use>\n</svg>",
-      "trigger": "pin\t<svg>"
+      "trigger": "pin\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bolt\" class=\"bolt\"></use>\n</svg>",
-      "trigger": "bolt\t<svg>"
+      "trigger": "bolt\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#circle-check\" class=\"circle-check\"></use>\n</svg>",
-      "trigger": "circle-check\t<svg>"
+      "trigger": "circle-check\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#minus\" class=\"minus\"></use>\n</svg>",
-      "trigger": "minus\t<svg>"
+      "trigger": "minus\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tag\" class=\"tag\"></use>\n</svg>",
-      "trigger": "tag\t<svg>"
+      "trigger": "tag\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#list\" class=\"list\"></use>\n</svg>",
-      "trigger": "list\t<svg>"
+      "trigger": "list\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bold\" class=\"bold\"></use>\n</svg>",
-      "trigger": "bold\t<svg>"
+      "trigger": "bold\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-serif-right\" class=\"double-quote-serif-right\"></use>\n</svg>",
-      "trigger": "double-quote-serif-right\t<svg>"
+      "trigger": "double-quote-serif-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop-circular\" class=\"loop-circular\"></use>\n</svg>",
-      "trigger": "loop-circular\t<svg>"
+      "trigger": "loop-circular\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#droplet\" class=\"droplet\"></use>\n</svg>",
-      "trigger": "droplet\t<svg>"
+      "trigger": "droplet\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-left\" class=\"justify-left\"></use>\n</svg>",
-      "trigger": "justify-left\t<svg>"
+      "trigger": "justify-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-both\" class=\"resize-both\"></use>\n</svg>",
-      "trigger": "resize-both\t<svg>"
+      "trigger": "resize-both\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-left\" class=\"arrow-left\"></use>\n</svg>",
-      "trigger": "arrow-left\t<svg>"
+      "trigger": "arrow-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop\" class=\"loop\"></use>\n</svg>",
-      "trigger": "loop\t<svg>"
+      "trigger": "loop\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bell\" class=\"bell\"></use>\n</svg>",
-      "trigger": "bell\t<svg>"
+      "trigger": "bell\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#task\" class=\"task\"></use>\n</svg>",
-      "trigger": "task\t<svg>"
+      "trigger": "task\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#british-pound\" class=\"british-pound\"></use>\n</svg>",
-      "trigger": "british-pound\t<svg>"
+      "trigger": "british-pound\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-right\" class=\"arrow-thick-right\"></use>\n</svg>",
-      "trigger": "arrow-thick-right\t<svg>"
+      "trigger": "arrow-thick-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#hard-drive\" class=\"hard-drive\"></use>\n</svg>",
-      "trigger": "hard-drive\t<svg>"
+      "trigger": "hard-drive\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lock-locked\" class=\"lock-locked\"></use>\n</svg>",
-      "trigger": "lock-locked\t<svg>"
+      "trigger": "lock-locked\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#layers\" class=\"layers\"></use>\n</svg>",
-      "trigger": "layers\t<svg>"
+      "trigger": "layers\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#x\" class=\"x\"></use>\n</svg>",
-      "trigger": "x\t<svg>"
+      "trigger": "x\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rss\" class=\"rss\"></use>\n</svg>",
-      "trigger": "rss\t<svg>"
+      "trigger": "rss\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-right\" class=\"align-right\"></use>\n</svg>",
-      "trigger": "align-right\t<svg>"
+      "trigger": "align-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-bottom\" class=\"caret-bottom\"></use>\n</svg>",
-      "trigger": "caret-bottom\t<svg>"
+      "trigger": "caret-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-sans-left\" class=\"double-quote-sans-left\"></use>\n</svg>",
-      "trigger": "double-quote-sans-left\t<svg>"
+      "trigger": "double-quote-sans-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#headphones\" class=\"headphones\"></use>\n</svg>",
-      "trigger": "headphones\t<svg>"
+      "trigger": "headphones\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pencil\" class=\"pencil\"></use>\n</svg>",
-      "trigger": "pencil\t<svg>"
+      "trigger": "pencil\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#data-transfer-upload\" class=\"data-transfer-upload\"></use>\n</svg>",
-      "trigger": "data-transfer-upload\t<svg>"
+      "trigger": "data-transfer-upload\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-skip-forward\" class=\"media-skip-forward\"></use>\n</svg>",
-      "trigger": "media-skip-forward\t<svg>"
+      "trigger": "media-skip-forward\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#link-intact\" class=\"link-intact\"></use>\n</svg>",
-      "trigger": "link-intact\t<svg>"
+      "trigger": "link-intact\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-height\" class=\"resize-height\"></use>\n</svg>",
-      "trigger": "resize-height\t<svg>"
+      "trigger": "resize-height\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pie-chart\" class=\"pie-chart\"></use>\n</svg>",
-      "trigger": "pie-chart\t<svg>"
+      "trigger": "pie-chart\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lightbulb\" class=\"lightbulb\"></use>\n</svg>",
-      "trigger": "lightbulb\t<svg>"
+      "trigger": "lightbulb\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-center\" class=\"vertical-align-center\"></use>\n</svg>",
-      "trigger": "vertical-align-center\t<svg>"
+      "trigger": "vertical-align-center\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloudy\" class=\"cloudy\"></use>\n</svg>",
-      "trigger": "cloudy\t<svg>"
+      "trigger": "cloudy\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-pause\" class=\"media-pause\"></use>\n</svg>",
-      "trigger": "media-pause\t<svg>"
+      "trigger": "media-pause\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-left\" class=\"expand-left\"></use>\n</svg>",
-      "trigger": "expand-left\t<svg>"
+      "trigger": "expand-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dial\" class=\"dial\"></use>\n</svg>",
-      "trigger": "dial\t<svg>"
+      "trigger": "dial\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dollar\" class=\"dollar\"></use>\n</svg>",
-      "trigger": "dollar\t<svg>"
+      "trigger": "dollar\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#link-broken\" class=\"link-broken\"></use>\n</svg>",
-      "trigger": "link-broken\t<svg>"
+      "trigger": "link-broken\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#aperture\" class=\"aperture\"></use>\n</svg>",
-      "trigger": "aperture\t<svg>"
+      "trigger": "aperture\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#signpost\" class=\"signpost\"></use>\n</svg>",
-      "trigger": "signpost\t<svg>"
+      "trigger": "signpost\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#circle-x\" class=\"circle-x\"></use>\n</svg>",
-      "trigger": "circle-x\t<svg>"
+      "trigger": "circle-x\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#briefcase\" class=\"briefcase\"></use>\n</svg>",
-      "trigger": "briefcase\t<svg>"
+      "trigger": "briefcase\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-center\" class=\"justify-center\"></use>\n</svg>",
-      "trigger": "justify-center\t<svg>"
+      "trigger": "justify-center\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-left\" class=\"align-left\"></use>\n</svg>",
-      "trigger": "align-left\t<svg>"
+      "trigger": "align-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-logout\" class=\"account-logout\"></use>\n</svg>",
-      "trigger": "account-logout\t<svg>"
+      "trigger": "account-logout\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#random\" class=\"random\"></use>\n</svg>",
-      "trigger": "random\t<svg>"
+      "trigger": "random\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-high\" class=\"volume-high\"></use>\n</svg>",
-      "trigger": "volume-high\t<svg>"
+      "trigger": "volume-high\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-top\" class=\"arrow-circle-top\"></use>\n</svg>",
-      "trigger": "arrow-circle-top\t<svg>"
+      "trigger": "arrow-circle-top\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#move\" class=\"move\"></use>\n</svg>",
-      "trigger": "move\t<svg>"
+      "trigger": "move\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#envelope-open\" class=\"envelope-open\"></use>\n</svg>",
-      "trigger": "envelope-open\t<svg>"
+      "trigger": "envelope-open\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#shield\" class=\"shield\"></use>\n</svg>",
-      "trigger": "shield\t<svg>"
+      "trigger": "shield\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bug\" class=\"bug\"></use>\n</svg>",
-      "trigger": "bug\t<svg>"
+      "trigger": "bug\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#warning\" class=\"warning\"></use>\n</svg>",
-      "trigger": "warning\t<svg>"
+      "trigger": "warning\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#underline\" class=\"underline\"></use>\n</svg>",
-      "trigger": "underline\t<svg>"
+      "trigger": "underline\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-three-up\" class=\"grid-three-up\"></use>\n</svg>",
-      "trigger": "grid-three-up\t<svg>"
+      "trigger": "grid-three-up\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-left\" class=\"collapse-left\"></use>\n</svg>",
-      "trigger": "collapse-left\t<svg>"
+      "trigger": "collapse-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fire\" class=\"fire\"></use>\n</svg>",
-      "trigger": "fire\t<svg>"
+      "trigger": "fire\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#wifi\" class=\"wifi\"></use>\n</svg>",
-      "trigger": "wifi\t<svg>"
+      "trigger": "wifi\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#people\" class=\"people\"></use>\n</svg>",
-      "trigger": "people\t<svg>"
+      "trigger": "people\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bullhorn\" class=\"bullhorn\"></use>\n</svg>",
-      "trigger": "bullhorn\t<svg>"
+      "trigger": "bullhorn\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#zoom-in\" class=\"zoom-in\"></use>\n</svg>",
-      "trigger": "zoom-in\t<svg>"
+      "trigger": "zoom-in\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud\" class=\"cloud\"></use>\n</svg>",
-      "trigger": "cloud\t<svg>"
+      "trigger": "cloud\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bluetooth\" class=\"bluetooth\"></use>\n</svg>",
-      "trigger": "bluetooth\t<svg>"
+      "trigger": "bluetooth\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#power-standby\" class=\"power-standby\"></use>\n</svg>",
-      "trigger": "power-standby\t<svg>"
+      "trigger": "power-standby\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fullscreen-exit\" class=\"fullscreen-exit\"></use>\n</svg>",
-      "trigger": "fullscreen-exit\t<svg>"
+      "trigger": "fullscreen-exit\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#star\" class=\"star\"></use>\n</svg>",
-      "trigger": "star\t<svg>"
+      "trigger": "star\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-stop\" class=\"media-stop\"></use>\n</svg>",
-      "trigger": "media-stop\t<svg>"
+      "trigger": "media-stop\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-sans-right\" class=\"double-quote-sans-right\"></use>\n</svg>",
-      "trigger": "double-quote-sans-right\t<svg>"
+      "trigger": "double-quote-sans-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#delete\" class=\"delete\"></use>\n</svg>",
-      "trigger": "delete\t<svg>"
+      "trigger": "delete\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#key\" class=\"key\"></use>\n</svg>",
-      "trigger": "key\t<svg>"
+      "trigger": "key\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#print\" class=\"print\"></use>\n</svg>",
-      "trigger": "print\t<svg>"
+      "trigger": "print\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#transfer\" class=\"transfer\"></use>\n</svg>",
-      "trigger": "transfer\t<svg>"
+      "trigger": "transfer\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#phone\" class=\"phone\"></use>\n</svg>",
-      "trigger": "phone\t<svg>"
+      "trigger": "phone\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#thumb-down\" class=\"thumb-down\"></use>\n</svg>",
-      "trigger": "thumb-down\t<svg>"
+      "trigger": "thumb-down\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#heart\" class=\"heart\"></use>\n</svg>",
-      "trigger": "heart\t<svg>"
+      "trigger": "heart\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#signal\" class=\"signal\"></use>\n</svg>",
-      "trigger": "signal\t<svg>"
+      "trigger": "signal\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-right\" class=\"arrow-right\"></use>\n</svg>",
-      "trigger": "arrow-right\t<svg>"
+      "trigger": "arrow-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#play-circle\" class=\"play-circle\"></use>\n</svg>",
-      "trigger": "play-circle\t<svg>"
+      "trigger": "play-circle\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-top\" class=\"caret-top\"></use>\n</svg>",
-      "trigger": "caret-top\t<svg>"
+      "trigger": "caret-top\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-right\" class=\"arrow-circle-right\"></use>\n</svg>",
-      "trigger": "arrow-circle-right\t<svg>"
+      "trigger": "arrow-circle-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#share\" class=\"share\"></use>\n</svg>",
-      "trigger": "share\t<svg>"
+      "trigger": "share\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#location\" class=\"location\"></use>\n</svg>",
-      "trigger": "location\t<svg>"
+      "trigger": "location\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#audio\" class=\"audio\"></use>\n</svg>",
-      "trigger": "audio\t<svg>"
+      "trigger": "audio\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#monitor\" class=\"monitor\"></use>\n</svg>",
-      "trigger": "monitor\t<svg>"
+      "trigger": "monitor\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rain\" class=\"rain\"></use>\n</svg>",
-      "trigger": "rain\t<svg>"
+      "trigger": "rain\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#image\" class=\"image\"></use>\n</svg>",
-      "trigger": "image\t<svg>"
+      "trigger": "image\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#comment-square\" class=\"comment-square\"></use>\n</svg>",
-      "trigger": "comment-square\t<svg>"
+      "trigger": "comment-square\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud-download\" class=\"cloud-download\"></use>\n</svg>",
-      "trigger": "cloud-download\t<svg>"
+      "trigger": "cloud-download\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#flag\" class=\"flag\"></use>\n</svg>",
-      "trigger": "flag\t<svg>"
+      "trigger": "flag\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#code\" class=\"code\"></use>\n</svg>",
-      "trigger": "code\t<svg>"
+      "trigger": "code\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eye\" class=\"eye\"></use>\n</svg>",
-      "trigger": "eye\t<svg>"
+      "trigger": "eye\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#inbox\" class=\"inbox\"></use>\n</svg>",
-      "trigger": "inbox\t<svg>"
+      "trigger": "inbox\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-down\" class=\"expand-down\"></use>\n</svg>",
-      "trigger": "expand-down\t<svg>"
+      "trigger": "expand-down\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#moon\" class=\"moon\"></use>\n</svg>",
-      "trigger": "moon\t<svg>"
+      "trigger": "moon\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-bottom\" class=\"arrow-bottom\"></use>\n</svg>",
-      "trigger": "arrow-bottom\t<svg>"
+      "trigger": "arrow-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#action-undo\" class=\"action-undo\"></use>\n</svg>",
-      "trigger": "action-undo\t<svg>"
+      "trigger": "action-undo\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-down\" class=\"collapse-down\"></use>\n</svg>",
-      "trigger": "collapse-down\t<svg>"
+      "trigger": "collapse-down\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-left\" class=\"arrow-circle-left\"></use>\n</svg>",
-      "trigger": "arrow-circle-left\t<svg>"
+      "trigger": "arrow-circle-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-top\" class=\"arrow-top\"></use>\n</svg>",
-      "trigger": "arrow-top\t<svg>"
+      "trigger": "arrow-top\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#contrast\" class=\"contrast\"></use>\n</svg>",
-      "trigger": "contrast\t<svg>"
+      "trigger": "contrast\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#globe\" class=\"globe\"></use>\n</svg>",
-      "trigger": "globe\t<svg>"
+      "trigger": "globe\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#ban\" class=\"ban\"></use>\n</svg>",
-      "trigger": "ban\t<svg>"
+      "trigger": "ban\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sort-ascending\" class=\"sort-ascending\"></use>\n</svg>",
-      "trigger": "sort-ascending\t<svg>"
+      "trigger": "sort-ascending\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#terminal\" class=\"terminal\"></use>\n</svg>",
-      "trigger": "terminal\t<svg>"
+      "trigger": "terminal\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#compass\" class=\"compass\"></use>\n</svg>",
-      "trigger": "compass\t<svg>"
+      "trigger": "compass\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#battery-empty\" class=\"battery-empty\"></use>\n</svg>",
-      "trigger": "battery-empty\t<svg>"
+      "trigger": "battery-empty\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eyedropper\" class=\"eyedropper\"></use>\n</svg>",
-      "trigger": "eyedropper\t<svg>"
+      "trigger": "eyedropper\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#puzzle-piece\" class=\"puzzle-piece\"></use>\n</svg>",
-      "trigger": "puzzle-piece\t<svg>"
+      "trigger": "puzzle-piece\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-four-up\" class=\"grid-four-up\"></use>\n</svg>",
-      "trigger": "grid-four-up\t<svg>"
+      "trigger": "grid-four-up\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#map-marker\" class=\"map-marker\"></use>\n</svg>",
-      "trigger": "map-marker\t<svg>"
+      "trigger": "map-marker\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cart\" class=\"cart\"></use>\n</svg>",
-      "trigger": "cart\t<svg>"
+      "trigger": "cart\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-off\" class=\"volume-off\"></use>\n</svg>",
-      "trigger": "volume-off\t<svg>"
+      "trigger": "volume-off\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#reload\" class=\"reload\"></use>\n</svg>",
-      "trigger": "reload\t<svg>"
+      "trigger": "reload\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#crop\" class=\"crop\"></use>\n</svg>",
-      "trigger": "crop\t<svg>"
+      "trigger": "crop\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#yen\" class=\"yen\"></use>\n</svg>",
-      "trigger": "yen\t<svg>"
+      "trigger": "yen\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#ellipses\" class=\"ellipses\"></use>\n</svg>",
-      "trigger": "ellipses\t<svg>"
+      "trigger": "ellipses\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#folder\" class=\"folder\"></use>\n</svg>",
-      "trigger": "folder\t<svg>"
+      "trigger": "folder\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-right\" class=\"justify-right\"></use>\n</svg>",
-      "trigger": "justify-right\t<svg>"
+      "trigger": "justify-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dashboard\" class=\"dashboard\"></use>\n</svg>",
-      "trigger": "dashboard\t<svg>"
+      "trigger": "dashboard\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#badge\" class=\"badge\"></use>\n</svg>",
-      "trigger": "badge\t<svg>"
+      "trigger": "badge\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-bottom\" class=\"vertical-align-bottom\"></use>\n</svg>",
-      "trigger": "vertical-align-bottom\t<svg>"
+      "trigger": "vertical-align-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#envelope-closed\" class=\"envelope-closed\"></use>\n</svg>",
-      "trigger": "envelope-closed\t<svg>"
+      "trigger": "envelope-closed\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#medical-cross\" class=\"medical-cross\"></use>\n</svg>",
-      "trigger": "medical-cross\t<svg>"
+      "trigger": "medical-cross\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#trash\" class=\"trash\"></use>\n</svg>",
-      "trigger": "trash\t<svg>"
+      "trigger": "trash\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#italic\" class=\"italic\"></use>\n</svg>",
-      "trigger": "italic\t<svg>"
+      "trigger": "italic\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#list-rich\" class=\"list-rich\"></use>\n</svg>",
-      "trigger": "list-rich\t<svg>"
+      "trigger": "list-rich\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#magnifying-glass\" class=\"magnifying-glass\"></use>\n</svg>",
-      "trigger": "magnifying-glass\t<svg>"
+      "trigger": "magnifying-glass\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#camera-slr\" class=\"camera-slr\"></use>\n</svg>",
-      "trigger": "camera-slr\t<svg>"
+      "trigger": "camera-slr\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#plus\" class=\"plus\"></use>\n</svg>",
-      "trigger": "plus\t<svg>"
+      "trigger": "plus\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#document\" class=\"document\"></use>\n</svg>",
-      "trigger": "document\t<svg>"
+      "trigger": "document\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#command\" class=\"command\"></use>\n</svg>",
-      "trigger": "command\t<svg>"
+      "trigger": "command\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#header\" class=\"header\"></use>\n</svg>",
-      "trigger": "header\t<svg>"
+      "trigger": "header\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-left\" class=\"chevron-left\"></use>\n</svg>",
-      "trigger": "chevron-left\t<svg>"
+      "trigger": "chevron-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-bottom\" class=\"chevron-bottom\"></use>\n</svg>",
-      "trigger": "chevron-bottom\t<svg>"
+      "trigger": "chevron-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#thumb-up\" class=\"thumb-up\"></use>\n</svg>",
-      "trigger": "thumb-up\t<svg>"
+      "trigger": "thumb-up\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#share-boxed\" class=\"share-boxed\"></use>\n</svg>",
-      "trigger": "share-boxed\t<svg>"
+      "trigger": "share-boxed\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#calculator\" class=\"calculator\"></use>\n</svg>",
-      "trigger": "calculator\t<svg>"
+      "trigger": "calculator\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#flash\" class=\"flash\"></use>\n</svg>",
-      "trigger": "flash\t<svg>"
+      "trigger": "flash\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud-upload\" class=\"cloud-upload\"></use>\n</svg>",
-      "trigger": "cloud-upload\t<svg>"
+      "trigger": "cloud-upload\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#file\" class=\"file\"></use>\n</svg>",
-      "trigger": "file\t<svg>"
+      "trigger": "file\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-top\" class=\"chevron-top\"></use>\n</svg>",
-      "trigger": "chevron-top\t<svg>"
+      "trigger": "chevron-top\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-play\" class=\"media-play\"></use>\n</svg>",
-      "trigger": "media-play\t<svg>"
+      "trigger": "media-play\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#clipboard\" class=\"clipboard\"></use>\n</svg>",
-      "trigger": "clipboard\t<svg>"
+      "trigger": "clipboard\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tablet\" class=\"tablet\"></use>\n</svg>",
-      "trigger": "tablet\t<svg>"
+      "trigger": "tablet\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#project\" class=\"project\"></use>\n</svg>",
-      "trigger": "project\t<svg>"
+      "trigger": "project\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#person\" class=\"person\"></use>\n</svg>",
-      "trigger": "person\t<svg>"
+      "trigger": "person\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#script\" class=\"script\"></use>\n</svg>",
-      "trigger": "script\t<svg>"
+      "trigger": "script\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#map\" class=\"map\"></use>\n</svg>",
-      "trigger": "map\t<svg>"
+      "trigger": "map\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-top\" class=\"vertical-align-top\"></use>\n</svg>",
-      "trigger": "vertical-align-top\t<svg>"
+      "trigger": "vertical-align-top\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sort-descending\" class=\"sort-descending\"></use>\n</svg>",
-      "trigger": "sort-descending\t<svg>"
+      "trigger": "sort-descending\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#microphone\" class=\"microphone\"></use>\n</svg>",
-      "trigger": "microphone\t<svg>"
+      "trigger": "microphone\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tags\" class=\"tags\"></use>\n</svg>",
-      "trigger": "tags\t<svg>"
+      "trigger": "tags\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#beaker\" class=\"beaker\"></use>\n</svg>",
-      "trigger": "beaker\t<svg>"
+      "trigger": "beaker\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bookmark\" class=\"bookmark\"></use>\n</svg>",
-      "trigger": "bookmark\t<svg>"
+      "trigger": "bookmark\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#elevator\" class=\"elevator\"></use>\n</svg>",
-      "trigger": "elevator\t<svg>"
+      "trigger": "elevator\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-up\" class=\"expand-up\"></use>\n</svg>",
-      "trigger": "expand-up\t<svg>"
+      "trigger": "expand-up\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-skip-backward\" class=\"media-skip-backward\"></use>\n</svg>",
-      "trigger": "media-skip-backward\t<svg>"
+      "trigger": "media-skip-backward\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-two-up\" class=\"grid-two-up\"></use>\n</svg>",
-      "trigger": "grid-two-up\t<svg>"
+      "trigger": "grid-two-up\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#box\" class=\"box\"></use>\n</svg>",
-      "trigger": "box\t<svg>"
+      "trigger": "box\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#zoom-out\" class=\"zoom-out\"></use>\n</svg>",
-      "trigger": "zoom-out\t<svg>"
+      "trigger": "zoom-out\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sun\" class=\"sun\"></use>\n</svg>",
-      "trigger": "sun\t<svg>"
+      "trigger": "sun\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#question-mark\" class=\"question-mark\"></use>\n</svg>",
-      "trigger": "question-mark\t<svg>"
+      "trigger": "question-mark\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-login\" class=\"account-login\"></use>\n</svg>",
-      "trigger": "account-login\t<svg>"
+      "trigger": "account-login\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#info\" class=\"info\"></use>\n</svg>",
-      "trigger": "info\t<svg>"
+      "trigger": "info\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-record\" class=\"media-record\"></use>\n</svg>",
-      "trigger": "media-record\t<svg>"
+      "trigger": "media-record\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-left\" class=\"arrow-thick-left\"></use>\n</svg>",
-      "trigger": "arrow-thick-left\t<svg>"
+      "trigger": "arrow-thick-left\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-right\" class=\"chevron-right\"></use>\n</svg>",
-      "trigger": "chevron-right\t<svg>"
+      "trigger": "chevron-right\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#battery-full\" class=\"battery-full\"></use>\n</svg>",
-      "trigger": "battery-full\t<svg>"
+      "trigger": "battery-full\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#video\" class=\"video\"></use>\n</svg>",
-      "trigger": "video\t<svg>"
+      "trigger": "video\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fullscreen-enter\" class=\"fullscreen-enter\"></use>\n</svg>",
-      "trigger": "fullscreen-enter\t<svg>"
+      "trigger": "fullscreen-enter\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-step-backward\" class=\"media-step-backward\"></use>\n</svg>",
-      "trigger": "media-step-backward\t<svg>"
+      "trigger": "media-step-backward\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chat\" class=\"chat\"></use>\n</svg>",
-      "trigger": "chat\t<svg>"
+      "trigger": "chat\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#musical-note\" class=\"musical-note\"></use>\n</svg>",
-      "trigger": "musical-note\t<svg>"
+      "trigger": "musical-note\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#wrench\" class=\"wrench\"></use>\n</svg>",
-      "trigger": "wrench\t<svg>"
+      "trigger": "wrench\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pulse\" class=\"pulse\"></use>\n</svg>",
-      "trigger": "pulse\t<svg>"
+      "trigger": "pulse\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-step-forward\" class=\"media-step-forward\"></use>\n</svg>",
-      "trigger": "media-step-forward\t<svg>"
+      "trigger": "media-step-forward\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lock-unlocked\" class=\"lock-unlocked\"></use>\n</svg>",
-      "trigger": "lock-unlocked\t<svg>"
+      "trigger": "lock-unlocked\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#action-redo\" class=\"action-redo\"></use>\n</svg>",
-      "trigger": "action-redo\t<svg>"
+      "trigger": "action-redo\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bar-chart\" class=\"bar-chart\"></use>\n</svg>",
-      "trigger": "bar-chart\t<svg>"
+      "trigger": "bar-chart\t<use>"
     },
     {
       "contents": "<svg class=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#credit-card\" class=\"credit-card\"></use>\n</svg>",
-      "trigger": "credit-card\t<svg>"
+      "trigger": "credit-card\t<use>"
     }
   ],
   "scope": "text.html"

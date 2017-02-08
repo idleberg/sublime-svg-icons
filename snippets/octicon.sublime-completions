@@ -3,707 +3,707 @@
   "completions": [
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-down\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-small-down\" />\n</svg>",
-      "trigger": "octicon-arrow-small-down\t<svg>"
+      "trigger": "octicon-arrow-small-down\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-modified\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#diff-modified\" />\n</svg>",
-      "trigger": "octicon-diff-modified\t<svg>"
+      "trigger": "octicon-diff-modified\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-triangle-left\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#triangle-left\" />\n</svg>",
-      "trigger": "octicon-triangle-left\t<svg>"
+      "trigger": "octicon-triangle-left\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-right\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-right\" />\n</svg>",
-      "trigger": "octicon-arrow-right\t<svg>"
+      "trigger": "octicon-arrow-right\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-radio-tower\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#radio-tower\" />\n</svg>",
-      "trigger": "octicon-radio-tower\t<svg>"
+      "trigger": "octicon-radio-tower\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-bold\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#bold\" />\n</svg>",
-      "trigger": "octicon-bold\t<svg>"
+      "trigger": "octicon-bold\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gift\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#gift\" />\n</svg>",
-      "trigger": "octicon-gift\t<svg>"
+      "trigger": "octicon-gift\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-bookmark\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#bookmark\" />\n</svg>",
-      "trigger": "octicon-bookmark\t<svg>"
+      "trigger": "octicon-bookmark\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-repo-forked\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#repo-forked\" />\n</svg>",
-      "trigger": "octicon-repo-forked\t<svg>"
+      "trigger": "octicon-repo-forked\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-milestone\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#milestone\" />\n</svg>",
-      "trigger": "octicon-milestone\t<svg>"
+      "trigger": "octicon-milestone\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"26\" height=\"32\" viewBox=\"0 0 13 16\" class=\"octicon octicon-diff\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#diff\" />\n</svg>",
-      "trigger": "octicon-diff\t<svg>"
+      "trigger": "octicon-diff\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-sign-in\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#sign-in\" />\n</svg>",
-      "trigger": "octicon-sign-in\t<svg>"
+      "trigger": "octicon-sign-in\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-hubot\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#hubot\" />\n</svg>",
-      "trigger": "octicon-hubot\t<svg>"
+      "trigger": "octicon-hubot\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-key\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#key\" />\n</svg>",
-      "trigger": "octicon-key\t<svg>"
+      "trigger": "octicon-key\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-camera\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#device-camera\" />\n</svg>",
-      "trigger": "octicon-device-camera\t<svg>"
+      "trigger": "octicon-device-camera\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-flame\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#flame\" />\n</svg>",
-      "trigger": "octicon-flame\t<svg>"
+      "trigger": "octicon-flame\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-lock\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#lock\" />\n</svg>",
-      "trigger": "octicon-lock\t<svg>"
+      "trigger": "octicon-lock\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-jersey\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#jersey\" />\n</svg>",
-      "trigger": "octicon-jersey\t<svg>"
+      "trigger": "octicon-jersey\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-removed\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#diff-removed\" />\n</svg>",
-      "trigger": "octicon-diff-removed\t<svg>"
+      "trigger": "octicon-diff-removed\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-renamed\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#diff-renamed\" />\n</svg>",
-      "trigger": "octicon-diff-renamed\t<svg>"
+      "trigger": "octicon-diff-renamed\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-home\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#home\" />\n</svg>",
-      "trigger": "octicon-home\t<svg>"
+      "trigger": "octicon-home\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file\" />\n</svg>",
-      "trigger": "octicon-file\t<svg>"
+      "trigger": "octicon-file\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-chevron-up\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#chevron-up\" />\n</svg>",
-      "trigger": "octicon-chevron-up\t<svg>"
+      "trigger": "octicon-chevron-up\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-telescope\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#telescope\" />\n</svg>",
-      "trigger": "octicon-telescope\t<svg>"
+      "trigger": "octicon-telescope\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-megaphone\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#megaphone\" />\n</svg>",
-      "trigger": "octicon-megaphone\t<svg>"
+      "trigger": "octicon-megaphone\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-ignored\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#diff-ignored\" />\n</svg>",
-      "trigger": "octicon-diff-ignored\t<svg>"
+      "trigger": "octicon-diff-ignored\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-left\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-left\" />\n</svg>",
-      "trigger": "octicon-arrow-left\t<svg>"
+      "trigger": "octicon-arrow-left\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-zip\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-zip\" />\n</svg>",
-      "trigger": "octicon-file-zip\t<svg>"
+      "trigger": "octicon-file-zip\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-symlink-directory\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-symlink-directory\" />\n</svg>",
-      "trigger": "octicon-file-symlink-directory\t<svg>"
+      "trigger": "octicon-file-symlink-directory\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-clippy\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#clippy\" />\n</svg>",
-      "trigger": "octicon-clippy\t<svg>"
+      "trigger": "octicon-clippy\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-smiley\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#smiley\" />\n</svg>",
-      "trigger": "octicon-smiley\t<svg>"
+      "trigger": "octicon-smiley\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-ellipses\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#ellipses\" />\n</svg>",
-      "trigger": "octicon-ellipses\t<svg>"
+      "trigger": "octicon-ellipses\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-octoface\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#octoface\" />\n</svg>",
-      "trigger": "octicon-octoface\t<svg>"
+      "trigger": "octicon-octoface\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-checklist\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#checklist\" />\n</svg>",
-      "trigger": "octicon-checklist\t<svg>"
+      "trigger": "octicon-checklist\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-circuit-board\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#circuit-board\" />\n</svg>",
-      "trigger": "octicon-circuit-board\t<svg>"
+      "trigger": "octicon-circuit-board\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-beaker\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#beaker\" />\n</svg>",
-      "trigger": "octicon-beaker\t<svg>"
+      "trigger": "octicon-beaker\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-thumbsdown\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#thumbsdown\" />\n</svg>",
-      "trigger": "octicon-thumbsdown\t<svg>"
+      "trigger": "octicon-thumbsdown\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-history\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#history\" />\n</svg>",
-      "trigger": "octicon-history\t<svg>"
+      "trigger": "octicon-history\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-grabber\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#grabber\" />\n</svg>",
-      "trigger": "octicon-grabber\t<svg>"
+      "trigger": "octicon-grabber\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-up\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-up\" />\n</svg>",
-      "trigger": "octicon-arrow-up\t<svg>"
+      "trigger": "octicon-arrow-up\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#repo\" />\n</svg>",
-      "trigger": "octicon-repo\t<svg>"
+      "trigger": "octicon-repo\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-keyboard\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#keyboard\" />\n</svg>",
-      "trigger": "octicon-keyboard\t<svg>"
+      "trigger": "octicon-keyboard\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-camera-video\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#device-camera-video\" />\n</svg>",
-      "trigger": "octicon-device-camera-video\t<svg>"
+      "trigger": "octicon-device-camera-video\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-mail-reply\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mail-reply\" />\n</svg>",
-      "trigger": "octicon-mail-reply\t<svg>"
+      "trigger": "octicon-mail-reply\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-pin\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#pin\" />\n</svg>",
-      "trigger": "octicon-pin\t<svg>"
+      "trigger": "octicon-pin\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-gist\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#gist\" />\n</svg>",
-      "trigger": "octicon-gist\t<svg>"
+      "trigger": "octicon-gist\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-horizontal-rule\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#horizontal-rule\" />\n</svg>",
-      "trigger": "octicon-horizontal-rule\t<svg>"
+      "trigger": "octicon-horizontal-rule\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-git-commit\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#git-commit\" />\n</svg>",
-      "trigger": "octicon-git-commit\t<svg>"
+      "trigger": "octicon-git-commit\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-clock\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#clock\" />\n</svg>",
-      "trigger": "octicon-clock\t<svg>"
+      "trigger": "octicon-clock\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-primitive-dot\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#primitive-dot\" />\n</svg>",
-      "trigger": "octicon-primitive-dot\t<svg>"
+      "trigger": "octicon-primitive-dot\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-calendar\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#calendar\" />\n</svg>",
-      "trigger": "octicon-calendar\t<svg>"
+      "trigger": "octicon-calendar\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-desktop\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#device-desktop\" />\n</svg>",
-      "trigger": "octicon-device-desktop\t<svg>"
+      "trigger": "octicon-device-desktop\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-tools\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#tools\" />\n</svg>",
-      "trigger": "octicon-tools\t<svg>"
+      "trigger": "octicon-tools\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-plug\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#plug\" />\n</svg>",
-      "trigger": "octicon-plug\t<svg>"
+      "trigger": "octicon-plug\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mute\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mute\" />\n</svg>",
-      "trigger": "octicon-mute\t<svg>"
+      "trigger": "octicon-mute\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-shield\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#shield\" />\n</svg>",
-      "trigger": "octicon-shield\t<svg>"
+      "trigger": "octicon-shield\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-plus\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#plus\" />\n</svg>",
-      "trigger": "octicon-plus\t<svg>"
+      "trigger": "octicon-plus\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-italic\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#italic\" />\n</svg>",
-      "trigger": "octicon-italic\t<svg>"
+      "trigger": "octicon-italic\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-light-bulb\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#light-bulb\" />\n</svg>",
-      "trigger": "octicon-light-bulb\t<svg>"
+      "trigger": "octicon-light-bulb\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-ellipsis\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#ellipsis\" />\n</svg>",
-      "trigger": "octicon-ellipsis\t<svg>"
+      "trigger": "octicon-ellipsis\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-broadcast\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#broadcast\" />\n</svg>",
-      "trigger": "octicon-broadcast\t<svg>"
+      "trigger": "octicon-broadcast\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mail\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mail\" />\n</svg>",
-      "trigger": "octicon-mail\t<svg>"
+      "trigger": "octicon-mail\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-link-external\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#link-external\" />\n</svg>",
-      "trigger": "octicon-link-external\t<svg>"
+      "trigger": "octicon-link-external\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-sign-out\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#sign-out\" />\n</svg>",
-      "trigger": "octicon-sign-out\t<svg>"
+      "trigger": "octicon-sign-out\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-chevron-left\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#chevron-left\" />\n</svg>",
-      "trigger": "octicon-chevron-left\t<svg>"
+      "trigger": "octicon-chevron-left\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-added\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#diff-added\" />\n</svg>",
-      "trigger": "octicon-diff-added\t<svg>"
+      "trigger": "octicon-diff-added\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-comment-discussion\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#comment-discussion\" />\n</svg>",
-      "trigger": "octicon-comment-discussion\t<svg>"
+      "trigger": "octicon-comment-discussion\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-alert\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#alert\" />\n</svg>",
-      "trigger": "octicon-alert\t<svg>"
+      "trigger": "octicon-alert\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-ruby\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#ruby\" />\n</svg>",
-      "trigger": "octicon-ruby\t<svg>"
+      "trigger": "octicon-ruby\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-comment\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#comment\" />\n</svg>",
-      "trigger": "octicon-comment\t<svg>"
+      "trigger": "octicon-comment\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-git-branch\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#git-branch\" />\n</svg>",
-      "trigger": "octicon-git-branch\t<svg>"
+      "trigger": "octicon-git-branch\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gist-secret\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#gist-secret\" />\n</svg>",
-      "trigger": "octicon-gist-secret\t<svg>"
+      "trigger": "octicon-gist-secret\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-three-bars\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#three-bars\" />\n</svg>",
-      "trigger": "octicon-three-bars\t<svg>"
+      "trigger": "octicon-three-bars\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-check\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#check\" />\n</svg>",
-      "trigger": "octicon-check\t<svg>"
+      "trigger": "octicon-check\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-bug\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#bug\" />\n</svg>",
-      "trigger": "octicon-bug\t<svg>"
+      "trigger": "octicon-bug\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-tag\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#tag\" />\n</svg>",
-      "trigger": "octicon-tag\t<svg>"
+      "trigger": "octicon-tag\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-eye\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#eye\" />\n</svg>",
-      "trigger": "octicon-eye\t<svg>"
+      "trigger": "octicon-eye\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-inbox\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#inbox\" />\n</svg>",
-      "trigger": "octicon-inbox\t<svg>"
+      "trigger": "octicon-inbox\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-right\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-small-right\" />\n</svg>",
-      "trigger": "octicon-arrow-small-right\t<svg>"
+      "trigger": "octicon-arrow-small-right\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-media\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-media\" />\n</svg>",
-      "trigger": "octicon-file-media\t<svg>"
+      "trigger": "octicon-file-media\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-info\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#info\" />\n</svg>",
-      "trigger": "octicon-info\t<svg>"
+      "trigger": "octicon-info\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-screen-full\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#screen-full\" />\n</svg>",
-      "trigger": "octicon-screen-full\t<svg>"
+      "trigger": "octicon-screen-full\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-list-ordered\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#list-ordered\" />\n</svg>",
-      "trigger": "octicon-list-ordered\t<svg>"
+      "trigger": "octicon-list-ordered\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-directory\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-directory\" />\n</svg>",
-      "trigger": "octicon-file-directory\t<svg>"
+      "trigger": "octicon-file-directory\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-organization\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#organization\" />\n</svg>",
-      "trigger": "octicon-organization\t<svg>"
+      "trigger": "octicon-organization\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-pulse\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#pulse\" />\n</svg>",
-      "trigger": "octicon-pulse\t<svg>"
+      "trigger": "octicon-pulse\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-unverified\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#unverified\" />\n</svg>",
-      "trigger": "octicon-unverified\t<svg>"
+      "trigger": "octicon-unverified\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-package\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#package\" />\n</svg>",
-      "trigger": "octicon-package\t<svg>"
+      "trigger": "octicon-package\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gear\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#gear\" />\n</svg>",
-      "trigger": "octicon-gear\t<svg>"
+      "trigger": "octicon-gear\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-chevron-down\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#chevron-down\" />\n</svg>",
-      "trigger": "octicon-chevron-down\t<svg>"
+      "trigger": "octicon-chevron-down\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-issue-closed\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#issue-closed\" />\n</svg>",
-      "trigger": "octicon-issue-closed\t<svg>"
+      "trigger": "octicon-issue-closed\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mortar-board\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mortar-board\" />\n</svg>",
-      "trigger": "octicon-mortar-board\t<svg>"
+      "trigger": "octicon-mortar-board\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-left\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-small-left\" />\n</svg>",
-      "trigger": "octicon-arrow-small-left\t<svg>"
+      "trigger": "octicon-arrow-small-left\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-search\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#search\" />\n</svg>",
-      "trigger": "octicon-search\t<svg>"
+      "trigger": "octicon-search\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-tasklist\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#tasklist\" />\n</svg>",
-      "trigger": "octicon-tasklist\t<svg>"
+      "trigger": "octicon-tasklist\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-triangle-down\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#triangle-down\" />\n</svg>",
-      "trigger": "octicon-triangle-down\t<svg>"
+      "trigger": "octicon-triangle-down\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-primitive-square\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#primitive-square\" />\n</svg>",
-      "trigger": "octicon-primitive-square\t<svg>"
+      "trigger": "octicon-primitive-square\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-unmute\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#unmute\" />\n</svg>",
-      "trigger": "octicon-unmute\t<svg>"
+      "trigger": "octicon-unmute\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-chevron-right\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#chevron-right\" />\n</svg>",
-      "trigger": "octicon-chevron-right\t<svg>"
+      "trigger": "octicon-chevron-right\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-repo-clone\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#repo-clone\" />\n</svg>",
-      "trigger": "octicon-repo-clone\t<svg>"
+      "trigger": "octicon-repo-clone\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-triangle-up\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#triangle-up\" />\n</svg>",
-      "trigger": "octicon-triangle-up\t<svg>"
+      "trigger": "octicon-triangle-up\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-unfold\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#unfold\" />\n</svg>",
-      "trigger": "octicon-unfold\t<svg>"
+      "trigger": "octicon-unfold\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-no-newline\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#no-newline\" />\n</svg>",
-      "trigger": "octicon-no-newline\t<svg>"
+      "trigger": "octicon-no-newline\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-briefcase\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#briefcase\" />\n</svg>",
-      "trigger": "octicon-briefcase\t<svg>"
+      "trigger": "octicon-briefcase\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-git-merge\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#git-merge\" />\n</svg>",
-      "trigger": "octicon-git-merge\t<svg>"
+      "trigger": "octicon-git-merge\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-submodule\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-submodule\" />\n</svg>",
-      "trigger": "octicon-file-submodule\t<svg>"
+      "trigger": "octicon-file-submodule\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-browser\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#browser\" />\n</svg>",
-      "trigger": "octicon-browser\t<svg>"
+      "trigger": "octicon-browser\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-stop\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#stop\" />\n</svg>",
-      "trigger": "octicon-stop\t<svg>"
+      "trigger": "octicon-stop\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-code\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#code\" />\n</svg>",
-      "trigger": "octicon-code\t<svg>"
+      "trigger": "octicon-code\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-terminal\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#terminal\" />\n</svg>",
-      "trigger": "octicon-terminal\t<svg>"
+      "trigger": "octicon-terminal\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-fold\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#fold\" />\n</svg>",
-      "trigger": "octicon-fold\t<svg>"
+      "trigger": "octicon-fold\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"90\" height=\"32\" viewBox=\"0 0 45 16\" class=\"octicon octicon-logo-github\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#logo-github\" />\n</svg>",
-      "trigger": "octicon-logo-github\t<svg>"
+      "trigger": "octicon-logo-github\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-triangle-right\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#triangle-right\" />\n</svg>",
-      "trigger": "octicon-triangle-right\t<svg>"
+      "trigger": "octicon-triangle-right\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-reply\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#reply\" />\n</svg>",
-      "trigger": "octicon-reply\t<svg>"
+      "trigger": "octicon-reply\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-server\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#server\" />\n</svg>",
-      "trigger": "octicon-server\t<svg>"
+      "trigger": "octicon-server\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"36\" height=\"32\" viewBox=\"0 0 18 16\" class=\"octicon octicon-text-size\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#text-size\" />\n</svg>",
-      "trigger": "octicon-text-size\t<svg>"
+      "trigger": "octicon-text-size\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-book\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#book\" />\n</svg>",
-      "trigger": "octicon-book\t<svg>"
+      "trigger": "octicon-book\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-dash\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#dash\" />\n</svg>",
-      "trigger": "octicon-dash\t<svg>"
+      "trigger": "octicon-dash\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-settings\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#settings\" />\n</svg>",
-      "trigger": "octicon-settings\t<svg>"
+      "trigger": "octicon-settings\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-verified\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#verified\" />\n</svg>",
-      "trigger": "octicon-verified\t<svg>"
+      "trigger": "octicon-verified\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-dashboard\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#dashboard\" />\n</svg>",
-      "trigger": "octicon-dashboard\t<svg>"
+      "trigger": "octicon-dashboard\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-x\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#x\" />\n</svg>",
-      "trigger": "octicon-x\t<svg>"
+      "trigger": "octicon-x\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-cloud-upload\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#cloud-upload\" />\n</svg>",
-      "trigger": "octicon-cloud-upload\t<svg>"
+      "trigger": "octicon-cloud-upload\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-symlink-file\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-symlink-file\" />\n</svg>",
-      "trigger": "octicon-file-symlink-file\t<svg>"
+      "trigger": "octicon-file-symlink-file\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mention\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mention\" />\n</svg>",
-      "trigger": "octicon-mention\t<svg>"
+      "trigger": "octicon-mention\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-link\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#link\" />\n</svg>",
-      "trigger": "octicon-link\t<svg>"
+      "trigger": "octicon-link\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-cloud-download\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#cloud-download\" />\n</svg>",
-      "trigger": "octicon-cloud-download\t<svg>"
+      "trigger": "octicon-cloud-download\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-zap\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#zap\" />\n</svg>",
-      "trigger": "octicon-zap\t<svg>"
+      "trigger": "octicon-zap\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-text\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-text\" />\n</svg>",
-      "trigger": "octicon-file-text\t<svg>"
+      "trigger": "octicon-file-text\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"50\" height=\"32\" viewBox=\"0 0 25 16\" class=\"octicon octicon-logo-gist\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#logo-gist\" />\n</svg>",
-      "trigger": "octicon-logo-gist\t<svg>"
+      "trigger": "octicon-logo-gist\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mail-read\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mail-read\" />\n</svg>",
-      "trigger": "octicon-mail-read\t<svg>"
+      "trigger": "octicon-mail-read\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-issue-reopened\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#issue-reopened\" />\n</svg>",
-      "trigger": "octicon-issue-reopened\t<svg>"
+      "trigger": "octicon-issue-reopened\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-up\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-small-up\" />\n</svg>",
-      "trigger": "octicon-arrow-small-up\t<svg>"
+      "trigger": "octicon-arrow-small-up\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-list-unordered\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#list-unordered\" />\n</svg>",
-      "trigger": "octicon-list-unordered\t<svg>"
+      "trigger": "octicon-list-unordered\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-code\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-code\" />\n</svg>",
-      "trigger": "octicon-file-code\t<svg>"
+      "trigger": "octicon-file-code\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-database\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#database\" />\n</svg>",
-      "trigger": "octicon-database\t<svg>"
+      "trigger": "octicon-database\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-star\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#star\" />\n</svg>",
-      "trigger": "octicon-star\t<svg>"
+      "trigger": "octicon-star\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-globe\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#globe\" />\n</svg>",
-      "trigger": "octicon-globe\t<svg>"
+      "trigger": "octicon-globe\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-pencil\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#pencil\" />\n</svg>",
-      "trigger": "octicon-pencil\t<svg>"
+      "trigger": "octicon-pencil\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-thumbsup\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#thumbsup\" />\n</svg>",
-      "trigger": "octicon-thumbsup\t<svg>"
+      "trigger": "octicon-thumbsup\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-versions\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#versions\" />\n</svg>",
-      "trigger": "octicon-versions\t<svg>"
+      "trigger": "octicon-versions\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-note\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#note\" />\n</svg>",
-      "trigger": "octicon-note\t<svg>"
+      "trigger": "octicon-note\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-screen-normal\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#screen-normal\" />\n</svg>",
-      "trigger": "octicon-screen-normal\t<svg>"
+      "trigger": "octicon-screen-normal\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-circle-slash\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#circle-slash\" />\n</svg>",
-      "trigger": "octicon-circle-slash\t<svg>"
+      "trigger": "octicon-circle-slash\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-graph\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#graph\" />\n</svg>",
-      "trigger": "octicon-graph\t<svg>"
+      "trigger": "octicon-graph\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-sync\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#sync\" />\n</svg>",
-      "trigger": "octicon-sync\t<svg>"
+      "trigger": "octicon-sync\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-heart\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#heart\" />\n</svg>",
-      "trigger": "octicon-heart\t<svg>"
+      "trigger": "octicon-heart\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-binary\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-binary\" />\n</svg>",
-      "trigger": "octicon-file-binary\t<svg>"
+      "trigger": "octicon-file-binary\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-law\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#law\" />\n</svg>",
-      "trigger": "octicon-law\t<svg>"
+      "trigger": "octicon-law\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-credit-card\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#credit-card\" />\n</svg>",
-      "trigger": "octicon-credit-card\t<svg>"
+      "trigger": "octicon-credit-card\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-question\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#question\" />\n</svg>",
-      "trigger": "octicon-question\t<svg>"
+      "trigger": "octicon-question\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo-push\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#repo-push\" />\n</svg>",
-      "trigger": "octicon-repo-push\t<svg>"
+      "trigger": "octicon-repo-push\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"14\" height=\"32\" viewBox=\"0 0 7 16\" class=\"octicon octicon-plus-small\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#plus-small\" />\n</svg>",
-      "trigger": "octicon-plus-small\t<svg>"
+      "trigger": "octicon-plus-small\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-quote\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#quote\" />\n</svg>",
-      "trigger": "octicon-quote\t<svg>"
+      "trigger": "octicon-quote\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-watch\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#watch\" />\n</svg>",
-      "trigger": "octicon-watch\t<svg>"
+      "trigger": "octicon-watch\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-rss\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#rss\" />\n</svg>",
-      "trigger": "octicon-rss\t<svg>"
+      "trigger": "octicon-rss\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-paintcan\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#paintcan\" />\n</svg>",
-      "trigger": "octicon-paintcan\t<svg>"
+      "trigger": "octicon-paintcan\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-markdown\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#markdown\" />\n</svg>",
-      "trigger": "octicon-markdown\t<svg>"
+      "trigger": "octicon-markdown\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-person\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#person\" />\n</svg>",
-      "trigger": "octicon-person\t<svg>"
+      "trigger": "octicon-person\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-rocket\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#rocket\" />\n</svg>",
-      "trigger": "octicon-rocket\t<svg>"
+      "trigger": "octicon-rocket\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mirror\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mirror\" />\n</svg>",
-      "trigger": "octicon-mirror\t<svg>"
+      "trigger": "octicon-mirror\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-trashcan\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#trashcan\" />\n</svg>",
-      "trigger": "octicon-trashcan\t<svg>"
+      "trigger": "octicon-trashcan\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-desktop-download\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#desktop-download\" />\n</svg>",
-      "trigger": "octicon-desktop-download\t<svg>"
+      "trigger": "octicon-desktop-download\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-repo-pull\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#repo-pull\" />\n</svg>",
-      "trigger": "octicon-repo-pull\t<svg>"
+      "trigger": "octicon-repo-pull\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mark-github\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#mark-github\" />\n</svg>",
-      "trigger": "octicon-mark-github\t<svg>"
+      "trigger": "octicon-mark-github\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-location\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#location\" />\n</svg>",
-      "trigger": "octicon-location\t<svg>"
+      "trigger": "octicon-location\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-issue-opened\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#issue-opened\" />\n</svg>",
-      "trigger": "octicon-issue-opened\t<svg>"
+      "trigger": "octicon-issue-opened\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-pdf\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#file-pdf\" />\n</svg>",
-      "trigger": "octicon-file-pdf\t<svg>"
+      "trigger": "octicon-file-pdf\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"30\" height=\"32\" viewBox=\"0 0 15 16\" class=\"octicon octicon-project\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#project\" />\n</svg>",
-      "trigger": "octicon-project\t<svg>"
+      "trigger": "octicon-project\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo-force-push\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#repo-force-push\" />\n</svg>",
-      "trigger": "octicon-repo-force-push\t<svg>"
+      "trigger": "octicon-repo-force-push\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-down\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#arrow-down\" />\n</svg>",
-      "trigger": "octicon-arrow-down\t<svg>"
+      "trigger": "octicon-arrow-down\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-git-pull-request\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#git-pull-request\" />\n</svg>",
-      "trigger": "octicon-git-pull-request\t<svg>"
+      "trigger": "octicon-git-pull-request\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-bell\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#bell\" />\n</svg>",
-      "trigger": "octicon-bell\t<svg>"
+      "trigger": "octicon-bell\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-squirrel\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#squirrel\" />\n</svg>",
-      "trigger": "octicon-squirrel\t<svg>"
+      "trigger": "octicon-squirrel\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-device-mobile\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#device-mobile\" />\n</svg>",
-      "trigger": "octicon-device-mobile\t<svg>"
+      "trigger": "octicon-device-mobile\t<use>"
     },
     {
       "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-git-compare\" aria-hidden=\"true\">\n\t<use xlink:href=\"$1#git-compare\" />\n</svg>",
-      "trigger": "octicon-git-compare\t<svg>"
+      "trigger": "octicon-git-compare\t<use>"
     }
   ],
   "scope": "text.html"

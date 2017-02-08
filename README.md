@@ -1,7 +1,7 @@
 # sublime-svg-icons
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/Icon%20Fonts%20%28Legacy%29.svg?style=flat-square)](https://packagecontrol.io/packages/Icon%20Fonts%20%28Legacy%29)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/SVG%20Icon%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Icon%20Fonts%20%28Legacy%29)
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-svg-icons.svg?style=flat-square)](https://github.com/idleberg/sublime-svg-icons/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-svg-icons.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-svg-icons)
 

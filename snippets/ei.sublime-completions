@@ -1,0 +1,286 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<div data-icon=\"ei-envelope\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-envelope\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-play\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-play\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-lock\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-lock\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-soundcloud\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-soundcloud\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-trash\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-trash\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-gear\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-gear\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-image\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-image\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-external-link\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-external-link\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-facebook\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-facebook\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-comment\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-comment\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-undo\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-undo\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-question\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-question\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-location\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-location\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-link\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-link\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-odnoklassniki\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-odnoklassniki\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-close\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-close\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-retweet\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-retweet\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-share-google\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-share-google\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-youtube\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-youtube\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-vimeo\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-vimeo\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-paperclip\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-paperclip\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-github\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-github\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-bell\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-bell\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-chart\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-chart\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-camera\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-camera\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-minus\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-minus\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-refresh\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-refresh\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-like\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-like\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-user\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-user\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-clock\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-clock\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-unlock\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-unlock\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-linkedin\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-linkedin\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-spinner-3\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-spinner-3\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-instagram\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-instagram\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-twitter\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-twitter\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-vk\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-vk\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-redo\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-redo\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-archive\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-archive\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-search\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-search\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-spinner-2\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-spinner-2\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-arrow-left\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-arrow-left\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-chevron-down\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-chevron-down\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-plus\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-plus\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-telegram\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-telegram\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-google-plus\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-google-plus\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-star\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-star\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-chevron-right\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-chevron-right\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-tumblr\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-tumblr\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-spinner\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-spinner\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-skype\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-skype\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-credit-card\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-credit-card\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-calendar\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-calendar\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-trophy\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-trophy\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-pencil\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-pencil\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-arrow-down\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-arrow-down\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-sc-pinterest\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-sc-pinterest\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-pointer\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-pointer\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-heart\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-heart\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-close-o\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-close-o\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-arrow-right\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-arrow-right\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-eye\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-eye\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-arrow-up\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-arrow-up\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-exclamation\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-exclamation\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-tag\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-tag\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-check\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-check\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-share-apple\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-share-apple\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-navicon\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-navicon\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-chevron-left\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-chevron-left\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-cart\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-cart\t<div data-icon>"
+    },
+    {
+      "contents": "<div data-icon=\"ei-chevron-up\"${1: data-size=\"${2:s|m|l}}\"$3></div>",
+      "trigger": "ei-chevron-up\t<div data-icon>"
+    }
+  ],
+  "scope": "text.html"
+}

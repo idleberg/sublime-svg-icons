@@ -1,0 +1,710 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-down\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-down\" /></svg>",
+      "trigger": "octicon-arrow-small-down\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-modified\" aria-hidden=\"true\"><use xlink:href=\"#diff-modified\" /></svg>",
+      "trigger": "octicon-diff-modified\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-triangle-left\" aria-hidden=\"true\"><use xlink:href=\"#triangle-left\" /></svg>",
+      "trigger": "octicon-triangle-left\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-right\" aria-hidden=\"true\"><use xlink:href=\"#arrow-right\" /></svg>",
+      "trigger": "octicon-arrow-right\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-radio-tower\" aria-hidden=\"true\"><use xlink:href=\"#radio-tower\" /></svg>",
+      "trigger": "octicon-radio-tower\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-bold\" aria-hidden=\"true\"><use xlink:href=\"#bold\" /></svg>",
+      "trigger": "octicon-bold\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gift\" aria-hidden=\"true\"><use xlink:href=\"#gift\" /></svg>",
+      "trigger": "octicon-gift\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-bookmark\" aria-hidden=\"true\"><use xlink:href=\"#bookmark\" /></svg>",
+      "trigger": "octicon-bookmark\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-repo-forked\" aria-hidden=\"true\"><use xlink:href=\"#repo-forked\" /></svg>",
+      "trigger": "octicon-repo-forked\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-milestone\" aria-hidden=\"true\"><use xlink:href=\"#milestone\" /></svg>",
+      "trigger": "octicon-milestone\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"26\" height=\"32\" viewBox=\"0 0 13 16\" class=\"octicon octicon-diff\" aria-hidden=\"true\"><use xlink:href=\"#diff\" /></svg>",
+      "trigger": "octicon-diff\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-sign-in\" aria-hidden=\"true\"><use xlink:href=\"#sign-in\" /></svg>",
+      "trigger": "octicon-sign-in\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-hubot\" aria-hidden=\"true\"><use xlink:href=\"#hubot\" /></svg>",
+      "trigger": "octicon-hubot\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-key\" aria-hidden=\"true\"><use xlink:href=\"#key\" /></svg>",
+      "trigger": "octicon-key\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-camera\" aria-hidden=\"true\"><use xlink:href=\"#device-camera\" /></svg>",
+      "trigger": "octicon-device-camera\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-flame\" aria-hidden=\"true\"><use xlink:href=\"#flame\" /></svg>",
+      "trigger": "octicon-flame\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-lock\" aria-hidden=\"true\"><use xlink:href=\"#lock\" /></svg>",
+      "trigger": "octicon-lock\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-jersey\" aria-hidden=\"true\"><use xlink:href=\"#jersey\" /></svg>",
+      "trigger": "octicon-jersey\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-removed\" aria-hidden=\"true\"><use xlink:href=\"#diff-removed\" /></svg>",
+      "trigger": "octicon-diff-removed\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-renamed\" aria-hidden=\"true\"><use xlink:href=\"#diff-renamed\" /></svg>",
+      "trigger": "octicon-diff-renamed\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-home\" aria-hidden=\"true\"><use xlink:href=\"#home\" /></svg>",
+      "trigger": "octicon-home\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file\" aria-hidden=\"true\"><use xlink:href=\"#file\" /></svg>",
+      "trigger": "octicon-file\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-chevron-up\" aria-hidden=\"true\"><use xlink:href=\"#chevron-up\" /></svg>",
+      "trigger": "octicon-chevron-up\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-telescope\" aria-hidden=\"true\"><use xlink:href=\"#telescope\" /></svg>",
+      "trigger": "octicon-telescope\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-megaphone\" aria-hidden=\"true\"><use xlink:href=\"#megaphone\" /></svg>",
+      "trigger": "octicon-megaphone\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-ignored\" aria-hidden=\"true\"><use xlink:href=\"#diff-ignored\" /></svg>",
+      "trigger": "octicon-diff-ignored\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-left\" aria-hidden=\"true\"><use xlink:href=\"#arrow-left\" /></svg>",
+      "trigger": "octicon-arrow-left\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-zip\" aria-hidden=\"true\"><use xlink:href=\"#file-zip\" /></svg>",
+      "trigger": "octicon-file-zip\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-symlink-directory\" aria-hidden=\"true\"><use xlink:href=\"#file-symlink-directory\" /></svg>",
+      "trigger": "octicon-file-symlink-directory\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-clippy\" aria-hidden=\"true\"><use xlink:href=\"#clippy\" /></svg>",
+      "trigger": "octicon-clippy\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-smiley\" aria-hidden=\"true\"><use xlink:href=\"#smiley\" /></svg>",
+      "trigger": "octicon-smiley\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-ellipses\" aria-hidden=\"true\"><use xlink:href=\"#ellipses\" /></svg>",
+      "trigger": "octicon-ellipses\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-octoface\" aria-hidden=\"true\"><use xlink:href=\"#octoface\" /></svg>",
+      "trigger": "octicon-octoface\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-checklist\" aria-hidden=\"true\"><use xlink:href=\"#checklist\" /></svg>",
+      "trigger": "octicon-checklist\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-circuit-board\" aria-hidden=\"true\"><use xlink:href=\"#circuit-board\" /></svg>",
+      "trigger": "octicon-circuit-board\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-beaker\" aria-hidden=\"true\"><use xlink:href=\"#beaker\" /></svg>",
+      "trigger": "octicon-beaker\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-thumbsdown\" aria-hidden=\"true\"><use xlink:href=\"#thumbsdown\" /></svg>",
+      "trigger": "octicon-thumbsdown\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-history\" aria-hidden=\"true\"><use xlink:href=\"#history\" /></svg>",
+      "trigger": "octicon-history\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-grabber\" aria-hidden=\"true\"><use xlink:href=\"#grabber\" /></svg>",
+      "trigger": "octicon-grabber\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-up\" aria-hidden=\"true\"><use xlink:href=\"#arrow-up\" /></svg>",
+      "trigger": "octicon-arrow-up\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo\" aria-hidden=\"true\"><use xlink:href=\"#repo\" /></svg>",
+      "trigger": "octicon-repo\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-keyboard\" aria-hidden=\"true\"><use xlink:href=\"#keyboard\" /></svg>",
+      "trigger": "octicon-keyboard\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-camera-video\" aria-hidden=\"true\"><use xlink:href=\"#device-camera-video\" /></svg>",
+      "trigger": "octicon-device-camera-video\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-mail-reply\" aria-hidden=\"true\"><use xlink:href=\"#mail-reply\" /></svg>",
+      "trigger": "octicon-mail-reply\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-pin\" aria-hidden=\"true\"><use xlink:href=\"#pin\" /></svg>",
+      "trigger": "octicon-pin\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-gist\" aria-hidden=\"true\"><use xlink:href=\"#gist\" /></svg>",
+      "trigger": "octicon-gist\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-horizontal-rule\" aria-hidden=\"true\"><use xlink:href=\"#horizontal-rule\" /></svg>",
+      "trigger": "octicon-horizontal-rule\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-git-commit\" aria-hidden=\"true\"><use xlink:href=\"#git-commit\" /></svg>",
+      "trigger": "octicon-git-commit\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-clock\" aria-hidden=\"true\"><use xlink:href=\"#clock\" /></svg>",
+      "trigger": "octicon-clock\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-primitive-dot\" aria-hidden=\"true\"><use xlink:href=\"#primitive-dot\" /></svg>",
+      "trigger": "octicon-primitive-dot\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-calendar\" aria-hidden=\"true\"><use xlink:href=\"#calendar\" /></svg>",
+      "trigger": "octicon-calendar\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-device-desktop\" aria-hidden=\"true\"><use xlink:href=\"#device-desktop\" /></svg>",
+      "trigger": "octicon-device-desktop\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-tools\" aria-hidden=\"true\"><use xlink:href=\"#tools\" /></svg>",
+      "trigger": "octicon-tools\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-plug\" aria-hidden=\"true\"><use xlink:href=\"#plug\" /></svg>",
+      "trigger": "octicon-plug\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mute\" aria-hidden=\"true\"><use xlink:href=\"#mute\" /></svg>",
+      "trigger": "octicon-mute\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-shield\" aria-hidden=\"true\"><use xlink:href=\"#shield\" /></svg>",
+      "trigger": "octicon-shield\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-plus\" aria-hidden=\"true\"><use xlink:href=\"#plus\" /></svg>",
+      "trigger": "octicon-plus\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-italic\" aria-hidden=\"true\"><use xlink:href=\"#italic\" /></svg>",
+      "trigger": "octicon-italic\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-light-bulb\" aria-hidden=\"true\"><use xlink:href=\"#light-bulb\" /></svg>",
+      "trigger": "octicon-light-bulb\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-ellipsis\" aria-hidden=\"true\"><use xlink:href=\"#ellipsis\" /></svg>",
+      "trigger": "octicon-ellipsis\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-broadcast\" aria-hidden=\"true\"><use xlink:href=\"#broadcast\" /></svg>",
+      "trigger": "octicon-broadcast\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mail\" aria-hidden=\"true\"><use xlink:href=\"#mail\" /></svg>",
+      "trigger": "octicon-mail\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-link-external\" aria-hidden=\"true\"><use xlink:href=\"#link-external\" /></svg>",
+      "trigger": "octicon-link-external\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-sign-out\" aria-hidden=\"true\"><use xlink:href=\"#sign-out\" /></svg>",
+      "trigger": "octicon-sign-out\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-chevron-left\" aria-hidden=\"true\"><use xlink:href=\"#chevron-left\" /></svg>",
+      "trigger": "octicon-chevron-left\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-diff-added\" aria-hidden=\"true\"><use xlink:href=\"#diff-added\" /></svg>",
+      "trigger": "octicon-diff-added\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-comment-discussion\" aria-hidden=\"true\"><use xlink:href=\"#comment-discussion\" /></svg>",
+      "trigger": "octicon-comment-discussion\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-alert\" aria-hidden=\"true\"><use xlink:href=\"#alert\" /></svg>",
+      "trigger": "octicon-alert\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-ruby\" aria-hidden=\"true\"><use xlink:href=\"#ruby\" /></svg>",
+      "trigger": "octicon-ruby\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-comment\" aria-hidden=\"true\"><use xlink:href=\"#comment\" /></svg>",
+      "trigger": "octicon-comment\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-git-branch\" aria-hidden=\"true\"><use xlink:href=\"#git-branch\" /></svg>",
+      "trigger": "octicon-git-branch\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gist-secret\" aria-hidden=\"true\"><use xlink:href=\"#gist-secret\" /></svg>",
+      "trigger": "octicon-gist-secret\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-three-bars\" aria-hidden=\"true\"><use xlink:href=\"#three-bars\" /></svg>",
+      "trigger": "octicon-three-bars\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-check\" aria-hidden=\"true\"><use xlink:href=\"#check\" /></svg>",
+      "trigger": "octicon-check\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-bug\" aria-hidden=\"true\"><use xlink:href=\"#bug\" /></svg>",
+      "trigger": "octicon-bug\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-tag\" aria-hidden=\"true\"><use xlink:href=\"#tag\" /></svg>",
+      "trigger": "octicon-tag\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-eye\" aria-hidden=\"true\"><use xlink:href=\"#eye\" /></svg>",
+      "trigger": "octicon-eye\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-inbox\" aria-hidden=\"true\"><use xlink:href=\"#inbox\" /></svg>",
+      "trigger": "octicon-inbox\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-right\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-right\" /></svg>",
+      "trigger": "octicon-arrow-small-right\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-media\" aria-hidden=\"true\"><use xlink:href=\"#file-media\" /></svg>",
+      "trigger": "octicon-file-media\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-info\" aria-hidden=\"true\"><use xlink:href=\"#info\" /></svg>",
+      "trigger": "octicon-info\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-screen-full\" aria-hidden=\"true\"><use xlink:href=\"#screen-full\" /></svg>",
+      "trigger": "octicon-screen-full\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-list-ordered\" aria-hidden=\"true\"><use xlink:href=\"#list-ordered\" /></svg>",
+      "trigger": "octicon-list-ordered\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-directory\" aria-hidden=\"true\"><use xlink:href=\"#file-directory\" /></svg>",
+      "trigger": "octicon-file-directory\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-organization\" aria-hidden=\"true\"><use xlink:href=\"#organization\" /></svg>",
+      "trigger": "octicon-organization\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-pulse\" aria-hidden=\"true\"><use xlink:href=\"#pulse\" /></svg>",
+      "trigger": "octicon-pulse\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-unverified\" aria-hidden=\"true\"><use xlink:href=\"#unverified\" /></svg>",
+      "trigger": "octicon-unverified\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-package\" aria-hidden=\"true\"><use xlink:href=\"#package\" /></svg>",
+      "trigger": "octicon-package\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-gear\" aria-hidden=\"true\"><use xlink:href=\"#gear\" /></svg>",
+      "trigger": "octicon-gear\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-chevron-down\" aria-hidden=\"true\"><use xlink:href=\"#chevron-down\" /></svg>",
+      "trigger": "octicon-chevron-down\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-issue-closed\" aria-hidden=\"true\"><use xlink:href=\"#issue-closed\" /></svg>",
+      "trigger": "octicon-issue-closed\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mortar-board\" aria-hidden=\"true\"><use xlink:href=\"#mortar-board\" /></svg>",
+      "trigger": "octicon-mortar-board\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-left\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-left\" /></svg>",
+      "trigger": "octicon-arrow-small-left\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-search\" aria-hidden=\"true\"><use xlink:href=\"#search\" /></svg>",
+      "trigger": "octicon-search\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-tasklist\" aria-hidden=\"true\"><use xlink:href=\"#tasklist\" /></svg>",
+      "trigger": "octicon-tasklist\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-triangle-down\" aria-hidden=\"true\"><use xlink:href=\"#triangle-down\" /></svg>",
+      "trigger": "octicon-triangle-down\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-primitive-square\" aria-hidden=\"true\"><use xlink:href=\"#primitive-square\" /></svg>",
+      "trigger": "octicon-primitive-square\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-unmute\" aria-hidden=\"true\"><use xlink:href=\"#unmute\" /></svg>",
+      "trigger": "octicon-unmute\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-chevron-right\" aria-hidden=\"true\"><use xlink:href=\"#chevron-right\" /></svg>",
+      "trigger": "octicon-chevron-right\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-repo-clone\" aria-hidden=\"true\"><use xlink:href=\"#repo-clone\" /></svg>",
+      "trigger": "octicon-repo-clone\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-triangle-up\" aria-hidden=\"true\"><use xlink:href=\"#triangle-up\" /></svg>",
+      "trigger": "octicon-triangle-up\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-unfold\" aria-hidden=\"true\"><use xlink:href=\"#unfold\" /></svg>",
+      "trigger": "octicon-unfold\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-no-newline\" aria-hidden=\"true\"><use xlink:href=\"#no-newline\" /></svg>",
+      "trigger": "octicon-no-newline\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-briefcase\" aria-hidden=\"true\"><use xlink:href=\"#briefcase\" /></svg>",
+      "trigger": "octicon-briefcase\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-git-merge\" aria-hidden=\"true\"><use xlink:href=\"#git-merge\" /></svg>",
+      "trigger": "octicon-git-merge\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-file-submodule\" aria-hidden=\"true\"><use xlink:href=\"#file-submodule\" /></svg>",
+      "trigger": "octicon-file-submodule\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-browser\" aria-hidden=\"true\"><use xlink:href=\"#browser\" /></svg>",
+      "trigger": "octicon-browser\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-stop\" aria-hidden=\"true\"><use xlink:href=\"#stop\" /></svg>",
+      "trigger": "octicon-stop\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-code\" aria-hidden=\"true\"><use xlink:href=\"#code\" /></svg>",
+      "trigger": "octicon-code\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-terminal\" aria-hidden=\"true\"><use xlink:href=\"#terminal\" /></svg>",
+      "trigger": "octicon-terminal\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-fold\" aria-hidden=\"true\"><use xlink:href=\"#fold\" /></svg>",
+      "trigger": "octicon-fold\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"90\" height=\"32\" viewBox=\"0 0 45 16\" class=\"octicon octicon-logo-github\" aria-hidden=\"true\"><use xlink:href=\"#logo-github\" /></svg>",
+      "trigger": "octicon-logo-github\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-triangle-right\" aria-hidden=\"true\"><use xlink:href=\"#triangle-right\" /></svg>",
+      "trigger": "octicon-triangle-right\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-reply\" aria-hidden=\"true\"><use xlink:href=\"#reply\" /></svg>",
+      "trigger": "octicon-reply\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-server\" aria-hidden=\"true\"><use xlink:href=\"#server\" /></svg>",
+      "trigger": "octicon-server\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"36\" height=\"32\" viewBox=\"0 0 18 16\" class=\"octicon octicon-text-size\" aria-hidden=\"true\"><use xlink:href=\"#text-size\" /></svg>",
+      "trigger": "octicon-text-size\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-book\" aria-hidden=\"true\"><use xlink:href=\"#book\" /></svg>",
+      "trigger": "octicon-book\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"16\" height=\"32\" viewBox=\"0 0 8 16\" class=\"octicon octicon-dash\" aria-hidden=\"true\"><use xlink:href=\"#dash\" /></svg>",
+      "trigger": "octicon-dash\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-settings\" aria-hidden=\"true\"><use xlink:href=\"#settings\" /></svg>",
+      "trigger": "octicon-settings\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-verified\" aria-hidden=\"true\"><use xlink:href=\"#verified\" /></svg>",
+      "trigger": "octicon-verified\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-dashboard\" aria-hidden=\"true\"><use xlink:href=\"#dashboard\" /></svg>",
+      "trigger": "octicon-dashboard\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-x\" aria-hidden=\"true\"><use xlink:href=\"#x\" /></svg>",
+      "trigger": "octicon-x\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-cloud-upload\" aria-hidden=\"true\"><use xlink:href=\"#cloud-upload\" /></svg>",
+      "trigger": "octicon-cloud-upload\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-symlink-file\" aria-hidden=\"true\"><use xlink:href=\"#file-symlink-file\" /></svg>",
+      "trigger": "octicon-file-symlink-file\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mention\" aria-hidden=\"true\"><use xlink:href=\"#mention\" /></svg>",
+      "trigger": "octicon-mention\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-link\" aria-hidden=\"true\"><use xlink:href=\"#link\" /></svg>",
+      "trigger": "octicon-link\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-cloud-download\" aria-hidden=\"true\"><use xlink:href=\"#cloud-download\" /></svg>",
+      "trigger": "octicon-cloud-download\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-zap\" aria-hidden=\"true\"><use xlink:href=\"#zap\" /></svg>",
+      "trigger": "octicon-zap\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-text\" aria-hidden=\"true\"><use xlink:href=\"#file-text\" /></svg>",
+      "trigger": "octicon-file-text\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"50\" height=\"32\" viewBox=\"0 0 25 16\" class=\"octicon octicon-logo-gist\" aria-hidden=\"true\"><use xlink:href=\"#logo-gist\" /></svg>",
+      "trigger": "octicon-logo-gist\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-mail-read\" aria-hidden=\"true\"><use xlink:href=\"#mail-read\" /></svg>",
+      "trigger": "octicon-mail-read\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-issue-reopened\" aria-hidden=\"true\"><use xlink:href=\"#issue-reopened\" /></svg>",
+      "trigger": "octicon-issue-reopened\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"12\" height=\"32\" viewBox=\"0 0 6 16\" class=\"octicon octicon-arrow-small-up\" aria-hidden=\"true\"><use xlink:href=\"#arrow-small-up\" /></svg>",
+      "trigger": "octicon-arrow-small-up\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-list-unordered\" aria-hidden=\"true\"><use xlink:href=\"#list-unordered\" /></svg>",
+      "trigger": "octicon-list-unordered\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-code\" aria-hidden=\"true\"><use xlink:href=\"#file-code\" /></svg>",
+      "trigger": "octicon-file-code\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-database\" aria-hidden=\"true\"><use xlink:href=\"#database\" /></svg>",
+      "trigger": "octicon-database\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-star\" aria-hidden=\"true\"><use xlink:href=\"#star\" /></svg>",
+      "trigger": "octicon-star\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-globe\" aria-hidden=\"true\"><use xlink:href=\"#globe\" /></svg>",
+      "trigger": "octicon-globe\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-pencil\" aria-hidden=\"true\"><use xlink:href=\"#pencil\" /></svg>",
+      "trigger": "octicon-pencil\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-thumbsup\" aria-hidden=\"true\"><use xlink:href=\"#thumbsup\" /></svg>",
+      "trigger": "octicon-thumbsup\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-versions\" aria-hidden=\"true\"><use xlink:href=\"#versions\" /></svg>",
+      "trigger": "octicon-versions\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-note\" aria-hidden=\"true\"><use xlink:href=\"#note\" /></svg>",
+      "trigger": "octicon-note\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-screen-normal\" aria-hidden=\"true\"><use xlink:href=\"#screen-normal\" /></svg>",
+      "trigger": "octicon-screen-normal\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-circle-slash\" aria-hidden=\"true\"><use xlink:href=\"#circle-slash\" /></svg>",
+      "trigger": "octicon-circle-slash\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-graph\" aria-hidden=\"true\"><use xlink:href=\"#graph\" /></svg>",
+      "trigger": "octicon-graph\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-sync\" aria-hidden=\"true\"><use xlink:href=\"#sync\" /></svg>",
+      "trigger": "octicon-sync\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-heart\" aria-hidden=\"true\"><use xlink:href=\"#heart\" /></svg>",
+      "trigger": "octicon-heart\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-binary\" aria-hidden=\"true\"><use xlink:href=\"#file-binary\" /></svg>",
+      "trigger": "octicon-file-binary\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-law\" aria-hidden=\"true\"><use xlink:href=\"#law\" /></svg>",
+      "trigger": "octicon-law\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-credit-card\" aria-hidden=\"true\"><use xlink:href=\"#credit-card\" /></svg>",
+      "trigger": "octicon-credit-card\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-question\" aria-hidden=\"true\"><use xlink:href=\"#question\" /></svg>",
+      "trigger": "octicon-question\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo-push\" aria-hidden=\"true\"><use xlink:href=\"#repo-push\" /></svg>",
+      "trigger": "octicon-repo-push\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"14\" height=\"32\" viewBox=\"0 0 7 16\" class=\"octicon octicon-plus-small\" aria-hidden=\"true\"><use xlink:href=\"#plus-small\" /></svg>",
+      "trigger": "octicon-plus-small\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-quote\" aria-hidden=\"true\"><use xlink:href=\"#quote\" /></svg>",
+      "trigger": "octicon-quote\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-watch\" aria-hidden=\"true\"><use xlink:href=\"#watch\" /></svg>",
+      "trigger": "octicon-watch\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-rss\" aria-hidden=\"true\"><use xlink:href=\"#rss\" /></svg>",
+      "trigger": "octicon-rss\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-paintcan\" aria-hidden=\"true\"><use xlink:href=\"#paintcan\" /></svg>",
+      "trigger": "octicon-paintcan\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-markdown\" aria-hidden=\"true\"><use xlink:href=\"#markdown\" /></svg>",
+      "trigger": "octicon-markdown\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-person\" aria-hidden=\"true\"><use xlink:href=\"#person\" /></svg>",
+      "trigger": "octicon-person\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-rocket\" aria-hidden=\"true\"><use xlink:href=\"#rocket\" /></svg>",
+      "trigger": "octicon-rocket\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mirror\" aria-hidden=\"true\"><use xlink:href=\"#mirror\" /></svg>",
+      "trigger": "octicon-mirror\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-trashcan\" aria-hidden=\"true\"><use xlink:href=\"#trashcan\" /></svg>",
+      "trigger": "octicon-trashcan\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-desktop-download\" aria-hidden=\"true\"><use xlink:href=\"#desktop-download\" /></svg>",
+      "trigger": "octicon-desktop-download\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-repo-pull\" aria-hidden=\"true\"><use xlink:href=\"#repo-pull\" /></svg>",
+      "trigger": "octicon-repo-pull\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-mark-github\" aria-hidden=\"true\"><use xlink:href=\"#mark-github\" /></svg>",
+      "trigger": "octicon-mark-github\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-location\" aria-hidden=\"true\"><use xlink:href=\"#location\" /></svg>",
+      "trigger": "octicon-location\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-issue-opened\" aria-hidden=\"true\"><use xlink:href=\"#issue-opened\" /></svg>",
+      "trigger": "octicon-issue-opened\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-file-pdf\" aria-hidden=\"true\"><use xlink:href=\"#file-pdf\" /></svg>",
+      "trigger": "octicon-file-pdf\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"30\" height=\"32\" viewBox=\"0 0 15 16\" class=\"octicon octicon-project\" aria-hidden=\"true\"><use xlink:href=\"#project\" /></svg>",
+      "trigger": "octicon-project\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-repo-force-push\" aria-hidden=\"true\"><use xlink:href=\"#repo-force-push\" /></svg>",
+      "trigger": "octicon-repo-force-push\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-arrow-down\" aria-hidden=\"true\"><use xlink:href=\"#arrow-down\" /></svg>",
+      "trigger": "octicon-arrow-down\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"24\" height=\"32\" viewBox=\"0 0 12 16\" class=\"octicon octicon-git-pull-request\" aria-hidden=\"true\"><use xlink:href=\"#git-pull-request\" /></svg>",
+      "trigger": "octicon-git-pull-request\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-bell\" aria-hidden=\"true\"><use xlink:href=\"#bell\" /></svg>",
+      "trigger": "octicon-bell\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"32\" height=\"32\" viewBox=\"0 0 16 16\" class=\"octicon octicon-squirrel\" aria-hidden=\"true\"><use xlink:href=\"#squirrel\" /></svg>",
+      "trigger": "octicon-squirrel\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"20\" height=\"32\" viewBox=\"0 0 10 16\" class=\"octicon octicon-device-mobile\" aria-hidden=\"true\"><use xlink:href=\"#device-mobile\" /></svg>",
+      "trigger": "octicon-device-mobile\t<svg>"
+    },
+    {
+      "contents": "<svg version=\"1.1\" width=\"28\" height=\"32\" viewBox=\"0 0 14 16\" class=\"octicon octicon-git-compare\" aria-hidden=\"true\"><use xlink:href=\"#git-compare\" /></svg>",
+      "trigger": "octicon-git-compare\t<svg>"
+    }
+  ],
+  "scope": "text.html"
+}

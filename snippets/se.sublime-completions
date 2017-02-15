@@ -1,0 +1,198 @@
+{
+  "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
+  "completions": [
+    {
+      "contents": "<${1:div} class=\"se se-deadSweat se-${2:s}\"></${1:div}>",
+      "trigger": "se-deadSweat\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-toungeOutWink se-${2:s}\"></${1:div}>",
+      "trigger": "se-toungeOutWink\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-badEvil se-${2:s}\"></${1:div}>",
+      "trigger": "se-badEvil\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-kiss se-${2:s}\"></${1:div}>",
+      "trigger": "se-kiss\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-noMouth se-${2:s}\"></${1:div}>",
+      "trigger": "se-noMouth\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-slightlySad se-${2:s}\"></${1:div}>",
+      "trigger": "se-slightlySad\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-frown se-${2:s}\"></${1:div}>",
+      "trigger": "se-frown\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-weary se-${2:s}\"></${1:div}>",
+      "trigger": "se-weary\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-toungeOutHappy se-${2:s}\"></${1:div}>",
+      "trigger": "se-toungeOutHappy\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-scream se-${2:s}\"></${1:div}>",
+      "trigger": "se-scream\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-relax se-${2:s}\"></${1:div}>",
+      "trigger": "se-relax\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-thumbUp se-${2:s}\"></${1:div}>",
+      "trigger": "se-thumbUp\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-smiley se-${2:s}\"></${1:div}>",
+      "trigger": "se-smiley\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-thumbDown se-${2:s}\"></${1:div}>",
+      "trigger": "se-thumbDown\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-wtf se-${2:s}\"></${1:div}>",
+      "trigger": "se-wtf\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-goodEvil se-${2:s}\"></${1:div}>",
+      "trigger": "se-goodEvil\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-smirk se-${2:s}\"></${1:div}>",
+      "trigger": "se-smirk\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-badFrown se-${2:s}\"></${1:div}>",
+      "trigger": "se-badFrown\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sadFrown se-${2:s}\"></${1:div}>",
+      "trigger": "se-sadFrown\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-satisfied se-${2:s}\"></${1:div}>",
+      "trigger": "se-satisfied\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sleepy se-${2:s}\"></${1:div}>",
+      "trigger": "se-sleepy\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-toungeOut se-${2:s}\"></${1:div}>",
+      "trigger": "se-toungeOut\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-boiled se-${2:s}\"></${1:div}>",
+      "trigger": "se-boiled\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-cool se-${2:s}\"></${1:div}>",
+      "trigger": "se-cool\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-kissHeart se-${2:s}\"></${1:div}>",
+      "trigger": "se-kissHeart\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-mask se-${2:s}\"></${1:div}>",
+      "trigger": "se-mask\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-blush se-${2:s}\"></${1:div}>",
+      "trigger": "se-blush\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sleep se-${2:s}\"></${1:div}>",
+      "trigger": "se-sleep\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-flushed se-${2:s}\"></${1:div}>",
+      "trigger": "se-flushed\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-expressionless se-${2:s}\"></${1:div}>",
+      "trigger": "se-expressionless\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sweat se-${2:s}\"></${1:div}>",
+      "trigger": "se-sweat\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sweatSmile se-${2:s}\"></${1:div}>",
+      "trigger": "se-sweatSmile\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-thumbsDown se-${2:s}\"></${1:div}>",
+      "trigger": "se-thumbsDown\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-wink se-${2:s}\"></${1:div}>",
+      "trigger": "se-wink\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-emoKiss se-${2:s}\"></${1:div}>",
+      "trigger": "se-emoKiss\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-angry se-${2:s}\"></${1:div}>",
+      "trigger": "se-angry\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-grin se-${2:s}\"></${1:div}>",
+      "trigger": "se-grin\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-dead se-${2:s}\"></${1:div}>",
+      "trigger": "se-dead\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-joy se-${2:s}\"></${1:div}>",
+      "trigger": "se-joy\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-laugh se-${2:s}\"></${1:div}>",
+      "trigger": "se-laugh\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-happyKiss se-${2:s}\"></${1:div}>",
+      "trigger": "se-happyKiss\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-winky se-${2:s}\"></${1:div}>",
+      "trigger": "se-winky\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-poisoned se-${2:s}\"></${1:div}>",
+      "trigger": "se-poisoned\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-thumbsUp se-${2:s}\"></${1:div}>",
+      "trigger": "se-thumbsUp\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sob se-${2:s}\"></${1:div}>",
+      "trigger": "se-sob\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-sad se-${2:s}\"></${1:div}>",
+      "trigger": "se-sad\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-smile se-${2:s}\"></${1:div}>",
+      "trigger": "se-smile\t<div>"
+    },
+    {
+      "contents": "<${1:div} class=\"se se-love se-${2:s}\"></${1:div}>",
+      "trigger": "se-love\t<div>"
+    }
+  ],
+  "scope": "text.html"
+}

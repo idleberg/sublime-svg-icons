@@ -9,7 +9,7 @@ Atom snippets for a variety of SVG icons ([see details](https://github.com/idleb
 
 This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons) and [Visual Studio Code](https://github.com/idleberg/vscode-svg-icons)
 
-![Screenshot](https://raw.githubusercontent.com/idleberg/sublime-svg-icons/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/idleberg/sublime-svg-icons/master/screenshot.gif)
 
 *See it in action (theme is [Hopscotch](https://github.com/idleberg/Hopscotch))*
 

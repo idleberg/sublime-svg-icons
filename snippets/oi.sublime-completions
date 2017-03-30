@@ -894,5 +894,5 @@
       "trigger": "credit-card\t<use>"
     }
   ],
-  "scope": "text.html"
+  "scope": "text.html -text.html.markdown"
 }

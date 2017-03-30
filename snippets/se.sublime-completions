@@ -194,5 +194,5 @@
       "trigger": "se-love\t<div>"
     }
   ],
-  "scope": "text.html"
+  "scope": "text.html -text.html.markdown"
 }

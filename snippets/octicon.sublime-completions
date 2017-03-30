@@ -706,5 +706,5 @@
       "trigger": "octicon-git-compare\t<use>"
     }
   ],
-  "scope": "text.html"
+  "scope": "text.html -text.html.markdown"
 }

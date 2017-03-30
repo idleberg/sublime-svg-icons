@@ -342,5 +342,5 @@
       "trigger": "bi-eject\t<use>"
     }
   ],
-  "scope": "text.html"
+  "scope": "text.html -text.html.markdown"
 }

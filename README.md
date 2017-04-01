@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/release/idleberg/sublime-svg-icons.svg?style=flat-square)](https://github.com/idleberg/sublime-svg-icons/releases)
 [![Travis](https://img.shields.io/travis/idleberg/sublime-svg-icons.svg?style=flat-square)](https://travis-ci.org/idleberg/sublime-svg-icons)
 
-Atom snippets for a variety of SVG icons ([see details](https://github.com/idleberg/sublime-svg-icons#prefixes)).
+Sublime Text completions for a variety of popular SVG icons ([see details](https://github.com/idleberg/sublime-svg-icons#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-svg-icons) and [Visual Studio Code](https://github.com/idleberg/vscode-svg-icons)
 

@@ -3,895 +3,895 @@
   "completions": [
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-center\" className=\"align-center\"></use>\n</svg>",
-      "trigger": "align-center\t<use>"
+      "trigger": "oi-align-center\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-right\" className=\"expand-right\"></use>\n</svg>",
-      "trigger": "expand-right\t<use>"
+      "trigger": "oi-expand-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-bottom\" className=\"arrow-circle-bottom\"></use>\n</svg>",
-      "trigger": "arrow-circle-bottom\t<use>"
+      "trigger": "oi-arrow-circle-bottom\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#basket\" className=\"basket\"></use>\n</svg>",
-      "trigger": "basket\t<use>"
+      "trigger": "oi-basket\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#calendar\" className=\"calendar\"></use>\n</svg>",
-      "trigger": "calendar\t<use>"
+      "trigger": "oi-calendar\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#browser\" className=\"browser\"></use>\n</svg>",
-      "trigger": "browser\t<use>"
+      "trigger": "oi-browser\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#text\" className=\"text\"></use>\n</svg>",
-      "trigger": "text\t<use>"
+      "trigger": "oi-text\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#data-transfer-download\" className=\"data-transfer-download\"></use>\n</svg>",
-      "trigger": "data-transfer-download\t<use>"
+      "trigger": "oi-data-transfer-download\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#brush\" className=\"brush\"></use>\n</svg>",
-      "trigger": "brush\t<use>"
+      "trigger": "oi-brush\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-right\" className=\"caret-right\"></use>\n</svg>",
-      "trigger": "caret-right\t<use>"
+      "trigger": "oi-caret-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-bottom\" className=\"arrow-thick-bottom\"></use>\n</svg>",
-      "trigger": "arrow-thick-bottom\t<use>"
+      "trigger": "oi-arrow-thick-bottom\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#excerpt\" className=\"excerpt\"></use>\n</svg>",
-      "trigger": "excerpt\t<use>"
+      "trigger": "oi-excerpt\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#paperclip\" className=\"paperclip\"></use>\n</svg>",
-      "trigger": "paperclip\t<use>"
+      "trigger": "oi-paperclip\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#copywriting\" className=\"copywriting\"></use>\n</svg>",
-      "trigger": "copywriting\t<use>"
+      "trigger": "oi-copywriting\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-up\" className=\"collapse-up\"></use>\n</svg>",
-      "trigger": "collapse-up\t<use>"
+      "trigger": "oi-collapse-up\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#infinity\" className=\"infinity\"></use>\n</svg>",
-      "trigger": "infinity\t<use>"
+      "trigger": "oi-infinity\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#laptop\" className=\"laptop\"></use>\n</svg>",
-      "trigger": "laptop\t<use>"
+      "trigger": "oi-laptop\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#home\" className=\"home\"></use>\n</svg>",
-      "trigger": "home\t<use>"
+      "trigger": "oi-home\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#menu\" className=\"menu\"></use>\n</svg>",
-      "trigger": "menu\t<use>"
+      "trigger": "oi-menu\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-top\" className=\"arrow-thick-top\"></use>\n</svg>",
-      "trigger": "arrow-thick-top\t<use>"
+      "trigger": "oi-arrow-thick-top\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#book\" className=\"book\"></use>\n</svg>",
-      "trigger": "book\t<use>"
+      "trigger": "oi-book\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fork\" className=\"fork\"></use>\n</svg>",
-      "trigger": "fork\t<use>"
+      "trigger": "oi-fork\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#graph\" className=\"graph\"></use>\n</svg>",
-      "trigger": "graph\t<use>"
+      "trigger": "oi-graph\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#audio-spectrum\" className=\"audio-spectrum\"></use>\n</svg>",
-      "trigger": "audio-spectrum\t<use>"
+      "trigger": "oi-audio-spectrum\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rss-alt\" className=\"rss-alt\"></use>\n</svg>",
-      "trigger": "rss-alt\t<use>"
+      "trigger": "oi-rss-alt\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#timer\" className=\"timer\"></use>\n</svg>",
-      "trigger": "timer\t<use>"
+      "trigger": "oi-timer\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop-square\" className=\"loop-square\"></use>\n</svg>",
-      "trigger": "loop-square\t<use>"
+      "trigger": "oi-loop-square\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-serif-left\" className=\"double-quote-serif-left\"></use>\n</svg>",
-      "trigger": "double-quote-serif-left\t<use>"
+      "trigger": "oi-double-quote-serif-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-right\" className=\"collapse-right\"></use>\n</svg>",
-      "trigger": "collapse-right\t<use>"
+      "trigger": "oi-collapse-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-left\" className=\"caret-left\"></use>\n</svg>",
-      "trigger": "caret-left\t<use>"
+      "trigger": "oi-caret-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-low\" className=\"volume-low\"></use>\n</svg>",
-      "trigger": "volume-low\t<use>"
+      "trigger": "oi-volume-low\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eject\" className=\"eject\"></use>\n</svg>",
-      "trigger": "eject\t<use>"
+      "trigger": "oi-eject\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#clock\" className=\"clock\"></use>\n</svg>",
-      "trigger": "clock\t<use>"
+      "trigger": "oi-clock\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#check\" className=\"check\"></use>\n</svg>",
-      "trigger": "check\t<use>"
+      "trigger": "oi-check\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#target\" className=\"target\"></use>\n</svg>",
-      "trigger": "target\t<use>"
+      "trigger": "oi-target\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cog\" className=\"cog\"></use>\n</svg>",
-      "trigger": "cog\t<use>"
+      "trigger": "oi-cog\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-width\" className=\"resize-width\"></use>\n</svg>",
-      "trigger": "resize-width\t<use>"
+      "trigger": "oi-resize-width\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#spreadsheet\" className=\"spreadsheet\"></use>\n</svg>",
-      "trigger": "spreadsheet\t<use>"
+      "trigger": "oi-spreadsheet\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#external-link\" className=\"external-link\"></use>\n</svg>",
-      "trigger": "external-link\t<use>"
+      "trigger": "oi-external-link\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#euro\" className=\"euro\"></use>\n</svg>",
-      "trigger": "euro\t<use>"
+      "trigger": "oi-euro\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pin\" className=\"pin\"></use>\n</svg>",
-      "trigger": "pin\t<use>"
+      "trigger": "oi-pin\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bolt\" className=\"bolt\"></use>\n</svg>",
-      "trigger": "bolt\t<use>"
+      "trigger": "oi-bolt\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#circle-check\" className=\"circle-check\"></use>\n</svg>",
-      "trigger": "circle-check\t<use>"
+      "trigger": "oi-circle-check\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#minus\" className=\"minus\"></use>\n</svg>",
-      "trigger": "minus\t<use>"
+      "trigger": "oi-minus\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tag\" className=\"tag\"></use>\n</svg>",
-      "trigger": "tag\t<use>"
+      "trigger": "oi-tag\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#list\" className=\"list\"></use>\n</svg>",
-      "trigger": "list\t<use>"
+      "trigger": "oi-list\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bold\" className=\"bold\"></use>\n</svg>",
-      "trigger": "bold\t<use>"
+      "trigger": "oi-bold\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-serif-right\" className=\"double-quote-serif-right\"></use>\n</svg>",
-      "trigger": "double-quote-serif-right\t<use>"
+      "trigger": "oi-double-quote-serif-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop-circular\" className=\"loop-circular\"></use>\n</svg>",
-      "trigger": "loop-circular\t<use>"
+      "trigger": "oi-loop-circular\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#droplet\" className=\"droplet\"></use>\n</svg>",
-      "trigger": "droplet\t<use>"
+      "trigger": "oi-droplet\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-left\" className=\"justify-left\"></use>\n</svg>",
-      "trigger": "justify-left\t<use>"
+      "trigger": "oi-justify-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-both\" className=\"resize-both\"></use>\n</svg>",
-      "trigger": "resize-both\t<use>"
+      "trigger": "oi-resize-both\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-left\" className=\"arrow-left\"></use>\n</svg>",
-      "trigger": "arrow-left\t<use>"
+      "trigger": "oi-arrow-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#loop\" className=\"loop\"></use>\n</svg>",
-      "trigger": "loop\t<use>"
+      "trigger": "oi-loop\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bell\" className=\"bell\"></use>\n</svg>",
-      "trigger": "bell\t<use>"
+      "trigger": "oi-bell\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#task\" className=\"task\"></use>\n</svg>",
-      "trigger": "task\t<use>"
+      "trigger": "oi-task\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#british-pound\" className=\"british-pound\"></use>\n</svg>",
-      "trigger": "british-pound\t<use>"
+      "trigger": "oi-british-pound\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-right\" className=\"arrow-thick-right\"></use>\n</svg>",
-      "trigger": "arrow-thick-right\t<use>"
+      "trigger": "oi-arrow-thick-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#hard-drive\" className=\"hard-drive\"></use>\n</svg>",
-      "trigger": "hard-drive\t<use>"
+      "trigger": "oi-hard-drive\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lock-locked\" className=\"lock-locked\"></use>\n</svg>",
-      "trigger": "lock-locked\t<use>"
+      "trigger": "oi-lock-locked\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#layers\" className=\"layers\"></use>\n</svg>",
-      "trigger": "layers\t<use>"
+      "trigger": "oi-layers\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#x\" className=\"x\"></use>\n</svg>",
-      "trigger": "x\t<use>"
+      "trigger": "oi-x\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rss\" className=\"rss\"></use>\n</svg>",
-      "trigger": "rss\t<use>"
+      "trigger": "oi-rss\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-right\" className=\"align-right\"></use>\n</svg>",
-      "trigger": "align-right\t<use>"
+      "trigger": "oi-align-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-bottom\" className=\"caret-bottom\"></use>\n</svg>",
-      "trigger": "caret-bottom\t<use>"
+      "trigger": "oi-caret-bottom\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-sans-left\" className=\"double-quote-sans-left\"></use>\n</svg>",
-      "trigger": "double-quote-sans-left\t<use>"
+      "trigger": "oi-double-quote-sans-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#headphones\" className=\"headphones\"></use>\n</svg>",
-      "trigger": "headphones\t<use>"
+      "trigger": "oi-headphones\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pencil\" className=\"pencil\"></use>\n</svg>",
-      "trigger": "pencil\t<use>"
+      "trigger": "oi-pencil\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#data-transfer-upload\" className=\"data-transfer-upload\"></use>\n</svg>",
-      "trigger": "data-transfer-upload\t<use>"
+      "trigger": "oi-data-transfer-upload\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-skip-forward\" className=\"media-skip-forward\"></use>\n</svg>",
-      "trigger": "media-skip-forward\t<use>"
+      "trigger": "oi-media-skip-forward\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#link-intact\" className=\"link-intact\"></use>\n</svg>",
-      "trigger": "link-intact\t<use>"
+      "trigger": "oi-link-intact\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#resize-height\" className=\"resize-height\"></use>\n</svg>",
-      "trigger": "resize-height\t<use>"
+      "trigger": "oi-resize-height\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pie-chart\" className=\"pie-chart\"></use>\n</svg>",
-      "trigger": "pie-chart\t<use>"
+      "trigger": "oi-pie-chart\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lightbulb\" className=\"lightbulb\"></use>\n</svg>",
-      "trigger": "lightbulb\t<use>"
+      "trigger": "oi-lightbulb\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-center\" className=\"vertical-align-center\"></use>\n</svg>",
-      "trigger": "vertical-align-center\t<use>"
+      "trigger": "oi-vertical-align-center\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloudy\" className=\"cloudy\"></use>\n</svg>",
-      "trigger": "cloudy\t<use>"
+      "trigger": "oi-cloudy\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-pause\" className=\"media-pause\"></use>\n</svg>",
-      "trigger": "media-pause\t<use>"
+      "trigger": "oi-media-pause\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-left\" className=\"expand-left\"></use>\n</svg>",
-      "trigger": "expand-left\t<use>"
+      "trigger": "oi-expand-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dial\" className=\"dial\"></use>\n</svg>",
-      "trigger": "dial\t<use>"
+      "trigger": "oi-dial\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dollar\" className=\"dollar\"></use>\n</svg>",
-      "trigger": "dollar\t<use>"
+      "trigger": "oi-dollar\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#link-broken\" className=\"link-broken\"></use>\n</svg>",
-      "trigger": "link-broken\t<use>"
+      "trigger": "oi-link-broken\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#aperture\" className=\"aperture\"></use>\n</svg>",
-      "trigger": "aperture\t<use>"
+      "trigger": "oi-aperture\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#signpost\" className=\"signpost\"></use>\n</svg>",
-      "trigger": "signpost\t<use>"
+      "trigger": "oi-signpost\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#circle-x\" className=\"circle-x\"></use>\n</svg>",
-      "trigger": "circle-x\t<use>"
+      "trigger": "oi-circle-x\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#briefcase\" className=\"briefcase\"></use>\n</svg>",
-      "trigger": "briefcase\t<use>"
+      "trigger": "oi-briefcase\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-center\" className=\"justify-center\"></use>\n</svg>",
-      "trigger": "justify-center\t<use>"
+      "trigger": "oi-justify-center\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#align-left\" className=\"align-left\"></use>\n</svg>",
-      "trigger": "align-left\t<use>"
+      "trigger": "oi-align-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-logout\" className=\"account-logout\"></use>\n</svg>",
-      "trigger": "account-logout\t<use>"
+      "trigger": "oi-account-logout\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#random\" className=\"random\"></use>\n</svg>",
-      "trigger": "random\t<use>"
+      "trigger": "oi-random\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-high\" className=\"volume-high\"></use>\n</svg>",
-      "trigger": "volume-high\t<use>"
+      "trigger": "oi-volume-high\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-top\" className=\"arrow-circle-top\"></use>\n</svg>",
-      "trigger": "arrow-circle-top\t<use>"
+      "trigger": "oi-arrow-circle-top\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#move\" className=\"move\"></use>\n</svg>",
-      "trigger": "move\t<use>"
+      "trigger": "oi-move\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#envelope-open\" className=\"envelope-open\"></use>\n</svg>",
-      "trigger": "envelope-open\t<use>"
+      "trigger": "oi-envelope-open\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#shield\" className=\"shield\"></use>\n</svg>",
-      "trigger": "shield\t<use>"
+      "trigger": "oi-shield\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bug\" className=\"bug\"></use>\n</svg>",
-      "trigger": "bug\t<use>"
+      "trigger": "oi-bug\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#warning\" className=\"warning\"></use>\n</svg>",
-      "trigger": "warning\t<use>"
+      "trigger": "oi-warning\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#underline\" className=\"underline\"></use>\n</svg>",
-      "trigger": "underline\t<use>"
+      "trigger": "oi-underline\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-three-up\" className=\"grid-three-up\"></use>\n</svg>",
-      "trigger": "grid-three-up\t<use>"
+      "trigger": "oi-grid-three-up\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-left\" className=\"collapse-left\"></use>\n</svg>",
-      "trigger": "collapse-left\t<use>"
+      "trigger": "oi-collapse-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fire\" className=\"fire\"></use>\n</svg>",
-      "trigger": "fire\t<use>"
+      "trigger": "oi-fire\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#wifi\" className=\"wifi\"></use>\n</svg>",
-      "trigger": "wifi\t<use>"
+      "trigger": "oi-wifi\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#people\" className=\"people\"></use>\n</svg>",
-      "trigger": "people\t<use>"
+      "trigger": "oi-people\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bullhorn\" className=\"bullhorn\"></use>\n</svg>",
-      "trigger": "bullhorn\t<use>"
+      "trigger": "oi-bullhorn\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#zoom-in\" className=\"zoom-in\"></use>\n</svg>",
-      "trigger": "zoom-in\t<use>"
+      "trigger": "oi-zoom-in\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud\" className=\"cloud\"></use>\n</svg>",
-      "trigger": "cloud\t<use>"
+      "trigger": "oi-cloud\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bluetooth\" className=\"bluetooth\"></use>\n</svg>",
-      "trigger": "bluetooth\t<use>"
+      "trigger": "oi-bluetooth\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#power-standby\" className=\"power-standby\"></use>\n</svg>",
-      "trigger": "power-standby\t<use>"
+      "trigger": "oi-power-standby\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fullscreen-exit\" className=\"fullscreen-exit\"></use>\n</svg>",
-      "trigger": "fullscreen-exit\t<use>"
+      "trigger": "oi-fullscreen-exit\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#star\" className=\"star\"></use>\n</svg>",
-      "trigger": "star\t<use>"
+      "trigger": "oi-star\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-stop\" className=\"media-stop\"></use>\n</svg>",
-      "trigger": "media-stop\t<use>"
+      "trigger": "oi-media-stop\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#double-quote-sans-right\" className=\"double-quote-sans-right\"></use>\n</svg>",
-      "trigger": "double-quote-sans-right\t<use>"
+      "trigger": "oi-double-quote-sans-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#delete\" className=\"delete\"></use>\n</svg>",
-      "trigger": "delete\t<use>"
+      "trigger": "oi-delete\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#key\" className=\"key\"></use>\n</svg>",
-      "trigger": "key\t<use>"
+      "trigger": "oi-key\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#print\" className=\"print\"></use>\n</svg>",
-      "trigger": "print\t<use>"
+      "trigger": "oi-print\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#transfer\" className=\"transfer\"></use>\n</svg>",
-      "trigger": "transfer\t<use>"
+      "trigger": "oi-transfer\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#phone\" className=\"phone\"></use>\n</svg>",
-      "trigger": "phone\t<use>"
+      "trigger": "oi-phone\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#thumb-down\" className=\"thumb-down\"></use>\n</svg>",
-      "trigger": "thumb-down\t<use>"
+      "trigger": "oi-thumb-down\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#heart\" className=\"heart\"></use>\n</svg>",
-      "trigger": "heart\t<use>"
+      "trigger": "oi-heart\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#signal\" className=\"signal\"></use>\n</svg>",
-      "trigger": "signal\t<use>"
+      "trigger": "oi-signal\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-right\" className=\"arrow-right\"></use>\n</svg>",
-      "trigger": "arrow-right\t<use>"
+      "trigger": "oi-arrow-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#play-circle\" className=\"play-circle\"></use>\n</svg>",
-      "trigger": "play-circle\t<use>"
+      "trigger": "oi-play-circle\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#caret-top\" className=\"caret-top\"></use>\n</svg>",
-      "trigger": "caret-top\t<use>"
+      "trigger": "oi-caret-top\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-right\" className=\"arrow-circle-right\"></use>\n</svg>",
-      "trigger": "arrow-circle-right\t<use>"
+      "trigger": "oi-arrow-circle-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#share\" className=\"share\"></use>\n</svg>",
-      "trigger": "share\t<use>"
+      "trigger": "oi-share\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#location\" className=\"location\"></use>\n</svg>",
-      "trigger": "location\t<use>"
+      "trigger": "oi-location\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#audio\" className=\"audio\"></use>\n</svg>",
-      "trigger": "audio\t<use>"
+      "trigger": "oi-audio\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#monitor\" className=\"monitor\"></use>\n</svg>",
-      "trigger": "monitor\t<use>"
+      "trigger": "oi-monitor\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#rain\" className=\"rain\"></use>\n</svg>",
-      "trigger": "rain\t<use>"
+      "trigger": "oi-rain\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#image\" className=\"image\"></use>\n</svg>",
-      "trigger": "image\t<use>"
+      "trigger": "oi-image\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#comment-square\" className=\"comment-square\"></use>\n</svg>",
-      "trigger": "comment-square\t<use>"
+      "trigger": "oi-comment-square\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud-download\" className=\"cloud-download\"></use>\n</svg>",
-      "trigger": "cloud-download\t<use>"
+      "trigger": "oi-cloud-download\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#flag\" className=\"flag\"></use>\n</svg>",
-      "trigger": "flag\t<use>"
+      "trigger": "oi-flag\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#code\" className=\"code\"></use>\n</svg>",
-      "trigger": "code\t<use>"
+      "trigger": "oi-code\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eye\" className=\"eye\"></use>\n</svg>",
-      "trigger": "eye\t<use>"
+      "trigger": "oi-eye\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#inbox\" className=\"inbox\"></use>\n</svg>",
-      "trigger": "inbox\t<use>"
+      "trigger": "oi-inbox\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-down\" className=\"expand-down\"></use>\n</svg>",
-      "trigger": "expand-down\t<use>"
+      "trigger": "oi-expand-down\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#moon\" className=\"moon\"></use>\n</svg>",
-      "trigger": "moon\t<use>"
+      "trigger": "oi-moon\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-bottom\" className=\"arrow-bottom\"></use>\n</svg>",
-      "trigger": "arrow-bottom\t<use>"
+      "trigger": "oi-arrow-bottom\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#action-undo\" className=\"action-undo\"></use>\n</svg>",
-      "trigger": "action-undo\t<use>"
+      "trigger": "oi-action-undo\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#collapse-down\" className=\"collapse-down\"></use>\n</svg>",
-      "trigger": "collapse-down\t<use>"
+      "trigger": "oi-collapse-down\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-circle-left\" className=\"arrow-circle-left\"></use>\n</svg>",
-      "trigger": "arrow-circle-left\t<use>"
+      "trigger": "oi-arrow-circle-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-top\" className=\"arrow-top\"></use>\n</svg>",
-      "trigger": "arrow-top\t<use>"
+      "trigger": "oi-arrow-top\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#contrast\" className=\"contrast\"></use>\n</svg>",
-      "trigger": "contrast\t<use>"
+      "trigger": "oi-contrast\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#globe\" className=\"globe\"></use>\n</svg>",
-      "trigger": "globe\t<use>"
+      "trigger": "oi-globe\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#ban\" className=\"ban\"></use>\n</svg>",
-      "trigger": "ban\t<use>"
+      "trigger": "oi-ban\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sort-ascending\" className=\"sort-ascending\"></use>\n</svg>",
-      "trigger": "sort-ascending\t<use>"
+      "trigger": "oi-sort-ascending\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#terminal\" className=\"terminal\"></use>\n</svg>",
-      "trigger": "terminal\t<use>"
+      "trigger": "oi-terminal\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#compass\" className=\"compass\"></use>\n</svg>",
-      "trigger": "compass\t<use>"
+      "trigger": "oi-compass\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#battery-empty\" className=\"battery-empty\"></use>\n</svg>",
-      "trigger": "battery-empty\t<use>"
+      "trigger": "oi-battery-empty\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#eyedropper\" className=\"eyedropper\"></use>\n</svg>",
-      "trigger": "eyedropper\t<use>"
+      "trigger": "oi-eyedropper\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#puzzle-piece\" className=\"puzzle-piece\"></use>\n</svg>",
-      "trigger": "puzzle-piece\t<use>"
+      "trigger": "oi-puzzle-piece\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-four-up\" className=\"grid-four-up\"></use>\n</svg>",
-      "trigger": "grid-four-up\t<use>"
+      "trigger": "oi-grid-four-up\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#map-marker\" className=\"map-marker\"></use>\n</svg>",
-      "trigger": "map-marker\t<use>"
+      "trigger": "oi-map-marker\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cart\" className=\"cart\"></use>\n</svg>",
-      "trigger": "cart\t<use>"
+      "trigger": "oi-cart\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#volume-off\" className=\"volume-off\"></use>\n</svg>",
-      "trigger": "volume-off\t<use>"
+      "trigger": "oi-volume-off\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#reload\" className=\"reload\"></use>\n</svg>",
-      "trigger": "reload\t<use>"
+      "trigger": "oi-reload\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#crop\" className=\"crop\"></use>\n</svg>",
-      "trigger": "crop\t<use>"
+      "trigger": "oi-crop\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#yen\" className=\"yen\"></use>\n</svg>",
-      "trigger": "yen\t<use>"
+      "trigger": "oi-yen\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#ellipses\" className=\"ellipses\"></use>\n</svg>",
-      "trigger": "ellipses\t<use>"
+      "trigger": "oi-ellipses\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#folder\" className=\"folder\"></use>\n</svg>",
-      "trigger": "folder\t<use>"
+      "trigger": "oi-folder\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#justify-right\" className=\"justify-right\"></use>\n</svg>",
-      "trigger": "justify-right\t<use>"
+      "trigger": "oi-justify-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#dashboard\" className=\"dashboard\"></use>\n</svg>",
-      "trigger": "dashboard\t<use>"
+      "trigger": "oi-dashboard\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#badge\" className=\"badge\"></use>\n</svg>",
-      "trigger": "badge\t<use>"
+      "trigger": "oi-badge\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-bottom\" className=\"vertical-align-bottom\"></use>\n</svg>",
-      "trigger": "vertical-align-bottom\t<use>"
+      "trigger": "oi-vertical-align-bottom\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#envelope-closed\" className=\"envelope-closed\"></use>\n</svg>",
-      "trigger": "envelope-closed\t<use>"
+      "trigger": "oi-envelope-closed\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#medical-cross\" className=\"medical-cross\"></use>\n</svg>",
-      "trigger": "medical-cross\t<use>"
+      "trigger": "oi-medical-cross\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#trash\" className=\"trash\"></use>\n</svg>",
-      "trigger": "trash\t<use>"
+      "trigger": "oi-trash\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#italic\" className=\"italic\"></use>\n</svg>",
-      "trigger": "italic\t<use>"
+      "trigger": "oi-italic\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#list-rich\" className=\"list-rich\"></use>\n</svg>",
-      "trigger": "list-rich\t<use>"
+      "trigger": "oi-list-rich\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#magnifying-glass\" className=\"magnifying-glass\"></use>\n</svg>",
-      "trigger": "magnifying-glass\t<use>"
+      "trigger": "oi-magnifying-glass\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#camera-slr\" className=\"camera-slr\"></use>\n</svg>",
-      "trigger": "camera-slr\t<use>"
+      "trigger": "oi-camera-slr\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#plus\" className=\"plus\"></use>\n</svg>",
-      "trigger": "plus\t<use>"
+      "trigger": "oi-plus\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#document\" className=\"document\"></use>\n</svg>",
-      "trigger": "document\t<use>"
+      "trigger": "oi-document\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#command\" className=\"command\"></use>\n</svg>",
-      "trigger": "command\t<use>"
+      "trigger": "oi-command\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#header\" className=\"header\"></use>\n</svg>",
-      "trigger": "header\t<use>"
+      "trigger": "oi-header\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-left\" className=\"chevron-left\"></use>\n</svg>",
-      "trigger": "chevron-left\t<use>"
+      "trigger": "oi-chevron-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-bottom\" className=\"chevron-bottom\"></use>\n</svg>",
-      "trigger": "chevron-bottom\t<use>"
+      "trigger": "oi-chevron-bottom\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#thumb-up\" className=\"thumb-up\"></use>\n</svg>",
-      "trigger": "thumb-up\t<use>"
+      "trigger": "oi-thumb-up\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#share-boxed\" className=\"share-boxed\"></use>\n</svg>",
-      "trigger": "share-boxed\t<use>"
+      "trigger": "oi-share-boxed\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#calculator\" className=\"calculator\"></use>\n</svg>",
-      "trigger": "calculator\t<use>"
+      "trigger": "oi-calculator\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#flash\" className=\"flash\"></use>\n</svg>",
-      "trigger": "flash\t<use>"
+      "trigger": "oi-flash\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#cloud-upload\" className=\"cloud-upload\"></use>\n</svg>",
-      "trigger": "cloud-upload\t<use>"
+      "trigger": "oi-cloud-upload\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#file\" className=\"file\"></use>\n</svg>",
-      "trigger": "file\t<use>"
+      "trigger": "oi-file\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-top\" className=\"chevron-top\"></use>\n</svg>",
-      "trigger": "chevron-top\t<use>"
+      "trigger": "oi-chevron-top\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-play\" className=\"media-play\"></use>\n</svg>",
-      "trigger": "media-play\t<use>"
+      "trigger": "oi-media-play\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#clipboard\" className=\"clipboard\"></use>\n</svg>",
-      "trigger": "clipboard\t<use>"
+      "trigger": "oi-clipboard\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tablet\" className=\"tablet\"></use>\n</svg>",
-      "trigger": "tablet\t<use>"
+      "trigger": "oi-tablet\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#project\" className=\"project\"></use>\n</svg>",
-      "trigger": "project\t<use>"
+      "trigger": "oi-project\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#person\" className=\"person\"></use>\n</svg>",
-      "trigger": "person\t<use>"
+      "trigger": "oi-person\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#script\" className=\"script\"></use>\n</svg>",
-      "trigger": "script\t<use>"
+      "trigger": "oi-script\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#map\" className=\"map\"></use>\n</svg>",
-      "trigger": "map\t<use>"
+      "trigger": "oi-map\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#vertical-align-top\" className=\"vertical-align-top\"></use>\n</svg>",
-      "trigger": "vertical-align-top\t<use>"
+      "trigger": "oi-vertical-align-top\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sort-descending\" className=\"sort-descending\"></use>\n</svg>",
-      "trigger": "sort-descending\t<use>"
+      "trigger": "oi-sort-descending\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#microphone\" className=\"microphone\"></use>\n</svg>",
-      "trigger": "microphone\t<use>"
+      "trigger": "oi-microphone\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#tags\" className=\"tags\"></use>\n</svg>",
-      "trigger": "tags\t<use>"
+      "trigger": "oi-tags\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#beaker\" className=\"beaker\"></use>\n</svg>",
-      "trigger": "beaker\t<use>"
+      "trigger": "oi-beaker\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bookmark\" className=\"bookmark\"></use>\n</svg>",
-      "trigger": "bookmark\t<use>"
+      "trigger": "oi-bookmark\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#elevator\" className=\"elevator\"></use>\n</svg>",
-      "trigger": "elevator\t<use>"
+      "trigger": "oi-elevator\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#expand-up\" className=\"expand-up\"></use>\n</svg>",
-      "trigger": "expand-up\t<use>"
+      "trigger": "oi-expand-up\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-skip-backward\" className=\"media-skip-backward\"></use>\n</svg>",
-      "trigger": "media-skip-backward\t<use>"
+      "trigger": "oi-media-skip-backward\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#grid-two-up\" className=\"grid-two-up\"></use>\n</svg>",
-      "trigger": "grid-two-up\t<use>"
+      "trigger": "oi-grid-two-up\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#box\" className=\"box\"></use>\n</svg>",
-      "trigger": "box\t<use>"
+      "trigger": "oi-box\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#zoom-out\" className=\"zoom-out\"></use>\n</svg>",
-      "trigger": "zoom-out\t<use>"
+      "trigger": "oi-zoom-out\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#sun\" className=\"sun\"></use>\n</svg>",
-      "trigger": "sun\t<use>"
+      "trigger": "oi-sun\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#question-mark\" className=\"question-mark\"></use>\n</svg>",
-      "trigger": "question-mark\t<use>"
+      "trigger": "oi-question-mark\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#account-login\" className=\"account-login\"></use>\n</svg>",
-      "trigger": "account-login\t<use>"
+      "trigger": "oi-account-login\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#info\" className=\"info\"></use>\n</svg>",
-      "trigger": "info\t<use>"
+      "trigger": "oi-info\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-record\" className=\"media-record\"></use>\n</svg>",
-      "trigger": "media-record\t<use>"
+      "trigger": "oi-media-record\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#arrow-thick-left\" className=\"arrow-thick-left\"></use>\n</svg>",
-      "trigger": "arrow-thick-left\t<use>"
+      "trigger": "oi-arrow-thick-left\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chevron-right\" className=\"chevron-right\"></use>\n</svg>",
-      "trigger": "chevron-right\t<use>"
+      "trigger": "oi-chevron-right\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#battery-full\" className=\"battery-full\"></use>\n</svg>",
-      "trigger": "battery-full\t<use>"
+      "trigger": "oi-battery-full\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#video\" className=\"video\"></use>\n</svg>",
-      "trigger": "video\t<use>"
+      "trigger": "oi-video\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#fullscreen-enter\" className=\"fullscreen-enter\"></use>\n</svg>",
-      "trigger": "fullscreen-enter\t<use>"
+      "trigger": "oi-fullscreen-enter\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-step-backward\" className=\"media-step-backward\"></use>\n</svg>",
-      "trigger": "media-step-backward\t<use>"
+      "trigger": "oi-media-step-backward\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#chat\" className=\"chat\"></use>\n</svg>",
-      "trigger": "chat\t<use>"
+      "trigger": "oi-chat\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#musical-note\" className=\"musical-note\"></use>\n</svg>",
-      "trigger": "musical-note\t<use>"
+      "trigger": "oi-musical-note\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#wrench\" className=\"wrench\"></use>\n</svg>",
-      "trigger": "wrench\t<use>"
+      "trigger": "oi-wrench\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#pulse\" className=\"pulse\"></use>\n</svg>",
-      "trigger": "pulse\t<use>"
+      "trigger": "oi-pulse\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#media-step-forward\" className=\"media-step-forward\"></use>\n</svg>",
-      "trigger": "media-step-forward\t<use>"
+      "trigger": "oi-media-step-forward\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#lock-unlocked\" className=\"lock-unlocked\"></use>\n</svg>",
-      "trigger": "lock-unlocked\t<use>"
+      "trigger": "oi-lock-unlocked\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#action-redo\" className=\"action-redo\"></use>\n</svg>",
-      "trigger": "action-redo\t<use>"
+      "trigger": "oi-action-redo\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#bar-chart\" className=\"bar-chart\"></use>\n</svg>",
-      "trigger": "bar-chart\t<use>"
+      "trigger": "oi-bar-chart\t<use>"
     },
     {
       "contents": "<svg className=\"icon\">\n\t<use xlink:href=\"${1:open-iconic.svg}#credit-card\" className=\"credit-card\"></use>\n</svg>",
-      "trigger": "credit-card\t<use>"
+      "trigger": "oi-credit-card\t<use>"
     }
   ],
   "scope": "source.js.jsx"

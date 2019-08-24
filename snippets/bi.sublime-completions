@@ -1,253 +1,65 @@
 {
   "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
   "completions": [
-   {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#github\" />\n</svg>",
-      "trigger": "bi-github\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#heart\" />\n</svg>",
-      "trigger": "bi-heart\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#minus\" />\n</svg>",
-      "trigger": "bi-minus\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-bottom\" />\n</svg>",
-      "trigger": "bi-caret-bottom\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#fire\" />\n</svg>",
-      "trigger": "bi-fire\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#mute\" />\n</svg>",
-      "trigger": "bi-mute\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#eye\" />\n</svg>",
-      "trigger": "bi-eye\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-right\" />\n</svg>",
-      "trigger": "bi-chevron-right\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#portfolio\" />\n</svg>",
-      "trigger": "bi-portfolio\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#sign-in\" />\n</svg>",
-      "trigger": "bi-sign-in\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#eject\" />\n</svg>",
-      "trigger": "bi-eject\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#move\" />\n</svg>",
-      "trigger": "bi-move\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#edit\" />\n</svg>",
-      "trigger": "bi-edit\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#star\" />\n</svg>",
-      "trigger": "bi-star\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#user\" />\n</svg>",
-      "trigger": "bi-user\t<use>"
-    },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#options\" />\n</svg>",
       "trigger": "bi-options\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-right\" />\n</svg>",
-      "trigger": "bi-arrow-right\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#plus\" />\n</svg>",
-      "trigger": "bi-plus\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#send\" />\n</svg>",
-      "trigger": "bi-send\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#camera\" />\n</svg>",
-      "trigger": "bi-camera\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#ellipsis-horizontal\" />\n</svg>",
-      "trigger": "bi-ellipsis-horizontal\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-right\" />\n</svg>",
-      "trigger": "bi-caret-right\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#compose\" />\n</svg>",
-      "trigger": "bi-compose\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-left\" />\n</svg>",
-      "trigger": "bi-chevron-left\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#print\" />\n</svg>",
-      "trigger": "bi-print\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#search\" />\n</svg>",
-      "trigger": "bi-search\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#mail\" />\n</svg>",
-      "trigger": "bi-mail\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#ellipsis-vertical\" />\n</svg>",
-      "trigger": "bi-ellipsis-vertical\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#gift\" />\n</svg>",
-      "trigger": "bi-gift\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#tag\" />\n</svg>",
-      "trigger": "bi-tag\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#lock\" />\n</svg>",
-      "trigger": "bi-lock\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#trash\" />\n</svg>",
-      "trigger": "bi-trash\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#end\" />\n</svg>",
-      "trigger": "bi-end\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#alert\" />\n</svg>",
-      "trigger": "bi-alert\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#play\" />\n</svg>",
-      "trigger": "bi-play\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#reply\" />\n</svg>",
-      "trigger": "bi-reply\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#upload\" />\n</svg>",
-      "trigger": "bi-upload\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#work\" />\n</svg>",
-      "trigger": "bi-work\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#import\" />\n</svg>",
-      "trigger": "bi-import\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#paperclip\" />\n</svg>",
-      "trigger": "bi-paperclip\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-bottom\" />\n</svg>",
-      "trigger": "bi-chevron-bottom\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#activity\" />\n</svg>",
-      "trigger": "bi-activity\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#folder-open\" />\n</svg>",
-      "trigger": "bi-folder-open\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#pause\" />\n</svg>",
-      "trigger": "bi-pause\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#bag\" />\n</svg>",
-      "trigger": "bi-bag\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#backwards\" />\n</svg>",
-      "trigger": "bi-backwards\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-left\" />\n</svg>",
-      "trigger": "bi-caret-left\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#ban\" />\n</svg>",
-      "trigger": "bi-ban\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#volume\" />\n</svg>",
-      "trigger": "bi-volume\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#start\" />\n</svg>",
-      "trigger": "bi-start\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#file\" />\n</svg>",
-      "trigger": "bi-file\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-top\" />\n</svg>",
-      "trigger": "bi-arrow-top\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#twitter\" />\n</svg>",
-      "trigger": "bi-twitter\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#clock\" />\n</svg>",
-      "trigger": "bi-clock\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#music\" />\n</svg>",
-      "trigger": "bi-music\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#settings\" />\n</svg>",
+      "trigger": "bi-settings\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#info\" />\n</svg>",
       "trigger": "bi-info\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-bottom\" />\n</svg>",
-      "trigger": "bi-arrow-bottom\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#inbox\" />\n</svg>",
+      "trigger": "bi-inbox\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#sign-out\" />\n</svg>",
-      "trigger": "bi-sign-out\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-top\" />\n</svg>",
+      "trigger": "bi-caret-top\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#forwards\" />\n</svg>",
-      "trigger": "bi-forwards\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-right\" />\n</svg>",
+      "trigger": "bi-arrow-right\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#checkmark\" />\n</svg>",
-      "trigger": "bi-checkmark\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#start\" />\n</svg>",
+      "trigger": "bi-start\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#close\" />\n</svg>",
-      "trigger": "bi-close\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#music\" />\n</svg>",
+      "trigger": "bi-music\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#cart\" />\n</svg>",
-      "trigger": "bi-cart\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#video\" />\n</svg>",
+      "trigger": "bi-video\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#code\" />\n</svg>",
+      "trigger": "bi-code\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#zoom-out\" />\n</svg>",
+      "trigger": "bi-zoom-out\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-top\" />\n</svg>",
+      "trigger": "bi-arrow-top\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#ellipsis-vertical\" />\n</svg>",
+      "trigger": "bi-ellipsis-vertical\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-top\" />\n</svg>",
+      "trigger": "bi-chevron-top\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#link\" />\n</svg>",
+      "trigger": "bi-link\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#reload\" />\n</svg>",
@@ -262,120 +74,336 @@
       "trigger": "bi-creditcard\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#settings\" />\n</svg>",
-      "trigger": "bi-settings\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#trash\" />\n</svg>",
+      "trigger": "bi-trash\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#menu\" />\n</svg>",
-      "trigger": "bi-menu\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#ban\" />\n</svg>",
+      "trigger": "bi-ban\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#reply\" />\n</svg>",
+      "trigger": "bi-reply\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#activity\" />\n</svg>",
+      "trigger": "bi-activity\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#search\" />\n</svg>",
+      "trigger": "bi-search\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#upload\" />\n</svg>",
+      "trigger": "bi-upload\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#flag\" />\n</svg>",
       "trigger": "bi-flag\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#code\" />\n</svg>",
-      "trigger": "bi-code\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#feed\" />\n</svg>",
+      "trigger": "bi-feed\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#bell\" />\n</svg>",
-      "trigger": "bi-bell\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#bag\" />\n</svg>",
+      "trigger": "bi-bag\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#mobile\" />\n</svg>",
-      "trigger": "bi-mobile\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#inbox\" />\n</svg>",
-      "trigger": "bi-inbox\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#photo\" />\n</svg>",
-      "trigger": "bi-photo\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#message\" />\n</svg>",
-      "trigger": "bi-message\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#archive\" />\n</svg>",
-      "trigger": "bi-archive\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-left\" />\n</svg>",
-      "trigger": "bi-arrow-left\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#print\" />\n</svg>",
+      "trigger": "bi-print\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#location\" />\n</svg>",
       "trigger": "bi-location\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#export\" />\n</svg>",
-      "trigger": "bi-export\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#star\" />\n</svg>",
+      "trigger": "bi-star\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#calendar\" />\n</svg>",
-      "trigger": "bi-calendar\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#clipboard\" />\n</svg>",
-      "trigger": "bi-clipboard\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-top\" />\n</svg>",
-      "trigger": "bi-caret-top\t<use>"
-    },
-    {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#telephone\" />\n</svg>",
-      "trigger": "bi-telephone\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#fullscreen\" />\n</svg>",
+      "trigger": "bi-fullscreen\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#bookmark\" />\n</svg>",
       "trigger": "bi-bookmark\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#home\" />\n</svg>",
-      "trigger": "bi-home\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#portfolio\" />\n</svg>",
+      "trigger": "bi-portfolio\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#video\" />\n</svg>",
-      "trigger": "bi-video\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#end\" />\n</svg>",
+      "trigger": "bi-end\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-top\" />\n</svg>",
-      "trigger": "bi-chevron-top\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#plus\" />\n</svg>",
+      "trigger": "bi-plus\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#microphone\" />\n</svg>",
-      "trigger": "bi-microphone\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#archive\" />\n</svg>",
+      "trigger": "bi-archive\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#desktop\" />\n</svg>",
-      "trigger": "bi-desktop\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#eye\" />\n</svg>",
+      "trigger": "bi-eye\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#download\" />\n</svg>",
-      "trigger": "bi-download\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#zoom-in\" />\n</svg>",
+      "trigger": "bi-zoom-in\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#unlock\" />\n</svg>",
-      "trigger": "bi-unlock\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#message\" />\n</svg>",
+      "trigger": "bi-message\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#link\" />\n</svg>",
-      "trigger": "bi-link\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#zoom-reset\" />\n</svg>",
+      "trigger": "bi-zoom-reset\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#cart\" />\n</svg>",
+      "trigger": "bi-cart\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-bottom\" />\n</svg>",
+      "trigger": "bi-caret-bottom\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#external\" />\n</svg>",
       "trigger": "bi-external\t<use>"
     },
     {
-      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#folder\" />\n</svg>",
-      "trigger": "bi-folder\t<use>"
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#volume\" />\n</svg>",
+      "trigger": "bi-volume\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#user\" />\n</svg>",
+      "trigger": "bi-user\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-left\" />\n</svg>",
+      "trigger": "bi-caret-left\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#play\" />\n</svg>",
+      "trigger": "bi-play\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#backwards\" />\n</svg>",
+      "trigger": "bi-backwards\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#eject\" />\n</svg>",
+      "trigger": "bi-eject\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#paperclip\" />\n</svg>",
+      "trigger": "bi-paperclip\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#heart\" />\n</svg>",
+      "trigger": "bi-heart\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#forwards\" />\n</svg>",
+      "trigger": "bi-forwards\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#menu\" />\n</svg>",
+      "trigger": "bi-menu\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#desktop\" />\n</svg>",
+      "trigger": "bi-desktop\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#mail\" />\n</svg>",
+      "trigger": "bi-mail\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#export\" />\n</svg>",
+      "trigger": "bi-export\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#moon\" />\n</svg>",
+      "trigger": "bi-moon\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#checkmark\" />\n</svg>",
+      "trigger": "bi-checkmark\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#move\" />\n</svg>",
+      "trigger": "bi-move\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#clock\" />\n</svg>",
+      "trigger": "bi-clock\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#sign-out\" />\n</svg>",
+      "trigger": "bi-sign-out\t<use>"
     },
     {
       "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#book\" />\n</svg>",
       "trigger": "bi-book\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-bottom\" />\n</svg>",
+      "trigger": "bi-chevron-bottom\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#photo\" />\n</svg>",
+      "trigger": "bi-photo\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#fullscreen-exit\" />\n</svg>",
+      "trigger": "bi-fullscreen-exit\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#minus\" />\n</svg>",
+      "trigger": "bi-minus\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#lock\" />\n</svg>",
+      "trigger": "bi-lock\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#ellipsis-horizontal\" />\n</svg>",
+      "trigger": "bi-ellipsis-horizontal\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#microphone\" />\n</svg>",
+      "trigger": "bi-microphone\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#alert\" />\n</svg>",
+      "trigger": "bi-alert\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#close\" />\n</svg>",
+      "trigger": "bi-close\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#folder\" />\n</svg>",
+      "trigger": "bi-folder\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#mobile\" />\n</svg>",
+      "trigger": "bi-mobile\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#home\" />\n</svg>",
+      "trigger": "bi-home\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#clipboard\" />\n</svg>",
+      "trigger": "bi-clipboard\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#file\" />\n</svg>",
+      "trigger": "bi-file\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#edit\" />\n</svg>",
+      "trigger": "bi-edit\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#unlock\" />\n</svg>",
+      "trigger": "bi-unlock\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#bell\" />\n</svg>",
+      "trigger": "bi-bell\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#filter\" />\n</svg>",
+      "trigger": "bi-filter\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-right\" />\n</svg>",
+      "trigger": "bi-chevron-right\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#download\" />\n</svg>",
+      "trigger": "bi-download\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#compose\" />\n</svg>",
+      "trigger": "bi-compose\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#camera\" />\n</svg>",
+      "trigger": "bi-camera\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#send\" />\n</svg>",
+      "trigger": "bi-send\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#chevron-left\" />\n</svg>",
+      "trigger": "bi-chevron-left\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#github\" />\n</svg>",
+      "trigger": "bi-github\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#pause\" />\n</svg>",
+      "trigger": "bi-pause\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#sign-in\" />\n</svg>",
+      "trigger": "bi-sign-in\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#caret-right\" />\n</svg>",
+      "trigger": "bi-caret-right\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#twitter\" />\n</svg>",
+      "trigger": "bi-twitter\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-left\" />\n</svg>",
+      "trigger": "bi-arrow-left\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#mute\" />\n</svg>",
+      "trigger": "bi-mute\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#import\" />\n</svg>",
+      "trigger": "bi-import\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#work\" />\n</svg>",
+      "trigger": "bi-work\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#gift\" />\n</svg>",
+      "trigger": "bi-gift\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#arrow-bottom\" />\n</svg>",
+      "trigger": "bi-arrow-bottom\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#telephone\" />\n</svg>",
+      "trigger": "bi-telephone\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#calendar\" />\n</svg>",
+      "trigger": "bi-calendar\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#tag\" />\n</svg>",
+      "trigger": "bi-tag\t<use>"
+    },
+    {
+      "contents": "<svg class=\"i\">\n\t<use xlink:href=\"#folder-open\" />\n</svg>",
+      "trigger": "bi-folder-open\t<use>"
     }
   ],
   "scope": "text.html -text.html.markdown"

@@ -2,664 +2,532 @@
   "#": "Generated with Atomizr - https://github.com/idleberg/sublime-atomizr",
   "completions": [
     {
-      "contents": "<i data-feather=\"type\"></i>",
-      "trigger": "feather-type\t<i>"
+      "contents": "<i data-feather=\"upload-cloud\"></i>",
+      "trigger": "feather-upload-cloud\t<i>"
     },
     {
-      "contents": "<i data-feather=\"phone-missed\"></i>",
-      "trigger": "feather-phone-missed\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"phone\"></i>",
-      "trigger": "feather-phone\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"mic-off\"></i>",
-      "trigger": "feather-mic-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"codepen\"></i>",
-      "trigger": "feather-codepen\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"shield-off\"></i>",
-      "trigger": "feather-shield-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"save\"></i>",
-      "trigger": "feather-save\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"camera\"></i>",
-      "trigger": "feather-camera\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"layers\"></i>",
-      "trigger": "feather-layers\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"briefcase\"></i>",
-      "trigger": "feather-briefcase\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"share\"></i>",
-      "trigger": "feather-share\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"battery-charging\"></i>",
-      "trigger": "feather-battery-charging\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"more-horizontal\"></i>",
-      "trigger": "feather-more-horizontal\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"eye\"></i>",
-      "trigger": "feather-eye\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-left-up\"></i>",
-      "trigger": "feather-corner-left-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"edit-3\"></i>",
-      "trigger": "feather-edit-3\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"edit-2\"></i>",
-      "trigger": "feather-edit-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"log-in\"></i>",
-      "trigger": "feather-log-in\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevrons-up\"></i>",
-      "trigger": "feather-chevrons-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"instagram\"></i>",
-      "trigger": "feather-instagram\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"phone-incoming\"></i>",
-      "trigger": "feather-phone-incoming\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"airplay\"></i>",
-      "trigger": "feather-airplay\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"plus-circle\"></i>",
-      "trigger": "feather-plus-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cloud-snow\"></i>",
-      "trigger": "feather-cloud-snow\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"message-square\"></i>",
-      "trigger": "feather-message-square\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"rotate-cw\"></i>",
-      "trigger": "feather-rotate-cw\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cloud\"></i>",
-      "trigger": "feather-cloud\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"git-commit\"></i>",
-      "trigger": "feather-git-commit\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"target\"></i>",
-      "trigger": "feather-target\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"power\"></i>",
-      "trigger": "feather-power\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"user\"></i>",
-      "trigger": "feather-user\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"git-pull-request\"></i>",
-      "trigger": "feather-git-pull-request\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"bold\"></i>",
-      "trigger": "feather-bold\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"mail\"></i>",
-      "trigger": "feather-mail\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"compass\"></i>",
-      "trigger": "feather-compass\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"sliders\"></i>",
-      "trigger": "feather-sliders\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"octagon\"></i>",
-      "trigger": "feather-octagon\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"plus\"></i>",
-      "trigger": "feather-plus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"italic\"></i>",
-      "trigger": "feather-italic\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"anchor\"></i>",
-      "trigger": "feather-anchor\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"crop\"></i>",
-      "trigger": "feather-crop\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"aperture\"></i>",
-      "trigger": "feather-aperture\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevron-left\"></i>",
-      "trigger": "feather-chevron-left\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"gitlab\"></i>",
-      "trigger": "feather-gitlab\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"zap\"></i>",
-      "trigger": "feather-zap\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"refresh-cw\"></i>",
-      "trigger": "feather-refresh-cw\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"phone-outgoing\"></i>",
-      "trigger": "feather-phone-outgoing\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"droplet\"></i>",
-      "trigger": "feather-droplet\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"database\"></i>",
-      "trigger": "feather-database\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"lock\"></i>",
-      "trigger": "feather-lock\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"trash\"></i>",
-      "trigger": "feather-trash\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"command\"></i>",
-      "trigger": "feather-command\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"zap-off\"></i>",
-      "trigger": "feather-zap-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"more-vertical\"></i>",
-      "trigger": "feather-more-vertical\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"sunset\"></i>",
-      "trigger": "feather-sunset\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-up-right\"></i>",
-      "trigger": "feather-corner-up-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"skip-forward\"></i>",
-      "trigger": "feather-skip-forward\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"message-circle\"></i>",
-      "trigger": "feather-message-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cast\"></i>",
-      "trigger": "feather-cast\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"log-out\"></i>",
-      "trigger": "feather-log-out\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"upload\"></i>",
-      "trigger": "feather-upload\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"hard-drive\"></i>",
-      "trigger": "feather-hard-drive\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"phone-forwarded\"></i>",
-      "trigger": "feather-phone-forwarded\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"tablet\"></i>",
-      "trigger": "feather-tablet\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-down-left\"></i>",
-      "trigger": "feather-arrow-down-left\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"repeat\"></i>",
-      "trigger": "feather-repeat\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"paperclip\"></i>",
-      "trigger": "feather-paperclip\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"list\"></i>",
-      "trigger": "feather-list\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"volume-1\"></i>",
-      "trigger": "feather-volume-1\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cloud-drizzle\"></i>",
-      "trigger": "feather-cloud-drizzle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"pie-chart\"></i>",
-      "trigger": "feather-pie-chart\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"monitor\"></i>",
-      "trigger": "feather-monitor\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"pause\"></i>",
-      "trigger": "feather-pause\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-left-circle\"></i>",
-      "trigger": "feather-arrow-left-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"user-x\"></i>",
-      "trigger": "feather-user-x\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-down\"></i>",
-      "trigger": "feather-arrow-down\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"phone-call\"></i>",
-      "trigger": "feather-phone-call\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"thermometer\"></i>",
-      "trigger": "feather-thermometer\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"volume\"></i>",
-      "trigger": "feather-volume\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-right-down\"></i>",
-      "trigger": "feather-corner-right-down\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"percent\"></i>",
-      "trigger": "feather-percent\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"alert-triangle\"></i>",
-      "trigger": "feather-alert-triangle\t<i>"
+      "contents": "<i data-feather=\"volume-x\"></i>",
+      "trigger": "feather-volume-x\t<i>"
     },
     {
       "contents": "<i data-feather=\"corner-down-right\"></i>",
       "trigger": "feather-corner-down-right\t<i>"
     },
     {
-      "contents": "<i data-feather=\"twitter\"></i>",
-      "trigger": "feather-twitter\t<i>"
+      "contents": "<i data-feather=\"plus-square\"></i>",
+      "trigger": "feather-plus-square\t<i>"
     },
     {
-      "contents": "<i data-feather=\"link-2\"></i>",
-      "trigger": "feather-link-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"git-merge\"></i>",
-      "trigger": "feather-git-merge\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"bell-off\"></i>",
-      "trigger": "feather-bell-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"info\"></i>",
-      "trigger": "feather-info\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevron-down\"></i>",
-      "trigger": "feather-chevron-down\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"scissors\"></i>",
-      "trigger": "feather-scissors\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"check-circle\"></i>",
-      "trigger": "feather-check-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"alert-circle\"></i>",
-      "trigger": "feather-alert-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"rewind\"></i>",
-      "trigger": "feather-rewind\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"feather\"></i>",
-      "trigger": "feather-feather\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"bar-chart-2\"></i>",
-      "trigger": "feather-bar-chart-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-up\"></i>",
-      "trigger": "feather-arrow-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"help-circle\"></i>",
-      "trigger": "feather-help-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"file-plus\"></i>",
-      "trigger": "feather-file-plus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"toggle-right\"></i>",
-      "trigger": "feather-toggle-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"folder-minus\"></i>",
-      "trigger": "feather-folder-minus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"hash\"></i>",
-      "trigger": "feather-hash\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"credit-card\"></i>",
-      "trigger": "feather-credit-card\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevron-up\"></i>",
-      "trigger": "feather-chevron-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cloud-lightning\"></i>",
-      "trigger": "feather-cloud-lightning\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"radio\"></i>",
-      "trigger": "feather-radio\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"phone-off\"></i>",
-      "trigger": "feather-phone-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"file-text\"></i>",
-      "trigger": "feather-file-text\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"stop-circle\"></i>",
-      "trigger": "feather-stop-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"x-square\"></i>",
-      "trigger": "feather-x-square\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"refresh-ccw\"></i>",
-      "trigger": "feather-refresh-ccw\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"minimize-2\"></i>",
-      "trigger": "feather-minimize-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"menu\"></i>",
-      "trigger": "feather-menu\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"trending-up\"></i>",
-      "trigger": "feather-trending-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"play-circle\"></i>",
-      "trigger": "feather-play-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"square\"></i>",
-      "trigger": "feather-square\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"inbox\"></i>",
-      "trigger": "feather-inbox\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"package\"></i>",
-      "trigger": "feather-package\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"maximize-2\"></i>",
-      "trigger": "feather-maximize-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-up-right\"></i>",
-      "trigger": "feather-arrow-up-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"rss\"></i>",
-      "trigger": "feather-rss\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"calendar\"></i>",
-      "trigger": "feather-calendar\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"clipboard\"></i>",
-      "trigger": "feather-clipboard\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"shield\"></i>",
-      "trigger": "feather-shield\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"maximize\"></i>",
-      "trigger": "feather-maximize\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"crosshair\"></i>",
-      "trigger": "feather-crosshair\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"minimize\"></i>",
-      "trigger": "feather-minimize\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"move\"></i>",
-      "trigger": "feather-move\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"grid\"></i>",
-      "trigger": "feather-grid\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"home\"></i>",
-      "trigger": "feather-home\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"smartphone\"></i>",
-      "trigger": "feather-smartphone\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"external-link\"></i>",
-      "trigger": "feather-external-link\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"book-open\"></i>",
-      "trigger": "feather-book-open\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"globe\"></i>",
-      "trigger": "feather-globe\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"bell\"></i>",
-      "trigger": "feather-bell\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"voicemail\"></i>",
-      "trigger": "feather-voicemail\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"delete\"></i>",
-      "trigger": "feather-delete\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"link\"></i>",
-      "trigger": "feather-link\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"slack\"></i>",
-      "trigger": "feather-slack\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"award\"></i>",
-      "trigger": "feather-award\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-up-left\"></i>",
-      "trigger": "feather-corner-up-left\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"sunrise\"></i>",
-      "trigger": "feather-sunrise\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"github\"></i>",
-      "trigger": "feather-github\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"circle\"></i>",
-      "trigger": "feather-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"headphones\"></i>",
-      "trigger": "feather-headphones\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"battery\"></i>",
-      "trigger": "feather-battery\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"minus\"></i>",
-      "trigger": "feather-minus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-right-up\"></i>",
-      "trigger": "feather-corner-right-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"slash\"></i>",
-      "trigger": "feather-slash\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"box\"></i>",
-      "trigger": "feather-box\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chrome\"></i>",
-      "trigger": "feather-chrome\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"minus-square\"></i>",
-      "trigger": "feather-minus-square\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"bar-chart\"></i>",
-      "trigger": "feather-bar-chart\t<i>"
+      "contents": "<i data-feather=\"skip-back\"></i>",
+      "trigger": "feather-skip-back\t<i>"
     },
     {
       "contents": "<i data-feather=\"volume-2\"></i>",
       "trigger": "feather-volume-2\t<i>"
     },
     {
-      "contents": "<i data-feather=\"shuffle\"></i>",
-      "trigger": "feather-shuffle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"pause-circle\"></i>",
-      "trigger": "feather-pause-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevron-right\"></i>",
-      "trigger": "feather-chevron-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"search\"></i>",
-      "trigger": "feather-search\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"check-square\"></i>",
-      "trigger": "feather-check-square\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cloud-rain\"></i>",
-      "trigger": "feather-cloud-rain\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"thumbs-down\"></i>",
-      "trigger": "feather-thumbs-down\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"moon\"></i>",
-      "trigger": "feather-moon\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"edit\"></i>",
-      "trigger": "feather-edit\t<i>"
+      "contents": "<i data-feather=\"grid\"></i>",
+      "trigger": "feather-grid\t<i>"
     },
     {
       "contents": "<i data-feather=\"toggle-left\"></i>",
       "trigger": "feather-toggle-left\t<i>"
     },
     {
-      "contents": "<i data-feather=\"server\"></i>",
-      "trigger": "feather-server\t<i>"
+      "contents": "<i data-feather=\"map\"></i>",
+      "trigger": "feather-map\t<i>"
     },
     {
-      "contents": "<i data-feather=\"star\"></i>",
-      "trigger": "feather-star\t<i>"
+      "contents": "<i data-feather=\"more-horizontal\"></i>",
+      "trigger": "feather-more-horizontal\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"check-square\"></i>",
+      "trigger": "feather-check-square\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"book-open\"></i>",
+      "trigger": "feather-book-open\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"at-sign\"></i>",
+      "trigger": "feather-at-sign\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"user-x\"></i>",
+      "trigger": "feather-user-x\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"share\"></i>",
+      "trigger": "feather-share\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"credit-card\"></i>",
+      "trigger": "feather-credit-card\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"crop\"></i>",
+      "trigger": "feather-crop\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"framer\"></i>",
+      "trigger": "feather-framer\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"percent\"></i>",
+      "trigger": "feather-percent\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"copy\"></i>",
+      "trigger": "feather-copy\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"align-left\"></i>",
+      "trigger": "feather-align-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"bar-chart-2\"></i>",
+      "trigger": "feather-bar-chart-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cloud-rain\"></i>",
+      "trigger": "feather-cloud-rain\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"sunrise\"></i>",
+      "trigger": "feather-sunrise\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-right-up\"></i>",
+      "trigger": "feather-corner-right-up\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"file-plus\"></i>",
+      "trigger": "feather-file-plus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"activity\"></i>",
+      "trigger": "feather-activity\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"search\"></i>",
+      "trigger": "feather-search\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"disc\"></i>",
+      "trigger": "feather-disc\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"sidebar\"></i>",
+      "trigger": "feather-sidebar\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone\"></i>",
+      "trigger": "feather-phone\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-up-left\"></i>",
+      "trigger": "feather-arrow-up-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"database\"></i>",
+      "trigger": "feather-database\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-right-circle\"></i>",
+      "trigger": "feather-arrow-right-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cloud\"></i>",
+      "trigger": "feather-cloud\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"toggle-right\"></i>",
+      "trigger": "feather-toggle-right\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone-missed\"></i>",
+      "trigger": "feather-phone-missed\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"rss\"></i>",
+      "trigger": "feather-rss\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"volume-1\"></i>",
+      "trigger": "feather-volume-1\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"radio\"></i>",
+      "trigger": "feather-radio\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"compass\"></i>",
+      "trigger": "feather-compass\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"bookmark\"></i>",
+      "trigger": "feather-bookmark\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"plus\"></i>",
+      "trigger": "feather-plus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"meh\"></i>",
+      "trigger": "feather-meh\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"zoom-in\"></i>",
+      "trigger": "feather-zoom-in\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"repeat\"></i>",
+      "trigger": "feather-repeat\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"pen-tool\"></i>",
+      "trigger": "feather-pen-tool\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"tv\"></i>",
+      "trigger": "feather-tv\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"umbrella\"></i>",
+      "trigger": "feather-umbrella\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"codesandbox\"></i>",
+      "trigger": "feather-codesandbox\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-right-down\"></i>",
+      "trigger": "feather-corner-right-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"play-circle\"></i>",
+      "trigger": "feather-play-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cloud-lightning\"></i>",
+      "trigger": "feather-cloud-lightning\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"user\"></i>",
+      "trigger": "feather-user\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"code\"></i>",
+      "trigger": "feather-code\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"pie-chart\"></i>",
+      "trigger": "feather-pie-chart\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"chevrons-up\"></i>",
+      "trigger": "feather-chevrons-up\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"crosshair\"></i>",
+      "trigger": "feather-crosshair\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"shield\"></i>",
+      "trigger": "feather-shield\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"edit-2\"></i>",
+      "trigger": "feather-edit-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"aperture\"></i>",
+      "trigger": "feather-aperture\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"video-off\"></i>",
+      "trigger": "feather-video-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"trending-up\"></i>",
+      "trigger": "feather-trending-up\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"trending-down\"></i>",
+      "trigger": "feather-trending-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"battery\"></i>",
+      "trigger": "feather-battery\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cpu\"></i>",
+      "trigger": "feather-cpu\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"instagram\"></i>",
+      "trigger": "feather-instagram\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone-off\"></i>",
+      "trigger": "feather-phone-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"figma\"></i>",
+      "trigger": "feather-figma\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"mail\"></i>",
+      "trigger": "feather-mail\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"folder-minus\"></i>",
+      "trigger": "feather-folder-minus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"moon\"></i>",
+      "trigger": "feather-moon\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"underline\"></i>",
+      "trigger": "feather-underline\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"mouse-pointer\"></i>",
+      "trigger": "feather-mouse-pointer\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"delete\"></i>",
+      "trigger": "feather-delete\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"navigation\"></i>",
+      "trigger": "feather-navigation\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"clock\"></i>",
+      "trigger": "feather-clock\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"book\"></i>",
+      "trigger": "feather-book\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"watch\"></i>",
+      "trigger": "feather-watch\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"move\"></i>",
+      "trigger": "feather-move\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"thumbs-down\"></i>",
+      "trigger": "feather-thumbs-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"facebook\"></i>",
+      "trigger": "feather-facebook\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"minus\"></i>",
+      "trigger": "feather-minus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"youtube\"></i>",
+      "trigger": "feather-youtube\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"user-check\"></i>",
+      "trigger": "feather-user-check\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"sun\"></i>",
+      "trigger": "feather-sun\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"lock\"></i>",
+      "trigger": "feather-lock\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"x-octagon\"></i>",
+      "trigger": "feather-x-octagon\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"chevrons-right\"></i>",
+      "trigger": "feather-chevrons-right\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"sunset\"></i>",
+      "trigger": "feather-sunset\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"git-branch\"></i>",
+      "trigger": "feather-git-branch\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"key\"></i>",
+      "trigger": "feather-key\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"wifi-off\"></i>",
+      "trigger": "feather-wifi-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-left-up\"></i>",
+      "trigger": "feather-corner-left-up\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"frown\"></i>",
+      "trigger": "feather-frown\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-down-left\"></i>",
+      "trigger": "feather-arrow-down-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"film\"></i>",
+      "trigger": "feather-film\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"coffee\"></i>",
+      "trigger": "feather-coffee\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"clipboard\"></i>",
+      "trigger": "feather-clipboard\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"feather\"></i>",
+      "trigger": "feather-feather\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone-forwarded\"></i>",
+      "trigger": "feather-phone-forwarded\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"award\"></i>",
+      "trigger": "feather-award\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"gift\"></i>",
+      "trigger": "feather-gift\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"voicemail\"></i>",
+      "trigger": "feather-voicemail\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"unlock\"></i>",
+      "trigger": "feather-unlock\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"bell\"></i>",
+      "trigger": "feather-bell\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"hard-drive\"></i>",
+      "trigger": "feather-hard-drive\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"check-circle\"></i>",
+      "trigger": "feather-check-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"edit\"></i>",
+      "trigger": "feather-edit\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"chevron-right\"></i>",
+      "trigger": "feather-chevron-right\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"trash\"></i>",
+      "trigger": "feather-trash\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"message-circle\"></i>",
+      "trigger": "feather-message-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"minimize-2\"></i>",
+      "trigger": "feather-minimize-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-up\"></i>",
+      "trigger": "feather-arrow-up\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"map-pin\"></i>",
+      "trigger": "feather-map-pin\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"terminal\"></i>",
+      "trigger": "feather-terminal\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"camera-off\"></i>",
+      "trigger": "feather-camera-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"shopping-bag\"></i>",
+      "trigger": "feather-shopping-bag\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"battery-charging\"></i>",
+      "trigger": "feather-battery-charging\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"download\"></i>",
+      "trigger": "feather-download\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"github\"></i>",
+      "trigger": "feather-github\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"pause\"></i>",
+      "trigger": "feather-pause\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"globe\"></i>",
+      "trigger": "feather-globe\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"smile\"></i>",
+      "trigger": "feather-smile\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"git-commit\"></i>",
+      "trigger": "feather-git-commit\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-down-circle\"></i>",
+      "trigger": "feather-arrow-down-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"twitter\"></i>",
+      "trigger": "feather-twitter\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"shopping-cart\"></i>",
+      "trigger": "feather-shopping-cart\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"codepen\"></i>",
+      "trigger": "feather-codepen\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"list\"></i>",
+      "trigger": "feather-list\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-left-circle\"></i>",
+      "trigger": "feather-arrow-left-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"x-circle\"></i>",
+      "trigger": "feather-x-circle\t<i>"
     },
     {
       "contents": "<i data-feather=\"x\"></i>",
@@ -670,388 +538,596 @@
       "trigger": "feather-bluetooth\t<i>"
     },
     {
-      "contents": "<i data-feather=\"file-minus\"></i>",
-      "trigger": "feather-file-minus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-down-circle\"></i>",
-      "trigger": "feather-arrow-down-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"filter\"></i>",
-      "trigger": "feather-filter\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"plus-square\"></i>",
-      "trigger": "feather-plus-square\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-up-left\"></i>",
-      "trigger": "feather-arrow-up-left\t<i>"
+      "contents": "<i data-feather=\"shield-off\"></i>",
+      "trigger": "feather-shield-off\t<i>"
     },
     {
       "contents": "<i data-feather=\"linkedin\"></i>",
       "trigger": "feather-linkedin\t<i>"
     },
     {
-      "contents": "<i data-feather=\"disc\"></i>",
-      "trigger": "feather-disc\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"rotate-ccw\"></i>",
-      "trigger": "feather-rotate-ccw\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"pocket\"></i>",
-      "trigger": "feather-pocket\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"printer\"></i>",
-      "trigger": "feather-printer\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"file\"></i>",
-      "trigger": "feather-file\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-right\"></i>",
-      "trigger": "feather-arrow-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-left-down\"></i>",
-      "trigger": "feather-corner-left-down\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"volume-x\"></i>",
-      "trigger": "feather-volume-x\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevrons-right\"></i>",
-      "trigger": "feather-chevrons-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"tv\"></i>",
-      "trigger": "feather-tv\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"unlock\"></i>",
-      "trigger": "feather-unlock\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"check\"></i>",
-      "trigger": "feather-check\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"play\"></i>",
-      "trigger": "feather-play\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"user-plus\"></i>",
-      "trigger": "feather-user-plus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"facebook\"></i>",
-      "trigger": "feather-facebook\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"wind\"></i>",
-      "trigger": "feather-wind\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"camera-off\"></i>",
-      "trigger": "feather-camera-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"terminal\"></i>",
-      "trigger": "feather-terminal\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"bookmark\"></i>",
-      "trigger": "feather-bookmark\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"upload-cloud\"></i>",
-      "trigger": "feather-upload-cloud\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"shopping-bag\"></i>",
-      "trigger": "feather-shopping-bag\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"wifi\"></i>",
-      "trigger": "feather-wifi\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cpu\"></i>",
-      "trigger": "feather-cpu\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"activity\"></i>",
-      "trigger": "feather-activity\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"eye-off\"></i>",
-      "trigger": "feather-eye-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"fast-forward\"></i>",
-      "trigger": "feather-fast-forward\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"loader\"></i>",
-      "trigger": "feather-loader\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"watch\"></i>",
-      "trigger": "feather-watch\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"heart\"></i>",
-      "trigger": "feather-heart\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"thumbs-up\"></i>",
-      "trigger": "feather-thumbs-up\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"align-justify\"></i>",
-      "trigger": "feather-align-justify\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"film\"></i>",
-      "trigger": "feather-film\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"umbrella\"></i>",
-      "trigger": "feather-umbrella\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"user-check\"></i>",
-      "trigger": "feather-user-check\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"send\"></i>",
-      "trigger": "feather-send\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"corner-down-left\"></i>",
-      "trigger": "feather-corner-down-left\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"share-2\"></i>",
-      "trigger": "feather-share-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"sun\"></i>",
-      "trigger": "feather-sun\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"git-branch\"></i>",
-      "trigger": "feather-git-branch\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"video-off\"></i>",
-      "trigger": "feather-video-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"clock\"></i>",
-      "trigger": "feather-clock\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"music\"></i>",
-      "trigger": "feather-music\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"mic\"></i>",
-      "trigger": "feather-mic\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"wifi-off\"></i>",
-      "trigger": "feather-wifi-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"download-cloud\"></i>",
-      "trigger": "feather-download-cloud\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"map\"></i>",
-      "trigger": "feather-map\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"map-pin\"></i>",
-      "trigger": "feather-map-pin\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"x-circle\"></i>",
-      "trigger": "feather-x-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevrons-left\"></i>",
-      "trigger": "feather-chevrons-left\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"truck\"></i>",
-      "trigger": "feather-truck\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-right-circle\"></i>",
-      "trigger": "feather-arrow-right-circle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"align-right\"></i>",
-      "trigger": "feather-align-right\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"skip-back\"></i>",
-      "trigger": "feather-skip-back\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"trash-2\"></i>",
-      "trigger": "feather-trash-2\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"underline\"></i>",
-      "trigger": "feather-underline\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"align-center\"></i>",
-      "trigger": "feather-align-center\t<i>"
-    },
-    {
       "contents": "<i data-feather=\"triangle\"></i>",
       "trigger": "feather-triangle\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"settings\"></i>",
-      "trigger": "feather-settings\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"zoom-out\"></i>",
-      "trigger": "feather-zoom-out\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"cloud-off\"></i>",
-      "trigger": "feather-cloud-off\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"flag\"></i>",
-      "trigger": "feather-flag\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"code\"></i>",
-      "trigger": "feather-code\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"speaker\"></i>",
-      "trigger": "feather-speaker\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"shopping-cart\"></i>",
-      "trigger": "feather-shopping-cart\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"copy\"></i>",
-      "trigger": "feather-copy\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"chevrons-down\"></i>",
-      "trigger": "feather-chevrons-down\t<i>"
     },
     {
       "contents": "<i data-feather=\"arrow-down-right\"></i>",
       "trigger": "feather-arrow-down-right\t<i>"
     },
     {
-      "contents": "<i data-feather=\"layout\"></i>",
-      "trigger": "feather-layout\t<i>"
+      "contents": "<i data-feather=\"chevron-up\"></i>",
+      "trigger": "feather-chevron-up\t<i>"
     },
     {
-      "contents": "<i data-feather=\"align-left\"></i>",
-      "trigger": "feather-align-left\t<i>"
+      "contents": "<i data-feather=\"settings\"></i>",
+      "trigger": "feather-settings\t<i>"
     },
     {
-      "contents": "<i data-feather=\"navigation-2\"></i>",
-      "trigger": "feather-navigation-2\t<i>"
+      "contents": "<i data-feather=\"x-square\"></i>",
+      "trigger": "feather-x-square\t<i>"
     },
     {
-      "contents": "<i data-feather=\"at-sign\"></i>",
-      "trigger": "feather-at-sign\t<i>"
+      "contents": "<i data-feather=\"info\"></i>",
+      "trigger": "feather-info\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"inbox\"></i>",
+      "trigger": "feather-inbox\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"eye-off\"></i>",
+      "trigger": "feather-eye-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"file-text\"></i>",
+      "trigger": "feather-file-text\t<i>"
     },
     {
       "contents": "<i data-feather=\"image\"></i>",
       "trigger": "feather-image\t<i>"
     },
     {
-      "contents": "<i data-feather=\"arrow-left\"></i>",
-      "trigger": "feather-arrow-left\t<i>"
+      "contents": "<i data-feather=\"arrow-right\"></i>",
+      "trigger": "feather-arrow-right\t<i>"
     },
     {
-      "contents": "<i data-feather=\"minus-circle\"></i>",
-      "trigger": "feather-minus-circle\t<i>"
+      "contents": "<i data-feather=\"refresh-ccw\"></i>",
+      "trigger": "feather-refresh-ccw\t<i>"
     },
     {
-      "contents": "<i data-feather=\"zoom-in\"></i>",
-      "trigger": "feather-zoom-in\t<i>"
+      "contents": "<i data-feather=\"scissors\"></i>",
+      "trigger": "feather-scissors\t<i>"
     },
     {
-      "contents": "<i data-feather=\"tag\"></i>",
-      "trigger": "feather-tag\t<i>"
+      "contents": "<i data-feather=\"music\"></i>",
+      "trigger": "feather-music\t<i>"
     },
     {
-      "contents": "<i data-feather=\"dollar-sign\"></i>",
-      "trigger": "feather-dollar-sign\t<i>"
+      "contents": "<i data-feather=\"chevrons-left\"></i>",
+      "trigger": "feather-chevrons-left\t<i>"
     },
     {
-      "contents": "<i data-feather=\"navigation\"></i>",
-      "trigger": "feather-navigation\t<i>"
+      "contents": "<i data-feather=\"layout\"></i>",
+      "trigger": "feather-layout\t<i>"
     },
     {
-      "contents": "<i data-feather=\"trending-down\"></i>",
-      "trigger": "feather-trending-down\t<i>"
+      "contents": "<i data-feather=\"check\"></i>",
+      "trigger": "feather-check\t<i>"
     },
     {
-      "contents": "<i data-feather=\"user-minus\"></i>",
-      "trigger": "feather-user-minus\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"users\"></i>",
-      "trigger": "feather-users\t<i>"
-    },
-    {
-      "contents": "<i data-feather=\"arrow-up-circle\"></i>",
-      "trigger": "feather-arrow-up-circle\t<i>"
+      "contents": "<i data-feather=\"edit-3\"></i>",
+      "trigger": "feather-edit-3\t<i>"
     },
     {
       "contents": "<i data-feather=\"alert-octagon\"></i>",
       "trigger": "feather-alert-octagon\t<i>"
     },
     {
-      "contents": "<i data-feather=\"video\"></i>",
-      "trigger": "feather-video\t<i>"
+      "contents": "<i data-feather=\"zoom-out\"></i>",
+      "trigger": "feather-zoom-out\t<i>"
     },
     {
-      "contents": "<i data-feather=\"sidebar\"></i>",
-      "trigger": "feather-sidebar\t<i>"
+      "contents": "<i data-feather=\"maximize-2\"></i>",
+      "trigger": "feather-maximize-2\t<i>"
     },
     {
-      "contents": "<i data-feather=\"download\"></i>",
-      "trigger": "feather-download\t<i>"
+      "contents": "<i data-feather=\"chrome\"></i>",
+      "trigger": "feather-chrome\t<i>"
     },
     {
-      "contents": "<i data-feather=\"folder-plus\"></i>",
-      "trigger": "feather-folder-plus\t<i>"
+      "contents": "<i data-feather=\"twitch\"></i>",
+      "trigger": "feather-twitch\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone-outgoing\"></i>",
+      "trigger": "feather-phone-outgoing\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"link\"></i>",
+      "trigger": "feather-link\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"align-justify\"></i>",
+      "trigger": "feather-align-justify\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"target\"></i>",
+      "trigger": "feather-target\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-up-left\"></i>",
+      "trigger": "feather-corner-up-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"log-in\"></i>",
+      "trigger": "feather-log-in\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"circle\"></i>",
+      "trigger": "feather-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"minus-circle\"></i>",
+      "trigger": "feather-minus-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"stop-circle\"></i>",
+      "trigger": "feather-stop-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"headphones\"></i>",
+      "trigger": "feather-headphones\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"loader\"></i>",
+      "trigger": "feather-loader\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"upload\"></i>",
+      "trigger": "feather-upload\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"tablet\"></i>",
+      "trigger": "feather-tablet\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"octagon\"></i>",
+      "trigger": "feather-octagon\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"flag\"></i>",
+      "trigger": "feather-flag\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"minimize\"></i>",
+      "trigger": "feather-minimize\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"chevrons-down\"></i>",
+      "trigger": "feather-chevrons-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"hexagon\"></i>",
+      "trigger": "feather-hexagon\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"fast-forward\"></i>",
+      "trigger": "feather-fast-forward\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"share-2\"></i>",
+      "trigger": "feather-share-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"git-pull-request\"></i>",
+      "trigger": "feather-git-pull-request\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"minus-square\"></i>",
+      "trigger": "feather-minus-square\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"tool\"></i>",
+      "trigger": "feather-tool\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"star\"></i>",
+      "trigger": "feather-star\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"slack\"></i>",
+      "trigger": "feather-slack\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"italic\"></i>",
+      "trigger": "feather-italic\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"archive\"></i>",
+      "trigger": "feather-archive\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"eye\"></i>",
+      "trigger": "feather-eye\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"file-minus\"></i>",
+      "trigger": "feather-file-minus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"mic\"></i>",
+      "trigger": "feather-mic\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"navigation-2\"></i>",
+      "trigger": "feather-navigation-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"external-link\"></i>",
+      "trigger": "feather-external-link\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"log-out\"></i>",
+      "trigger": "feather-log-out\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"align-center\"></i>",
+      "trigger": "feather-align-center\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"rotate-ccw\"></i>",
+      "trigger": "feather-rotate-ccw\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"anchor\"></i>",
+      "trigger": "feather-anchor\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"volume\"></i>",
+      "trigger": "feather-volume\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"truck\"></i>",
+      "trigger": "feather-truck\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"align-right\"></i>",
+      "trigger": "feather-align-right\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"slash\"></i>",
+      "trigger": "feather-slash\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"play\"></i>",
+      "trigger": "feather-play\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"type\"></i>",
+      "trigger": "feather-type\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"paperclip\"></i>",
+      "trigger": "feather-paperclip\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"more-vertical\"></i>",
+      "trigger": "feather-more-vertical\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"heart\"></i>",
+      "trigger": "feather-heart\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"download-cloud\"></i>",
+      "trigger": "feather-download-cloud\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"thumbs-up\"></i>",
+      "trigger": "feather-thumbs-up\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"smartphone\"></i>",
+      "trigger": "feather-smartphone\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"printer\"></i>",
+      "trigger": "feather-printer\t<i>"
     },
     {
       "contents": "<i data-feather=\"life-buoy\"></i>",
       "trigger": "feather-life-buoy\t<i>"
     },
     {
+      "contents": "<i data-feather=\"wifi\"></i>",
+      "trigger": "feather-wifi\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-up-circle\"></i>",
+      "trigger": "feather-arrow-up-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"briefcase\"></i>",
+      "trigger": "feather-briefcase\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"gitlab\"></i>",
+      "trigger": "feather-gitlab\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"menu\"></i>",
+      "trigger": "feather-menu\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-left-down\"></i>",
+      "trigger": "feather-corner-left-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone-incoming\"></i>",
+      "trigger": "feather-phone-incoming\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-left\"></i>",
+      "trigger": "feather-arrow-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"message-square\"></i>",
+      "trigger": "feather-message-square\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-down\"></i>",
+      "trigger": "feather-arrow-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"git-merge\"></i>",
+      "trigger": "feather-git-merge\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"users\"></i>",
+      "trigger": "feather-users\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"zap\"></i>",
+      "trigger": "feather-zap\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"pause-circle\"></i>",
+      "trigger": "feather-pause-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"columns\"></i>",
+      "trigger": "feather-columns\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cloud-snow\"></i>",
+      "trigger": "feather-cloud-snow\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"box\"></i>",
+      "trigger": "feather-box\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-up-right\"></i>",
+      "trigger": "feather-corner-up-right\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"speaker\"></i>",
+      "trigger": "feather-speaker\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"folder-plus\"></i>",
+      "trigger": "feather-folder-plus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"trash-2\"></i>",
+      "trigger": "feather-trash-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"trello\"></i>",
+      "trigger": "feather-trello\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"refresh-cw\"></i>",
+      "trigger": "feather-refresh-cw\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"video\"></i>",
+      "trigger": "feather-video\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"power\"></i>",
+      "trigger": "feather-power\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"bell-off\"></i>",
+      "trigger": "feather-bell-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"shuffle\"></i>",
+      "trigger": "feather-shuffle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"dollar-sign\"></i>",
+      "trigger": "feather-dollar-sign\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"mic-off\"></i>",
+      "trigger": "feather-mic-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"help-circle\"></i>",
+      "trigger": "feather-help-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"skip-forward\"></i>",
+      "trigger": "feather-skip-forward\t<i>"
+    },
+    {
       "contents": "<i data-feather=\"folder\"></i>",
       "trigger": "feather-folder\t<i>"
     },
     {
-      "contents": "<i data-feather=\"book\"></i>",
-      "trigger": "feather-book\t<i>"
+      "contents": "<i data-feather=\"cloud-drizzle\"></i>",
+      "trigger": "feather-cloud-drizzle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"home\"></i>",
+      "trigger": "feather-home\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cloud-off\"></i>",
+      "trigger": "feather-cloud-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"server\"></i>",
+      "trigger": "feather-server\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"bar-chart\"></i>",
+      "trigger": "feather-bar-chart\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"link-2\"></i>",
+      "trigger": "feather-link-2\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"file\"></i>",
+      "trigger": "feather-file\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"phone-call\"></i>",
+      "trigger": "feather-phone-call\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"maximize\"></i>",
+      "trigger": "feather-maximize\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"filter\"></i>",
+      "trigger": "feather-filter\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"monitor\"></i>",
+      "trigger": "feather-monitor\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"command\"></i>",
+      "trigger": "feather-command\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"package\"></i>",
+      "trigger": "feather-package\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"chevron-down\"></i>",
+      "trigger": "feather-chevron-down\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"rotate-cw\"></i>",
+      "trigger": "feather-rotate-cw\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"bold\"></i>",
+      "trigger": "feather-bold\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"save\"></i>",
+      "trigger": "feather-save\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"alert-triangle\"></i>",
+      "trigger": "feather-alert-triangle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"pocket\"></i>",
+      "trigger": "feather-pocket\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"camera\"></i>",
+      "trigger": "feather-camera\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"send\"></i>",
+      "trigger": "feather-send\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"chevron-left\"></i>",
+      "trigger": "feather-chevron-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"droplet\"></i>",
+      "trigger": "feather-droplet\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"cast\"></i>",
+      "trigger": "feather-cast\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"user-plus\"></i>",
+      "trigger": "feather-user-plus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"rewind\"></i>",
+      "trigger": "feather-rewind\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"square\"></i>",
+      "trigger": "feather-square\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"zap-off\"></i>",
+      "trigger": "feather-zap-off\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"alert-circle\"></i>",
+      "trigger": "feather-alert-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"user-minus\"></i>",
+      "trigger": "feather-user-minus\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"plus-circle\"></i>",
+      "trigger": "feather-plus-circle\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"corner-down-left\"></i>",
+      "trigger": "feather-corner-down-left\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"wind\"></i>",
+      "trigger": "feather-wind\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"layers\"></i>",
+      "trigger": "feather-layers\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"arrow-up-right\"></i>",
+      "trigger": "feather-arrow-up-right\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"airplay\"></i>",
+      "trigger": "feather-airplay\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"calendar\"></i>",
+      "trigger": "feather-calendar\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"tag\"></i>",
+      "trigger": "feather-tag\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"sliders\"></i>",
+      "trigger": "feather-sliders\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"thermometer\"></i>",
+      "trigger": "feather-thermometer\t<i>"
+    },
+    {
+      "contents": "<i data-feather=\"hash\"></i>",
+      "trigger": "feather-hash\t<i>"
     }
   ],
   "scope": "source.js.jsx, text.html"

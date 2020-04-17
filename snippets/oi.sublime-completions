@@ -894,5 +894,5 @@
       "trigger": "oi-credit-card\t<use>"
     }
   ],
-  "scope": "text.html -text.html.markdown"
+  "scope": "text.html -text.html.markdown, .source.svelte"
 }

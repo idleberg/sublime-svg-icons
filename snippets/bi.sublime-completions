@@ -406,5 +406,5 @@
       "trigger": "bi-folder-open\t<use>"
     }
   ],
-  "scope": "text.html -text.html.markdown"
+  "scope": "text.html -text.html.markdown, .source.svelte"
 }

@@ -710,5 +710,5 @@
       "trigger": "octicon-git-compare\t<use>"
     }
   ],
-  "scope": "text.html -text.html.markdown"
+  "scope": "text.html -text.html.markdown, .source.svelte"
 }

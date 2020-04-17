@@ -282,5 +282,5 @@
       "trigger": "ei-chevron-up\t<div data-icon>"
     }
   ],
-  "scope": "source.js.jsx, text.html -text.html.markdown"
+  "scope": "source.js.jsx, text.html -text.html.markdown, .source.svelte"
 }

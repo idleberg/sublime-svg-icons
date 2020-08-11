@@ -46,10 +46,6 @@ Prefix         | SVG Icons                           | Version
 
 This work is licensed under the [The MIT License](LICENSE).
 
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-svg-icons) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
-
 [bi]: https://github.com/danklammer/bytesize-icons
 [ei]: https://github.com/outpunk/evil-icons
 [feather]: https://github.com/colebemis/feather

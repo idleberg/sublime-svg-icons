@@ -1,0 +1,3346 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.js.jsx, text.html",
+  "completions": [
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-2fa\" />\n</svg>",
+      "trigger": "tabler-2fa"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-3d-cube-sphere\" />\n</svg>",
+      "trigger": "tabler-3d-cube-sphere"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-a-b\" />\n</svg>",
+      "trigger": "tabler-a-b"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-access-point-off\" />\n</svg>",
+      "trigger": "tabler-access-point-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-access-point\" />\n</svg>",
+      "trigger": "tabler-access-point"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-accessible\" />\n</svg>",
+      "trigger": "tabler-accessible"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-activity\" />\n</svg>",
+      "trigger": "tabler-activity"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ad\" />\n</svg>",
+      "trigger": "tabler-ad"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-adjustments-alt\" />\n</svg>",
+      "trigger": "tabler-adjustments-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-adjustments-horizontal\" />\n</svg>",
+      "trigger": "tabler-adjustments-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-adjustments\" />\n</svg>",
+      "trigger": "tabler-adjustments"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-alarm\" />\n</svg>",
+      "trigger": "tabler-alarm"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-alert-circle\" />\n</svg>",
+      "trigger": "tabler-alert-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-alert-octagon\" />\n</svg>",
+      "trigger": "tabler-alert-octagon"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-alert-triangle\" />\n</svg>",
+      "trigger": "tabler-alert-triangle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-alien\" />\n</svg>",
+      "trigger": "tabler-alien"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-center\" />\n</svg>",
+      "trigger": "tabler-align-center"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-justified\" />\n</svg>",
+      "trigger": "tabler-align-justified"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-left\" />\n</svg>",
+      "trigger": "tabler-align-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-align-right\" />\n</svg>",
+      "trigger": "tabler-align-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ambulance\" />\n</svg>",
+      "trigger": "tabler-ambulance"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-anchor\" />\n</svg>",
+      "trigger": "tabler-anchor"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-1\" />\n</svg>",
+      "trigger": "tabler-antenna-bars-1"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-2\" />\n</svg>",
+      "trigger": "tabler-antenna-bars-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-3\" />\n</svg>",
+      "trigger": "tabler-antenna-bars-3"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-4\" />\n</svg>",
+      "trigger": "tabler-antenna-bars-4"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-antenna-bars-5\" />\n</svg>",
+      "trigger": "tabler-antenna-bars-5"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-aperture\" />\n</svg>",
+      "trigger": "tabler-aperture"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-apps\" />\n</svg>",
+      "trigger": "tabler-apps"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-archive\" />\n</svg>",
+      "trigger": "tabler-archive"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-back-up\" />\n</svg>",
+      "trigger": "tabler-arrow-back-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-back\" />\n</svg>",
+      "trigger": "tabler-arrow-back"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-down\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-left\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-right\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-down\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-to-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-left\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-to-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-right\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-to-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-to-up\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-to-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-bar-up\" />\n</svg>",
+      "trigger": "tabler-arrow-bar-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-down-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-left-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-down-left-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-left\" />\n</svg>",
+      "trigger": "tabler-arrow-down-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-right-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-down-right-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down-right\" />\n</svg>",
+      "trigger": "tabler-arrow-down-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-down\" />\n</svg>",
+      "trigger": "tabler-arrow-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-forward-up\" />\n</svg>",
+      "trigger": "tabler-arrow-forward-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-forward\" />\n</svg>",
+      "trigger": "tabler-arrow-forward"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-left-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-left-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-left\" />\n</svg>",
+      "trigger": "tabler-arrow-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-down\" />\n</svg>",
+      "trigger": "tabler-arrow-narrow-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-left\" />\n</svg>",
+      "trigger": "tabler-arrow-narrow-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-right\" />\n</svg>",
+      "trigger": "tabler-arrow-narrow-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-narrow-up\" />\n</svg>",
+      "trigger": "tabler-arrow-narrow-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-ramp-left\" />\n</svg>",
+      "trigger": "tabler-arrow-ramp-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-ramp-right\" />\n</svg>",
+      "trigger": "tabler-arrow-ramp-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-right-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-right-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-right\" />\n</svg>",
+      "trigger": "tabler-arrow-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-up-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-left-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-up-left-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-left\" />\n</svg>",
+      "trigger": "tabler-arrow-up-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-right-circle\" />\n</svg>",
+      "trigger": "tabler-arrow-up-right-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up-right\" />\n</svg>",
+      "trigger": "tabler-arrow-up-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrow-up\" />\n</svg>",
+      "trigger": "tabler-arrow-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-diagonal-2\" />\n</svg>",
+      "trigger": "tabler-arrows-diagonal-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-diagonal\" />\n</svg>",
+      "trigger": "tabler-arrows-diagonal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-horizontal\" />\n</svg>",
+      "trigger": "tabler-arrows-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-maximize\" />\n</svg>",
+      "trigger": "tabler-arrows-maximize"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-minimize\" />\n</svg>",
+      "trigger": "tabler-arrows-minimize"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-sort\" />\n</svg>",
+      "trigger": "tabler-arrows-sort"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-arrows-vertical\" />\n</svg>",
+      "trigger": "tabler-arrows-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-artboard\" />\n</svg>",
+      "trigger": "tabler-artboard"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-aspect-ratio\" />\n</svg>",
+      "trigger": "tabler-aspect-ratio"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-at\" />\n</svg>",
+      "trigger": "tabler-at"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-atom-2\" />\n</svg>",
+      "trigger": "tabler-atom-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-atom\" />\n</svg>",
+      "trigger": "tabler-atom"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-award\" />\n</svg>",
+      "trigger": "tabler-award"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-backspace\" />\n</svg>",
+      "trigger": "tabler-backspace"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-basketball\" />\n</svg>",
+      "trigger": "tabler-ball-basketball"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-bowling\" />\n</svg>",
+      "trigger": "tabler-ball-bowling"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-tennis\" />\n</svg>",
+      "trigger": "tabler-ball-tennis"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ball-volleyball\" />\n</svg>",
+      "trigger": "tabler-ball-volleyball"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ban\" />\n</svg>",
+      "trigger": "tabler-ban"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bandage\" />\n</svg>",
+      "trigger": "tabler-bandage"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-barcode\" />\n</svg>",
+      "trigger": "tabler-barcode"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-basket\" />\n</svg>",
+      "trigger": "tabler-basket"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-1\" />\n</svg>",
+      "trigger": "tabler-battery-1"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-2\" />\n</svg>",
+      "trigger": "tabler-battery-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-3\" />\n</svg>",
+      "trigger": "tabler-battery-3"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-4\" />\n</svg>",
+      "trigger": "tabler-battery-4"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-charging\" />\n</svg>",
+      "trigger": "tabler-battery-charging"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery-off\" />\n</svg>",
+      "trigger": "tabler-battery-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-battery\" />\n</svg>",
+      "trigger": "tabler-battery"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bed\" />\n</svg>",
+      "trigger": "tabler-bed"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bell-off\" />\n</svg>",
+      "trigger": "tabler-bell-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bell-ringing\" />\n</svg>",
+      "trigger": "tabler-bell-ringing"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bell\" />\n</svg>",
+      "trigger": "tabler-bell"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bike\" />\n</svg>",
+      "trigger": "tabler-bike"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-biohazard\" />\n</svg>",
+      "trigger": "tabler-biohazard"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bluetooth-connected\" />\n</svg>",
+      "trigger": "tabler-bluetooth-connected"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bluetooth-off\" />\n</svg>",
+      "trigger": "tabler-bluetooth-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bluetooth\" />\n</svg>",
+      "trigger": "tabler-bluetooth"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bold\" />\n</svg>",
+      "trigger": "tabler-bold"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bolt-off\" />\n</svg>",
+      "trigger": "tabler-bolt-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bolt\" />\n</svg>",
+      "trigger": "tabler-bolt"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-book\" />\n</svg>",
+      "trigger": "tabler-book"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bookmark-off\" />\n</svg>",
+      "trigger": "tabler-bookmark-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bookmark\" />\n</svg>",
+      "trigger": "tabler-bookmark"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bookmarks\" />\n</svg>",
+      "trigger": "tabler-bookmarks"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-all\" />\n</svg>",
+      "trigger": "tabler-border-all"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-bottom\" />\n</svg>",
+      "trigger": "tabler-border-bottom"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-horizontal\" />\n</svg>",
+      "trigger": "tabler-border-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-inner\" />\n</svg>",
+      "trigger": "tabler-border-inner"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-left\" />\n</svg>",
+      "trigger": "tabler-border-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-none\" />\n</svg>",
+      "trigger": "tabler-border-none"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-outer\" />\n</svg>",
+      "trigger": "tabler-border-outer"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-radius\" />\n</svg>",
+      "trigger": "tabler-border-radius"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-right\" />\n</svg>",
+      "trigger": "tabler-border-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-top\" />\n</svg>",
+      "trigger": "tabler-border-top"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-border-vertical\" />\n</svg>",
+      "trigger": "tabler-border-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-box\" />\n</svg>",
+      "trigger": "tabler-box"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-braces\" />\n</svg>",
+      "trigger": "tabler-braces"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brackets\" />\n</svg>",
+      "trigger": "tabler-brackets"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-android\" />\n</svg>",
+      "trigger": "tabler-brand-android"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-apple\" />\n</svg>",
+      "trigger": "tabler-brand-apple"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-appstore\" />\n</svg>",
+      "trigger": "tabler-brand-appstore"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-behance\" />\n</svg>",
+      "trigger": "tabler-brand-behance"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-chrome\" />\n</svg>",
+      "trigger": "tabler-brand-chrome"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-codepen\" />\n</svg>",
+      "trigger": "tabler-brand-codepen"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-deviantart\" />\n</svg>",
+      "trigger": "tabler-brand-deviantart"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-discord\" />\n</svg>",
+      "trigger": "tabler-brand-discord"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-dribbble\" />\n</svg>",
+      "trigger": "tabler-brand-dribbble"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-edge\" />\n</svg>",
+      "trigger": "tabler-brand-edge"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-facebook\" />\n</svg>",
+      "trigger": "tabler-brand-facebook"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-figma\" />\n</svg>",
+      "trigger": "tabler-brand-figma"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-firefox\" />\n</svg>",
+      "trigger": "tabler-brand-firefox"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-flickr\" />\n</svg>",
+      "trigger": "tabler-brand-flickr"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-foursquare\" />\n</svg>",
+      "trigger": "tabler-brand-foursquare"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-framer\" />\n</svg>",
+      "trigger": "tabler-brand-framer"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-github\" />\n</svg>",
+      "trigger": "tabler-brand-github"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-gitlab\" />\n</svg>",
+      "trigger": "tabler-brand-gitlab"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-google-drive\" />\n</svg>",
+      "trigger": "tabler-brand-google-drive"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-google-play\" />\n</svg>",
+      "trigger": "tabler-brand-google-play"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-google\" />\n</svg>",
+      "trigger": "tabler-brand-google"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-instagram\" />\n</svg>",
+      "trigger": "tabler-brand-instagram"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-linkedin\" />\n</svg>",
+      "trigger": "tabler-brand-linkedin"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-medium\" />\n</svg>",
+      "trigger": "tabler-brand-medium"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-messenger\" />\n</svg>",
+      "trigger": "tabler-brand-messenger"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-opera\" />\n</svg>",
+      "trigger": "tabler-brand-opera"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-paypal\" />\n</svg>",
+      "trigger": "tabler-brand-paypal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-pinterest\" />\n</svg>",
+      "trigger": "tabler-brand-pinterest"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-pocket\" />\n</svg>",
+      "trigger": "tabler-brand-pocket"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-python\" />\n</svg>",
+      "trigger": "tabler-brand-python"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-reddit\" />\n</svg>",
+      "trigger": "tabler-brand-reddit"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-safari\" />\n</svg>",
+      "trigger": "tabler-brand-safari"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-sketch\" />\n</svg>",
+      "trigger": "tabler-brand-sketch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-skype\" />\n</svg>",
+      "trigger": "tabler-brand-skype"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-slack\" />\n</svg>",
+      "trigger": "tabler-brand-slack"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-snapchat\" />\n</svg>",
+      "trigger": "tabler-brand-snapchat"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-spotify\" />\n</svg>",
+      "trigger": "tabler-brand-spotify"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tabler\" />\n</svg>",
+      "trigger": "tabler-brand-tabler"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tailwind\" />\n</svg>",
+      "trigger": "tabler-brand-tailwind"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-telegram\" />\n</svg>",
+      "trigger": "tabler-brand-telegram"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tiktok\" />\n</svg>",
+      "trigger": "tabler-brand-tiktok"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-tumblr\" />\n</svg>",
+      "trigger": "tabler-brand-tumblr"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-twitch\" />\n</svg>",
+      "trigger": "tabler-brand-twitch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-twitter\" />\n</svg>",
+      "trigger": "tabler-brand-twitter"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-vimeo\" />\n</svg>",
+      "trigger": "tabler-brand-vimeo"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-whatsapp\" />\n</svg>",
+      "trigger": "tabler-brand-whatsapp"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-windows\" />\n</svg>",
+      "trigger": "tabler-brand-windows"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brand-youtube\" />\n</svg>",
+      "trigger": "tabler-brand-youtube"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-briefcase\" />\n</svg>",
+      "trigger": "tabler-briefcase"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brightness-down\" />\n</svg>",
+      "trigger": "tabler-brightness-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brightness-up\" />\n</svg>",
+      "trigger": "tabler-brightness-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brightness\" />\n</svg>",
+      "trigger": "tabler-brightness"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-browser\" />\n</svg>",
+      "trigger": "tabler-browser"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-brush\" />\n</svg>",
+      "trigger": "tabler-brush"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bucket\" />\n</svg>",
+      "trigger": "tabler-bucket"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bug\" />\n</svg>",
+      "trigger": "tabler-bug"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-arch\" />\n</svg>",
+      "trigger": "tabler-building-arch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-bank\" />\n</svg>",
+      "trigger": "tabler-building-bank"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-bridge-2\" />\n</svg>",
+      "trigger": "tabler-building-bridge-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-bridge\" />\n</svg>",
+      "trigger": "tabler-building-bridge"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-church\" />\n</svg>",
+      "trigger": "tabler-building-church"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-community\" />\n</svg>",
+      "trigger": "tabler-building-community"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-hospital\" />\n</svg>",
+      "trigger": "tabler-building-hospital"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-monument\" />\n</svg>",
+      "trigger": "tabler-building-monument"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-pavilon\" />\n</svg>",
+      "trigger": "tabler-building-pavilon"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-skyscraper\" />\n</svg>",
+      "trigger": "tabler-building-skyscraper"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-store\" />\n</svg>",
+      "trigger": "tabler-building-store"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building-warehouse\" />\n</svg>",
+      "trigger": "tabler-building-warehouse"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-building\" />\n</svg>",
+      "trigger": "tabler-building"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bulb-off\" />\n</svg>",
+      "trigger": "tabler-bulb-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bulb\" />\n</svg>",
+      "trigger": "tabler-bulb"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-bus\" />\n</svg>",
+      "trigger": "tabler-bus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-calculator\" />\n</svg>",
+      "trigger": "tabler-calculator"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar-event\" />\n</svg>",
+      "trigger": "tabler-calendar-event"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar-minus\" />\n</svg>",
+      "trigger": "tabler-calendar-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar-plus\" />\n</svg>",
+      "trigger": "tabler-calendar-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-calendar\" />\n</svg>",
+      "trigger": "tabler-calendar"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera-minus\" />\n</svg>",
+      "trigger": "tabler-camera-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera-off\" />\n</svg>",
+      "trigger": "tabler-camera-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera-plus\" />\n</svg>",
+      "trigger": "tabler-camera-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-camera\" />\n</svg>",
+      "trigger": "tabler-camera"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-capture\" />\n</svg>",
+      "trigger": "tabler-capture"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-car\" />\n</svg>",
+      "trigger": "tabler-car"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-caravan\" />\n</svg>",
+      "trigger": "tabler-caravan"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-down\" />\n</svg>",
+      "trigger": "tabler-caret-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-left\" />\n</svg>",
+      "trigger": "tabler-caret-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-right\" />\n</svg>",
+      "trigger": "tabler-caret-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-caret-up\" />\n</svg>",
+      "trigger": "tabler-caret-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cash\" />\n</svg>",
+      "trigger": "tabler-cash"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cast\" />\n</svg>",
+      "trigger": "tabler-cast"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-area-line\" />\n</svg>",
+      "trigger": "tabler-chart-area-line"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-area\" />\n</svg>",
+      "trigger": "tabler-chart-area"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-bar\" />\n</svg>",
+      "trigger": "tabler-chart-bar"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-bubble\" />\n</svg>",
+      "trigger": "tabler-chart-bubble"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-candle\" />\n</svg>",
+      "trigger": "tabler-chart-candle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-donut\" />\n</svg>",
+      "trigger": "tabler-chart-donut"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-line\" />\n</svg>",
+      "trigger": "tabler-chart-line"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chart-pie\" />\n</svg>",
+      "trigger": "tabler-chart-pie"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-check\" />\n</svg>",
+      "trigger": "tabler-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-checkbox\" />\n</svg>",
+      "trigger": "tabler-checkbox"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-checks\" />\n</svg>",
+      "trigger": "tabler-checks"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-down-left\" />\n</svg>",
+      "trigger": "tabler-chevron-down-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-down-right\" />\n</svg>",
+      "trigger": "tabler-chevron-down-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-down\" />\n</svg>",
+      "trigger": "tabler-chevron-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-left\" />\n</svg>",
+      "trigger": "tabler-chevron-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-right\" />\n</svg>",
+      "trigger": "tabler-chevron-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-up-left\" />\n</svg>",
+      "trigger": "tabler-chevron-up-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-up-right\" />\n</svg>",
+      "trigger": "tabler-chevron-up-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevron-up\" />\n</svg>",
+      "trigger": "tabler-chevron-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-down-left\" />\n</svg>",
+      "trigger": "tabler-chevrons-down-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-down-right\" />\n</svg>",
+      "trigger": "tabler-chevrons-down-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-down\" />\n</svg>",
+      "trigger": "tabler-chevrons-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-left\" />\n</svg>",
+      "trigger": "tabler-chevrons-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-right\" />\n</svg>",
+      "trigger": "tabler-chevrons-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-up-left\" />\n</svg>",
+      "trigger": "tabler-chevrons-up-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-up-right\" />\n</svg>",
+      "trigger": "tabler-chevrons-up-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-chevrons-up\" />\n</svg>",
+      "trigger": "tabler-chevrons-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-check\" />\n</svg>",
+      "trigger": "tabler-circle-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-dashed\" />\n</svg>",
+      "trigger": "tabler-circle-dashed"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-dotted\" />\n</svg>",
+      "trigger": "tabler-circle-dotted"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-minus\" />\n</svg>",
+      "trigger": "tabler-circle-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-plus\" />\n</svg>",
+      "trigger": "tabler-circle-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-square\" />\n</svg>",
+      "trigger": "tabler-circle-square"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle-x\" />\n</svg>",
+      "trigger": "tabler-circle-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circle\" />\n</svg>",
+      "trigger": "tabler-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-circles\" />\n</svg>",
+      "trigger": "tabler-circles"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-clear-formatting\" />\n</svg>",
+      "trigger": "tabler-clear-formatting"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-click\" />\n</svg>",
+      "trigger": "tabler-click"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard-check\" />\n</svg>",
+      "trigger": "tabler-clipboard-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard-list\" />\n</svg>",
+      "trigger": "tabler-clipboard-list"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard-x\" />\n</svg>",
+      "trigger": "tabler-clipboard-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-clipboard\" />\n</svg>",
+      "trigger": "tabler-clipboard"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-clock\" />\n</svg>",
+      "trigger": "tabler-clock"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-download\" />\n</svg>",
+      "trigger": "tabler-cloud-download"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-fog\" />\n</svg>",
+      "trigger": "tabler-cloud-fog"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-off\" />\n</svg>",
+      "trigger": "tabler-cloud-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-rain\" />\n</svg>",
+      "trigger": "tabler-cloud-rain"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-snow\" />\n</svg>",
+      "trigger": "tabler-cloud-snow"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-storm\" />\n</svg>",
+      "trigger": "tabler-cloud-storm"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud-upload\" />\n</svg>",
+      "trigger": "tabler-cloud-upload"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cloud\" />\n</svg>",
+      "trigger": "tabler-cloud"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-code\" />\n</svg>",
+      "trigger": "tabler-code"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-coin\" />\n</svg>",
+      "trigger": "tabler-coin"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-color-picker\" />\n</svg>",
+      "trigger": "tabler-color-picker"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-color-swatch\" />\n</svg>",
+      "trigger": "tabler-color-swatch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-columns\" />\n</svg>",
+      "trigger": "tabler-columns"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-comet\" />\n</svg>",
+      "trigger": "tabler-comet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-command\" />\n</svg>",
+      "trigger": "tabler-command"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-compass\" />\n</svg>",
+      "trigger": "tabler-compass"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-contrast\" />\n</svg>",
+      "trigger": "tabler-contrast"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-copy\" />\n</svg>",
+      "trigger": "tabler-copy"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-copyleft\" />\n</svg>",
+      "trigger": "tabler-copyleft"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-copyright\" />\n</svg>",
+      "trigger": "tabler-copyright"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-down-left\" />\n</svg>",
+      "trigger": "tabler-corner-down-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-down-right\" />\n</svg>",
+      "trigger": "tabler-corner-down-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-left-down\" />\n</svg>",
+      "trigger": "tabler-corner-left-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-left-up\" />\n</svg>",
+      "trigger": "tabler-corner-left-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-right-down\" />\n</svg>",
+      "trigger": "tabler-corner-right-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-right-up\" />\n</svg>",
+      "trigger": "tabler-corner-right-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-up-left\" />\n</svg>",
+      "trigger": "tabler-corner-up-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-corner-up-right\" />\n</svg>",
+      "trigger": "tabler-corner-up-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-credit-card-off\" />\n</svg>",
+      "trigger": "tabler-credit-card-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-credit-card\" />\n</svg>",
+      "trigger": "tabler-credit-card"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-crop\" />\n</svg>",
+      "trigger": "tabler-crop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-crosshair\" />\n</svg>",
+      "trigger": "tabler-crosshair"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-crown\" />\n</svg>",
+      "trigger": "tabler-crown"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-curly-loop\" />\n</svg>",
+      "trigger": "tabler-curly-loop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-bitcoin\" />\n</svg>",
+      "trigger": "tabler-currency-bitcoin"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-dollar\" />\n</svg>",
+      "trigger": "tabler-currency-dollar"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-euro\" />\n</svg>",
+      "trigger": "tabler-currency-euro"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-pound\" />\n</svg>",
+      "trigger": "tabler-currency-pound"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-rupee\" />\n</svg>",
+      "trigger": "tabler-currency-rupee"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-currency-yen\" />\n</svg>",
+      "trigger": "tabler-currency-yen"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-current-location\" />\n</svg>",
+      "trigger": "tabler-current-location"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-cut\" />\n</svg>",
+      "trigger": "tabler-cut"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dashboard\" />\n</svg>",
+      "trigger": "tabler-dashboard"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-database\" />\n</svg>",
+      "trigger": "tabler-database"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-desktop\" />\n</svg>",
+      "trigger": "tabler-device-desktop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-floppy\" />\n</svg>",
+      "trigger": "tabler-device-floppy"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-gamepad\" />\n</svg>",
+      "trigger": "tabler-device-gamepad"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-laptop\" />\n</svg>",
+      "trigger": "tabler-device-laptop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-mobile-rotated\" />\n</svg>",
+      "trigger": "tabler-device-mobile-rotated"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-mobile-vibration\" />\n</svg>",
+      "trigger": "tabler-device-mobile-vibration"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-mobile\" />\n</svg>",
+      "trigger": "tabler-device-mobile"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-speaker\" />\n</svg>",
+      "trigger": "tabler-device-speaker"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-tablet\" />\n</svg>",
+      "trigger": "tabler-device-tablet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-tv\" />\n</svg>",
+      "trigger": "tabler-device-tv"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-device-watch\" />\n</svg>",
+      "trigger": "tabler-device-watch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-devices-2\" />\n</svg>",
+      "trigger": "tabler-devices-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-devices\" />\n</svg>",
+      "trigger": "tabler-devices"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-diamond\" />\n</svg>",
+      "trigger": "tabler-diamond"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dice\" />\n</svg>",
+      "trigger": "tabler-dice"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-direction-horizontal\" />\n</svg>",
+      "trigger": "tabler-direction-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-direction\" />\n</svg>",
+      "trigger": "tabler-direction"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-directions\" />\n</svg>",
+      "trigger": "tabler-directions"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-disabled-2\" />\n</svg>",
+      "trigger": "tabler-disabled-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-disabled\" />\n</svg>",
+      "trigger": "tabler-disabled"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-disc\" />\n</svg>",
+      "trigger": "tabler-disc"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-discount\" />\n</svg>",
+      "trigger": "tabler-discount"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-circle-horizontal\" />\n</svg>",
+      "trigger": "tabler-dots-circle-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-diagonal-2\" />\n</svg>",
+      "trigger": "tabler-dots-diagonal-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-diagonal\" />\n</svg>",
+      "trigger": "tabler-dots-diagonal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots-vertical\" />\n</svg>",
+      "trigger": "tabler-dots-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-dots\" />\n</svg>",
+      "trigger": "tabler-dots"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-download\" />\n</svg>",
+      "trigger": "tabler-download"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-drag-drop-2\" />\n</svg>",
+      "trigger": "tabler-drag-drop-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-drag-drop\" />\n</svg>",
+      "trigger": "tabler-drag-drop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-droplet\" />\n</svg>",
+      "trigger": "tabler-droplet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ear\" />\n</svg>",
+      "trigger": "tabler-ear"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-edit\" />\n</svg>",
+      "trigger": "tabler-edit"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-egg\" />\n</svg>",
+      "trigger": "tabler-egg"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-emphasis\" />\n</svg>",
+      "trigger": "tabler-emphasis"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-eraser\" />\n</svg>",
+      "trigger": "tabler-eraser"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-exchange\" />\n</svg>",
+      "trigger": "tabler-exchange"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-exposure\" />\n</svg>",
+      "trigger": "tabler-exposure"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-external-link\" />\n</svg>",
+      "trigger": "tabler-external-link"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-eye-off\" />\n</svg>",
+      "trigger": "tabler-eye-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-eye\" />\n</svg>",
+      "trigger": "tabler-eye"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-face-id\" />\n</svg>",
+      "trigger": "tabler-face-id"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-fall\" />\n</svg>",
+      "trigger": "tabler-fall"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-certificate\" />\n</svg>",
+      "trigger": "tabler-file-certificate"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-check\" />\n</svg>",
+      "trigger": "tabler-file-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-code\" />\n</svg>",
+      "trigger": "tabler-file-code"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-diff\" />\n</svg>",
+      "trigger": "tabler-file-diff"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-dislike\" />\n</svg>",
+      "trigger": "tabler-file-dislike"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-download\" />\n</svg>",
+      "trigger": "tabler-file-download"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-horizontal\" />\n</svg>",
+      "trigger": "tabler-file-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-invoice\" />\n</svg>",
+      "trigger": "tabler-file-invoice"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-like\" />\n</svg>",
+      "trigger": "tabler-file-like"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-minus\" />\n</svg>",
+      "trigger": "tabler-file-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-music\" />\n</svg>",
+      "trigger": "tabler-file-music"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-off\" />\n</svg>",
+      "trigger": "tabler-file-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-phone\" />\n</svg>",
+      "trigger": "tabler-file-phone"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-plus\" />\n</svg>",
+      "trigger": "tabler-file-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-shredder\" />\n</svg>",
+      "trigger": "tabler-file-shredder"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-symlink\" />\n</svg>",
+      "trigger": "tabler-file-symlink"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-text\" />\n</svg>",
+      "trigger": "tabler-file-text"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-upload\" />\n</svg>",
+      "trigger": "tabler-file-upload"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-x\" />\n</svg>",
+      "trigger": "tabler-file-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file-zip\" />\n</svg>",
+      "trigger": "tabler-file-zip"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-file\" />\n</svg>",
+      "trigger": "tabler-file"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-filter-off\" />\n</svg>",
+      "trigger": "tabler-filter-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-filter\" />\n</svg>",
+      "trigger": "tabler-filter"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-fingerprint\" />\n</svg>",
+      "trigger": "tabler-fingerprint"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-firetruck\" />\n</svg>",
+      "trigger": "tabler-firetruck"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-flag\" />\n</svg>",
+      "trigger": "tabler-flag"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-flame\" />\n</svg>",
+      "trigger": "tabler-flame"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-flask\" />\n</svg>",
+      "trigger": "tabler-flask"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-flip-horizontal\" />\n</svg>",
+      "trigger": "tabler-flip-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-flip-vertical\" />\n</svg>",
+      "trigger": "tabler-flip-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-center\" />\n</svg>",
+      "trigger": "tabler-float-center"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-left\" />\n</svg>",
+      "trigger": "tabler-float-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-none\" />\n</svg>",
+      "trigger": "tabler-float-none"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-float-right\" />\n</svg>",
+      "trigger": "tabler-float-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-focus-2\" />\n</svg>",
+      "trigger": "tabler-focus-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-focus\" />\n</svg>",
+      "trigger": "tabler-focus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-fold-down\" />\n</svg>",
+      "trigger": "tabler-fold-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-fold-up\" />\n</svg>",
+      "trigger": "tabler-fold-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-fold\" />\n</svg>",
+      "trigger": "tabler-fold"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-minus\" />\n</svg>",
+      "trigger": "tabler-folder-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-off\" />\n</svg>",
+      "trigger": "tabler-folder-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-plus\" />\n</svg>",
+      "trigger": "tabler-folder-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder-x\" />\n</svg>",
+      "trigger": "tabler-folder-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-folder\" />\n</svg>",
+      "trigger": "tabler-folder"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-folders\" />\n</svg>",
+      "trigger": "tabler-folders"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-forbid-2\" />\n</svg>",
+      "trigger": "tabler-forbid-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-forbid\" />\n</svg>",
+      "trigger": "tabler-forbid"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-forklift\" />\n</svg>",
+      "trigger": "tabler-forklift"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-frame\" />\n</svg>",
+      "trigger": "tabler-frame"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-friends\" />\n</svg>",
+      "trigger": "tabler-friends"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-gas-station\" />\n</svg>",
+      "trigger": "tabler-gas-station"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-gauge\" />\n</svg>",
+      "trigger": "tabler-gauge"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ghost\" />\n</svg>",
+      "trigger": "tabler-ghost"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-gift\" />\n</svg>",
+      "trigger": "tabler-gift"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-branch\" />\n</svg>",
+      "trigger": "tabler-git-branch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-commit\" />\n</svg>",
+      "trigger": "tabler-git-commit"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-compare\" />\n</svg>",
+      "trigger": "tabler-git-compare"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-fork\" />\n</svg>",
+      "trigger": "tabler-git-fork"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-merge\" />\n</svg>",
+      "trigger": "tabler-git-merge"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-git-pull-request\" />\n</svg>",
+      "trigger": "tabler-git-pull-request"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-glass-full\" />\n</svg>",
+      "trigger": "tabler-glass-full"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-glass\" />\n</svg>",
+      "trigger": "tabler-glass"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-globe\" />\n</svg>",
+      "trigger": "tabler-globe"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-grid-dots\" />\n</svg>",
+      "trigger": "tabler-grid-dots"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-grid\" />\n</svg>",
+      "trigger": "tabler-grid"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-grip-horizontal\" />\n</svg>",
+      "trigger": "tabler-grip-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-grip-vertical\" />\n</svg>",
+      "trigger": "tabler-grip-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-1\" />\n</svg>",
+      "trigger": "tabler-h-1"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-2\" />\n</svg>",
+      "trigger": "tabler-h-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-3\" />\n</svg>",
+      "trigger": "tabler-h-3"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-4\" />\n</svg>",
+      "trigger": "tabler-h-4"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-5\" />\n</svg>",
+      "trigger": "tabler-h-5"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-h-6\" />\n</svg>",
+      "trigger": "tabler-h-6"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-hand-middle-finger\" />\n</svg>",
+      "trigger": "tabler-hand-middle-finger"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-hand-off\" />\n</svg>",
+      "trigger": "tabler-hand-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-hand-stop\" />\n</svg>",
+      "trigger": "tabler-hand-stop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-hash\" />\n</svg>",
+      "trigger": "tabler-hash"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-headphones-off\" />\n</svg>",
+      "trigger": "tabler-headphones-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-headphones\" />\n</svg>",
+      "trigger": "tabler-headphones"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-headset\" />\n</svg>",
+      "trigger": "tabler-headset"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-heart-broken\" />\n</svg>",
+      "trigger": "tabler-heart-broken"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-heart\" />\n</svg>",
+      "trigger": "tabler-heart"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-help\" />\n</svg>",
+      "trigger": "tabler-help"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-hexagon\" />\n</svg>",
+      "trigger": "tabler-hexagon"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-history\" />\n</svg>",
+      "trigger": "tabler-history"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-home-2\" />\n</svg>",
+      "trigger": "tabler-home-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-home\" />\n</svg>",
+      "trigger": "tabler-home"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ice-cream\" />\n</svg>",
+      "trigger": "tabler-ice-cream"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-id\" />\n</svg>",
+      "trigger": "tabler-id"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-inbox\" />\n</svg>",
+      "trigger": "tabler-inbox"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-indent-decrease\" />\n</svg>",
+      "trigger": "tabler-indent-decrease"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-indent-increase\" />\n</svg>",
+      "trigger": "tabler-indent-increase"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-infinity\" />\n</svg>",
+      "trigger": "tabler-infinity"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-info-circle\" />\n</svg>",
+      "trigger": "tabler-info-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-info-square\" />\n</svg>",
+      "trigger": "tabler-info-square"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-italic\" />\n</svg>",
+      "trigger": "tabler-italic"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-karate\" />\n</svg>",
+      "trigger": "tabler-karate"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-key\" />\n</svg>",
+      "trigger": "tabler-key"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-keyboard-hide\" />\n</svg>",
+      "trigger": "tabler-keyboard-hide"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-keyboard-show\" />\n</svg>",
+      "trigger": "tabler-keyboard-show"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-keyboard\" />\n</svg>",
+      "trigger": "tabler-keyboard"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-language\" />\n</svg>",
+      "trigger": "tabler-language"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-difference\" />\n</svg>",
+      "trigger": "tabler-layers-difference"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-intersect\" />\n</svg>",
+      "trigger": "tabler-layers-intersect"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-subtract\" />\n</svg>",
+      "trigger": "tabler-layers-subtract"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layers-union\" />\n</svg>",
+      "trigger": "tabler-layers-union"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-2\" />\n</svg>",
+      "trigger": "tabler-layout-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-bottom\" />\n</svg>",
+      "trigger": "tabler-layout-align-bottom"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-center\" />\n</svg>",
+      "trigger": "tabler-layout-align-center"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-left\" />\n</svg>",
+      "trigger": "tabler-layout-align-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-middle\" />\n</svg>",
+      "trigger": "tabler-layout-align-middle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-right\" />\n</svg>",
+      "trigger": "tabler-layout-align-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-align-top\" />\n</svg>",
+      "trigger": "tabler-layout-align-top"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-bottombar\" />\n</svg>",
+      "trigger": "tabler-layout-bottombar"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-cards\" />\n</svg>",
+      "trigger": "tabler-layout-cards"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-columns\" />\n</svg>",
+      "trigger": "tabler-layout-columns"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-distribute-horizontal\" />\n</svg>",
+      "trigger": "tabler-layout-distribute-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-distribute-vertical\" />\n</svg>",
+      "trigger": "tabler-layout-distribute-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-kanban\" />\n</svg>",
+      "trigger": "tabler-layout-kanban"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-list\" />\n</svg>",
+      "trigger": "tabler-layout-list"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-navbar\" />\n</svg>",
+      "trigger": "tabler-layout-navbar"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-rows\" />\n</svg>",
+      "trigger": "tabler-layout-rows"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-sidebar-right\" />\n</svg>",
+      "trigger": "tabler-layout-sidebar-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout-sidebar\" />\n</svg>",
+      "trigger": "tabler-layout-sidebar"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-layout\" />\n</svg>",
+      "trigger": "tabler-layout"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-leaf\" />\n</svg>",
+      "trigger": "tabler-leaf"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-lego\" />\n</svg>",
+      "trigger": "tabler-lego"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-a\" />\n</svg>",
+      "trigger": "tabler-letter-a"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-b\" />\n</svg>",
+      "trigger": "tabler-letter-b"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-c\" />\n</svg>",
+      "trigger": "tabler-letter-c"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-d\" />\n</svg>",
+      "trigger": "tabler-letter-d"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-e\" />\n</svg>",
+      "trigger": "tabler-letter-e"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-f\" />\n</svg>",
+      "trigger": "tabler-letter-f"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-g\" />\n</svg>",
+      "trigger": "tabler-letter-g"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-h\" />\n</svg>",
+      "trigger": "tabler-letter-h"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-i\" />\n</svg>",
+      "trigger": "tabler-letter-i"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-j\" />\n</svg>",
+      "trigger": "tabler-letter-j"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-k\" />\n</svg>",
+      "trigger": "tabler-letter-k"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-l\" />\n</svg>",
+      "trigger": "tabler-letter-l"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-m\" />\n</svg>",
+      "trigger": "tabler-letter-m"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-n\" />\n</svg>",
+      "trigger": "tabler-letter-n"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-o\" />\n</svg>",
+      "trigger": "tabler-letter-o"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-p\" />\n</svg>",
+      "trigger": "tabler-letter-p"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-q\" />\n</svg>",
+      "trigger": "tabler-letter-q"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-r\" />\n</svg>",
+      "trigger": "tabler-letter-r"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-s\" />\n</svg>",
+      "trigger": "tabler-letter-s"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-t\" />\n</svg>",
+      "trigger": "tabler-letter-t"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-u\" />\n</svg>",
+      "trigger": "tabler-letter-u"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-v\" />\n</svg>",
+      "trigger": "tabler-letter-v"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-w\" />\n</svg>",
+      "trigger": "tabler-letter-w"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-x\" />\n</svg>",
+      "trigger": "tabler-letter-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-y\" />\n</svg>",
+      "trigger": "tabler-letter-y"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letter-z\" />\n</svg>",
+      "trigger": "tabler-letter-z"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-letters-case\" />\n</svg>",
+      "trigger": "tabler-letters-case"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-license\" />\n</svg>",
+      "trigger": "tabler-license"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-lifebuoy\" />\n</svg>",
+      "trigger": "tabler-lifebuoy"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-line-height\" />\n</svg>",
+      "trigger": "tabler-line-height"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-line\" />\n</svg>",
+      "trigger": "tabler-line"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-link\" />\n</svg>",
+      "trigger": "tabler-link"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-list-check\" />\n</svg>",
+      "trigger": "tabler-list-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-list\" />\n</svg>",
+      "trigger": "tabler-list"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-live-photo\" />\n</svg>",
+      "trigger": "tabler-live-photo"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-live-view\" />\n</svg>",
+      "trigger": "tabler-live-view"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-loader-quarter\" />\n</svg>",
+      "trigger": "tabler-loader-quarter"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-loader\" />\n</svg>",
+      "trigger": "tabler-loader"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-location\" />\n</svg>",
+      "trigger": "tabler-location"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-lock-off\" />\n</svg>",
+      "trigger": "tabler-lock-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-lock-open\" />\n</svg>",
+      "trigger": "tabler-lock-open"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-lock\" />\n</svg>",
+      "trigger": "tabler-lock"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-login\" />\n</svg>",
+      "trigger": "tabler-login"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-logout\" />\n</svg>",
+      "trigger": "tabler-logout"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-magnet\" />\n</svg>",
+      "trigger": "tabler-magnet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mail-opened\" />\n</svg>",
+      "trigger": "tabler-mail-opened"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mail\" />\n</svg>",
+      "trigger": "tabler-mail"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-man\" />\n</svg>",
+      "trigger": "tabler-man"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-map-2\" />\n</svg>",
+      "trigger": "tabler-map-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-map-pin-off\" />\n</svg>",
+      "trigger": "tabler-map-pin-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-map-pin\" />\n</svg>",
+      "trigger": "tabler-map-pin"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-map\" />\n</svg>",
+      "trigger": "tabler-map"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-markdown\" />\n</svg>",
+      "trigger": "tabler-markdown"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-marquee\" />\n</svg>",
+      "trigger": "tabler-marquee"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mars\" />\n</svg>",
+      "trigger": "tabler-mars"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-math\" />\n</svg>",
+      "trigger": "tabler-math"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-maximize\" />\n</svg>",
+      "trigger": "tabler-maximize"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-medal\" />\n</svg>",
+      "trigger": "tabler-medal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-medical-cross\" />\n</svg>",
+      "trigger": "tabler-medical-cross"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-menu-2\" />\n</svg>",
+      "trigger": "tabler-menu-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-menu\" />\n</svg>",
+      "trigger": "tabler-menu"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-2\" />\n</svg>",
+      "trigger": "tabler-message-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-circle-2\" />\n</svg>",
+      "trigger": "tabler-message-circle-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-circle-off\" />\n</svg>",
+      "trigger": "tabler-message-circle-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-circle\" />\n</svg>",
+      "trigger": "tabler-message-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-dots\" />\n</svg>",
+      "trigger": "tabler-message-dots"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-off\" />\n</svg>",
+      "trigger": "tabler-message-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-plus\" />\n</svg>",
+      "trigger": "tabler-message-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message-report\" />\n</svg>",
+      "trigger": "tabler-message-report"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-message\" />\n</svg>",
+      "trigger": "tabler-message"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-messages-off\" />\n</svg>",
+      "trigger": "tabler-messages-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-messages\" />\n</svg>",
+      "trigger": "tabler-messages"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-microphone-off\" />\n</svg>",
+      "trigger": "tabler-microphone-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-microphone\" />\n</svg>",
+      "trigger": "tabler-microphone"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-minimize\" />\n</svg>",
+      "trigger": "tabler-minimize"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-minus\" />\n</svg>",
+      "trigger": "tabler-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mist\" />\n</svg>",
+      "trigger": "tabler-mist"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-boy\" />\n</svg>",
+      "trigger": "tabler-mood-boy"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-confuzed\" />\n</svg>",
+      "trigger": "tabler-mood-confuzed"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-cry\" />\n</svg>",
+      "trigger": "tabler-mood-cry"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-happy\" />\n</svg>",
+      "trigger": "tabler-mood-happy"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-kid\" />\n</svg>",
+      "trigger": "tabler-mood-kid"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-neutral\" />\n</svg>",
+      "trigger": "tabler-mood-neutral"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-sad\" />\n</svg>",
+      "trigger": "tabler-mood-sad"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-smile\" />\n</svg>",
+      "trigger": "tabler-mood-smile"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-suprised\" />\n</svg>",
+      "trigger": "tabler-mood-suprised"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mood-tongue\" />\n</svg>",
+      "trigger": "tabler-mood-tongue"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-moon-2\" />\n</svg>",
+      "trigger": "tabler-moon-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-moon-stars\" />\n</svg>",
+      "trigger": "tabler-moon-stars"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-moon\" />\n</svg>",
+      "trigger": "tabler-moon"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-moped\" />\n</svg>",
+      "trigger": "tabler-moped"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mouse\" />\n</svg>",
+      "trigger": "tabler-mouse"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-movie\" />\n</svg>",
+      "trigger": "tabler-movie"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-mug\" />\n</svg>",
+      "trigger": "tabler-mug"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-music\" />\n</svg>",
+      "trigger": "tabler-music"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-new-section\" />\n</svg>",
+      "trigger": "tabler-new-section"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-news\" />\n</svg>",
+      "trigger": "tabler-news"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-note\" />\n</svg>",
+      "trigger": "tabler-note"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-notebook\" />\n</svg>",
+      "trigger": "tabler-notebook"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-notes\" />\n</svg>",
+      "trigger": "tabler-notes"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-notification\" />\n</svg>",
+      "trigger": "tabler-notification"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-octagon\" />\n</svg>",
+      "trigger": "tabler-octagon"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-omega\" />\n</svg>",
+      "trigger": "tabler-omega"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-outlet\" />\n</svg>",
+      "trigger": "tabler-outlet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-package\" />\n</svg>",
+      "trigger": "tabler-package"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-page-break\" />\n</svg>",
+      "trigger": "tabler-page-break"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-paint\" />\n</svg>",
+      "trigger": "tabler-paint"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-palette\" />\n</svg>",
+      "trigger": "tabler-palette"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-panorama-horizontal\" />\n</svg>",
+      "trigger": "tabler-panorama-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-panorama-vertical\" />\n</svg>",
+      "trigger": "tabler-panorama-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-paperclip\" />\n</svg>",
+      "trigger": "tabler-paperclip"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-parentheses\" />\n</svg>",
+      "trigger": "tabler-parentheses"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-parking\" />\n</svg>",
+      "trigger": "tabler-parking"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-peace\" />\n</svg>",
+      "trigger": "tabler-peace"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-pencil\" />\n</svg>",
+      "trigger": "tabler-pencil"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-percentage\" />\n</svg>",
+      "trigger": "tabler-percentage"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-call\" />\n</svg>",
+      "trigger": "tabler-phone-call"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-calling\" />\n</svg>",
+      "trigger": "tabler-phone-calling"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-check\" />\n</svg>",
+      "trigger": "tabler-phone-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-incoming\" />\n</svg>",
+      "trigger": "tabler-phone-incoming"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-off\" />\n</svg>",
+      "trigger": "tabler-phone-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-outgoing\" />\n</svg>",
+      "trigger": "tabler-phone-outgoing"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-pause\" />\n</svg>",
+      "trigger": "tabler-phone-pause"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-plus\" />\n</svg>",
+      "trigger": "tabler-phone-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone-x\" />\n</svg>",
+      "trigger": "tabler-phone-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-phone\" />\n</svg>",
+      "trigger": "tabler-phone"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-photo-off\" />\n</svg>",
+      "trigger": "tabler-photo-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-photo\" />\n</svg>",
+      "trigger": "tabler-photo"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-picture-in-picture-off\" />\n</svg>",
+      "trigger": "tabler-picture-in-picture-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-picture-in-picture-on\" />\n</svg>",
+      "trigger": "tabler-picture-in-picture-on"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-picture-in-picture\" />\n</svg>",
+      "trigger": "tabler-picture-in-picture"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-pill\" />\n</svg>",
+      "trigger": "tabler-pill"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-pin\" />\n</svg>",
+      "trigger": "tabler-pin"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-plane-arrival\" />\n</svg>",
+      "trigger": "tabler-plane-arrival"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-plane-departure\" />\n</svg>",
+      "trigger": "tabler-plane-departure"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-plane\" />\n</svg>",
+      "trigger": "tabler-plane"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-planet\" />\n</svg>",
+      "trigger": "tabler-planet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-plant\" />\n</svg>",
+      "trigger": "tabler-plant"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-pause\" />\n</svg>",
+      "trigger": "tabler-player-pause"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-play\" />\n</svg>",
+      "trigger": "tabler-player-play"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-record\" />\n</svg>",
+      "trigger": "tabler-player-record"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-skip-back\" />\n</svg>",
+      "trigger": "tabler-player-skip-back"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-skip-forward\" />\n</svg>",
+      "trigger": "tabler-player-skip-forward"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-stop\" />\n</svg>",
+      "trigger": "tabler-player-stop"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-track-next\" />\n</svg>",
+      "trigger": "tabler-player-track-next"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-player-track-prev\" />\n</svg>",
+      "trigger": "tabler-player-track-prev"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-plug\" />\n</svg>",
+      "trigger": "tabler-plug"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-plus\" />\n</svg>",
+      "trigger": "tabler-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-point\" />\n</svg>",
+      "trigger": "tabler-point"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-power\" />\n</svg>",
+      "trigger": "tabler-power"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-pray\" />\n</svg>",
+      "trigger": "tabler-pray"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-presentation\" />\n</svg>",
+      "trigger": "tabler-presentation"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-printer\" />\n</svg>",
+      "trigger": "tabler-printer"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-prompt\" />\n</svg>",
+      "trigger": "tabler-prompt"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-puzzle\" />\n</svg>",
+      "trigger": "tabler-puzzle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-qrcode\" />\n</svg>",
+      "trigger": "tabler-qrcode"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-question-mark\" />\n</svg>",
+      "trigger": "tabler-question-mark"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-radioactive\" />\n</svg>",
+      "trigger": "tabler-radioactive"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-record-mail\" />\n</svg>",
+      "trigger": "tabler-record-mail"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rectangle-vertical\" />\n</svg>",
+      "trigger": "tabler-rectangle-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rectangle\" />\n</svg>",
+      "trigger": "tabler-rectangle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-recycle\" />\n</svg>",
+      "trigger": "tabler-recycle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-refresh-alert\" />\n</svg>",
+      "trigger": "tabler-refresh-alert"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-refresh\" />\n</svg>",
+      "trigger": "tabler-refresh"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-registered\" />\n</svg>",
+      "trigger": "tabler-registered"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-repeat-once\" />\n</svg>",
+      "trigger": "tabler-repeat-once"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-repeat\" />\n</svg>",
+      "trigger": "tabler-repeat"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-replace\" />\n</svg>",
+      "trigger": "tabler-replace"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-road-sign\" />\n</svg>",
+      "trigger": "tabler-road-sign"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rocket\" />\n</svg>",
+      "trigger": "tabler-rocket"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-2\" />\n</svg>",
+      "trigger": "tabler-rotate-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-clockwise-2\" />\n</svg>",
+      "trigger": "tabler-rotate-clockwise-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-clockwise\" />\n</svg>",
+      "trigger": "tabler-rotate-clockwise"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate-rectangle\" />\n</svg>",
+      "trigger": "tabler-rotate-rectangle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rotate\" />\n</svg>",
+      "trigger": "tabler-rotate"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-route\" />\n</svg>",
+      "trigger": "tabler-route"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-router\" />\n</svg>",
+      "trigger": "tabler-router"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-rss\" />\n</svg>",
+      "trigger": "tabler-rss"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ruler\" />\n</svg>",
+      "trigger": "tabler-ruler"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-run\" />\n</svg>",
+      "trigger": "tabler-run"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sailboat\" />\n</svg>",
+      "trigger": "tabler-sailboat"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-scale\" />\n</svg>",
+      "trigger": "tabler-scale"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-scan\" />\n</svg>",
+      "trigger": "tabler-scan"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-school\" />\n</svg>",
+      "trigger": "tabler-school"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-scissors\" />\n</svg>",
+      "trigger": "tabler-scissors"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-scooter-electric\" />\n</svg>",
+      "trigger": "tabler-scooter-electric"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-scooter\" />\n</svg>",
+      "trigger": "tabler-scooter"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-screen-share-off\" />\n</svg>",
+      "trigger": "tabler-screen-share-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-screen-share\" />\n</svg>",
+      "trigger": "tabler-screen-share"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-search\" />\n</svg>",
+      "trigger": "tabler-search"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-seeding\" />\n</svg>",
+      "trigger": "tabler-seeding"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-select\" />\n</svg>",
+      "trigger": "tabler-select"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-selector\" />\n</svg>",
+      "trigger": "tabler-selector"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-send\" />\n</svg>",
+      "trigger": "tabler-send"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-separator-horizontal\" />\n</svg>",
+      "trigger": "tabler-separator-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-separator-vertical\" />\n</svg>",
+      "trigger": "tabler-separator-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-separator\" />\n</svg>",
+      "trigger": "tabler-separator"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-server\" />\n</svg>",
+      "trigger": "tabler-server"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-servicemark\" />\n</svg>",
+      "trigger": "tabler-servicemark"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-settings\" />\n</svg>",
+      "trigger": "tabler-settings"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shape\" />\n</svg>",
+      "trigger": "tabler-shape"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-share\" />\n</svg>",
+      "trigger": "tabler-share"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-check\" />\n</svg>",
+      "trigger": "tabler-shield-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-lock\" />\n</svg>",
+      "trigger": "tabler-shield-lock"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-off\" />\n</svg>",
+      "trigger": "tabler-shield-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield-x\" />\n</svg>",
+      "trigger": "tabler-shield-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shield\" />\n</svg>",
+      "trigger": "tabler-shield"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ship\" />\n</svg>",
+      "trigger": "tabler-ship"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shirt\" />\n</svg>",
+      "trigger": "tabler-shirt"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-shopping-cart\" />\n</svg>",
+      "trigger": "tabler-shopping-cart"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sitemap\" />\n</svg>",
+      "trigger": "tabler-sitemap"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-skateboard\" />\n</svg>",
+      "trigger": "tabler-skateboard"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-slice\" />\n</svg>",
+      "trigger": "tabler-slice"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-slideshow\" />\n</svg>",
+      "trigger": "tabler-slideshow"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-smart-home\" />\n</svg>",
+      "trigger": "tabler-smart-home"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-smoking-no\" />\n</svg>",
+      "trigger": "tabler-smoking-no"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-smoking\" />\n</svg>",
+      "trigger": "tabler-smoking"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-snowflake\" />\n</svg>",
+      "trigger": "tabler-snowflake"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-social\" />\n</svg>",
+      "trigger": "tabler-social"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sort-ascending\" />\n</svg>",
+      "trigger": "tabler-sort-ascending"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sort-descending\" />\n</svg>",
+      "trigger": "tabler-sort-descending"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-space\" />\n</svg>",
+      "trigger": "tabler-space"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-check\" />\n</svg>",
+      "trigger": "tabler-square-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-dot\" />\n</svg>",
+      "trigger": "tabler-square-dot"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-forbid-2\" />\n</svg>",
+      "trigger": "tabler-square-forbid-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-forbid\" />\n</svg>",
+      "trigger": "tabler-square-forbid"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-minus\" />\n</svg>",
+      "trigger": "tabler-square-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-plus\" />\n</svg>",
+      "trigger": "tabler-square-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-rotated\" />\n</svg>",
+      "trigger": "tabler-square-rotated"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square-x\" />\n</svg>",
+      "trigger": "tabler-square-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-square\" />\n</svg>",
+      "trigger": "tabler-square"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-stack\" />\n</svg>",
+      "trigger": "tabler-stack"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-stairs-down\" />\n</svg>",
+      "trigger": "tabler-stairs-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-stairs-up\" />\n</svg>",
+      "trigger": "tabler-stairs-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-stairs\" />\n</svg>",
+      "trigger": "tabler-stairs"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-star-half\" />\n</svg>",
+      "trigger": "tabler-star-half"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-star\" />\n</svg>",
+      "trigger": "tabler-star"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-stars\" />\n</svg>",
+      "trigger": "tabler-stars"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-steering-wheel\" />\n</svg>",
+      "trigger": "tabler-steering-wheel"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-step-into\" />\n</svg>",
+      "trigger": "tabler-step-into"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-step-out\" />\n</svg>",
+      "trigger": "tabler-step-out"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sticker\" />\n</svg>",
+      "trigger": "tabler-sticker"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-strikethrough\" />\n</svg>",
+      "trigger": "tabler-strikethrough"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-subscript\" />\n</svg>",
+      "trigger": "tabler-subscript"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-subtask\" />\n</svg>",
+      "trigger": "tabler-subtask"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sum\" />\n</svg>",
+      "trigger": "tabler-sum"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sun\" />\n</svg>",
+      "trigger": "tabler-sun"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sunset\" />\n</svg>",
+      "trigger": "tabler-sunset"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-sunshine\" />\n</svg>",
+      "trigger": "tabler-sunshine"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-superscript\" />\n</svg>",
+      "trigger": "tabler-superscript"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-swimming\" />\n</svg>",
+      "trigger": "tabler-swimming"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-switch-horizontal\" />\n</svg>",
+      "trigger": "tabler-switch-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-switch-vertical\" />\n</svg>",
+      "trigger": "tabler-switch-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-switch\" />\n</svg>",
+      "trigger": "tabler-switch"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-table\" />\n</svg>",
+      "trigger": "tabler-table"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tag\" />\n</svg>",
+      "trigger": "tabler-tag"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-1\" />\n</svg>",
+      "trigger": "tabler-tallymark-1"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-2\" />\n</svg>",
+      "trigger": "tabler-tallymark-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-3\" />\n</svg>",
+      "trigger": "tabler-tallymark-3"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymark-4\" />\n</svg>",
+      "trigger": "tabler-tallymark-4"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tallymarks\" />\n</svg>",
+      "trigger": "tabler-tallymarks"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-target\" />\n</svg>",
+      "trigger": "tabler-target"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tax\" />\n</svg>",
+      "trigger": "tabler-tax"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-celsius\" />\n</svg>",
+      "trigger": "tabler-temperature-celsius"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-fahrenheit\" />\n</svg>",
+      "trigger": "tabler-temperature-fahrenheit"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-minus\" />\n</svg>",
+      "trigger": "tabler-temperature-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature-plus\" />\n</svg>",
+      "trigger": "tabler-temperature-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-temperature\" />\n</svg>",
+      "trigger": "tabler-temperature"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-template\" />\n</svg>",
+      "trigger": "tabler-template"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-terminal-2\" />\n</svg>",
+      "trigger": "tabler-terminal-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-terminal\" />\n</svg>",
+      "trigger": "tabler-terminal"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-test-pipe\" />\n</svg>",
+      "trigger": "tabler-test-pipe"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-text-wrap-disabled\" />\n</svg>",
+      "trigger": "tabler-text-wrap-disabled"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-text-wrap\" />\n</svg>",
+      "trigger": "tabler-text-wrap"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-thumb-down\" />\n</svg>",
+      "trigger": "tabler-thumb-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-thumb-up\" />\n</svg>",
+      "trigger": "tabler-thumb-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-ticket\" />\n</svg>",
+      "trigger": "tabler-ticket"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tir\" />\n</svg>",
+      "trigger": "tabler-tir"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-toggle-left\" />\n</svg>",
+      "trigger": "tabler-toggle-left"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-toggle-right\" />\n</svg>",
+      "trigger": "tabler-toggle-right"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tool\" />\n</svg>",
+      "trigger": "tabler-tool"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tools\" />\n</svg>",
+      "trigger": "tabler-tools"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tornado\" />\n</svg>",
+      "trigger": "tabler-tornado"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tournament\" />\n</svg>",
+      "trigger": "tabler-tournament"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-tractor\" />\n</svg>",
+      "trigger": "tabler-tractor"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trademark\" />\n</svg>",
+      "trigger": "tabler-trademark"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-traffic-cone\" />\n</svg>",
+      "trigger": "tabler-traffic-cone"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-traffic-lights\" />\n</svg>",
+      "trigger": "tabler-traffic-lights"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trash\" />\n</svg>",
+      "trigger": "tabler-trash"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trees\" />\n</svg>",
+      "trigger": "tabler-trees"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trending-down\" />\n</svg>",
+      "trigger": "tabler-trending-down"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trending-up\" />\n</svg>",
+      "trigger": "tabler-trending-up"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-triangle-square-circle\" />\n</svg>",
+      "trigger": "tabler-triangle-square-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-triangle\" />\n</svg>",
+      "trigger": "tabler-triangle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trident\" />\n</svg>",
+      "trigger": "tabler-trident"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-trophy\" />\n</svg>",
+      "trigger": "tabler-trophy"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-truck-delivery\" />\n</svg>",
+      "trigger": "tabler-truck-delivery"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-truck-return\" />\n</svg>",
+      "trigger": "tabler-truck-return"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-truck\" />\n</svg>",
+      "trigger": "tabler-truck"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-typography\" />\n</svg>",
+      "trigger": "tabler-typography"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-umbrella\" />\n</svg>",
+      "trigger": "tabler-umbrella"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-underline\" />\n</svg>",
+      "trigger": "tabler-underline"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-unlink\" />\n</svg>",
+      "trigger": "tabler-unlink"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-upload\" />\n</svg>",
+      "trigger": "tabler-upload"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-urgent\" />\n</svg>",
+      "trigger": "tabler-urgent"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-check\" />\n</svg>",
+      "trigger": "tabler-user-check"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-exclamation\" />\n</svg>",
+      "trigger": "tabler-user-exclamation"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-minus\" />\n</svg>",
+      "trigger": "tabler-user-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-off\" />\n</svg>",
+      "trigger": "tabler-user-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-plus\" />\n</svg>",
+      "trigger": "tabler-user-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user-x\" />\n</svg>",
+      "trigger": "tabler-user-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-user\" />\n</svg>",
+      "trigger": "tabler-user"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-users\" />\n</svg>",
+      "trigger": "tabler-users"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector-beizer-2\" />\n</svg>",
+      "trigger": "tabler-vector-beizer-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector-beizer\" />\n</svg>",
+      "trigger": "tabler-vector-beizer"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector-triangle\" />\n</svg>",
+      "trigger": "tabler-vector-triangle"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-vector\" />\n</svg>",
+      "trigger": "tabler-vector"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-venus\" />\n</svg>",
+      "trigger": "tabler-venus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-versions\" />\n</svg>",
+      "trigger": "tabler-versions"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-video-minus\" />\n</svg>",
+      "trigger": "tabler-video-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-video-off\" />\n</svg>",
+      "trigger": "tabler-video-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-video-plus\" />\n</svg>",
+      "trigger": "tabler-video-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-video\" />\n</svg>",
+      "trigger": "tabler-video"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-viewfinder\" />\n</svg>",
+      "trigger": "tabler-viewfinder"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-viewport-narrow\" />\n</svg>",
+      "trigger": "tabler-viewport-narrow"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-viewport-wide\" />\n</svg>",
+      "trigger": "tabler-viewport-wide"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-virus\" />\n</svg>",
+      "trigger": "tabler-virus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-volume-2\" />\n</svg>",
+      "trigger": "tabler-volume-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-volume-3\" />\n</svg>",
+      "trigger": "tabler-volume-3"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-volume\" />\n</svg>",
+      "trigger": "tabler-volume"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-walk\" />\n</svg>",
+      "trigger": "tabler-walk"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wallet\" />\n</svg>",
+      "trigger": "tabler-wallet"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wand\" />\n</svg>",
+      "trigger": "tabler-wand"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wave-saw-tool\" />\n</svg>",
+      "trigger": "tabler-wave-saw-tool"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wave-sine\" />\n</svg>",
+      "trigger": "tabler-wave-sine"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wave-square\" />\n</svg>",
+      "trigger": "tabler-wave-square"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-0\" />\n</svg>",
+      "trigger": "tabler-wifi-0"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-1\" />\n</svg>",
+      "trigger": "tabler-wifi-1"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-2\" />\n</svg>",
+      "trigger": "tabler-wifi-2"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi-off\" />\n</svg>",
+      "trigger": "tabler-wifi-off"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wifi\" />\n</svg>",
+      "trigger": "tabler-wifi"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wind\" />\n</svg>",
+      "trigger": "tabler-wind"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wiper-wash\" />\n</svg>",
+      "trigger": "tabler-wiper-wash"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-wiper\" />\n</svg>",
+      "trigger": "tabler-wiper"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-woman\" />\n</svg>",
+      "trigger": "tabler-woman"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-world-latitude\" />\n</svg>",
+      "trigger": "tabler-world-latitude"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-world-longitude\" />\n</svg>",
+      "trigger": "tabler-world-longitude"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-world\" />\n</svg>",
+      "trigger": "tabler-world"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-x\" />\n</svg>",
+      "trigger": "tabler-x"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-yin-yang\" />\n</svg>",
+      "trigger": "tabler-yin-yang"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-aquarius\" />\n</svg>",
+      "trigger": "tabler-zodiac-aquarius"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-aries\" />\n</svg>",
+      "trigger": "tabler-zodiac-aries"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-cancer\" />\n</svg>",
+      "trigger": "tabler-zodiac-cancer"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-capricorn\" />\n</svg>",
+      "trigger": "tabler-zodiac-capricorn"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-gemini\" />\n</svg>",
+      "trigger": "tabler-zodiac-gemini"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-leo\" />\n</svg>",
+      "trigger": "tabler-zodiac-leo"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-libra\" />\n</svg>",
+      "trigger": "tabler-zodiac-libra"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-pisces\" />\n</svg>",
+      "trigger": "tabler-zodiac-pisces"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-sagittarius\" />\n</svg>",
+      "trigger": "tabler-zodiac-sagittarius"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-scorpio\" />\n</svg>",
+      "trigger": "tabler-zodiac-scorpio"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-taurus\" />\n</svg>",
+      "trigger": "tabler-zodiac-taurus"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zodiac-virgo\" />\n</svg>",
+      "trigger": "tabler-zodiac-virgo"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zoom-cancel\" />\n</svg>",
+      "trigger": "tabler-zoom-cancel"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zoom-in\" />\n</svg>",
+      "trigger": "tabler-zoom-in"
+    },
+    {
+      "contents": "<svg width=\"${1:24}\" height=\"${1:24}\">\n  <use xlink:href=\"${2:tabler-sprite}.svg#tabler-zoom-out\" />\n</svg>",
+      "trigger": "tabler-zoom-out"
+    }
+  ]
+}

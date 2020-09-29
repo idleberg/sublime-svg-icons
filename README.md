@@ -32,23 +32,21 @@ Snippets are limited to the `html` scope. Typing the class name of an icon using
 
 ### Prefixes
 
-Prefix         | SVG Icons                           | Version
----------------|-------------------------------------|--------
-`bi`           | [Bytesize Icons][bi]                | 1.4
-`ei`           | [Evil Icons][ei]                    | 1.8.0
-`feather`      | [Feather][feather]                  | 4.24.0
-`octicon`      | [GitHub Octicons][octicon]          | 6.0.1
-`oi`           | [Open Iconic][oi]                   | 1.1.0
-`se`           | [Speakemoji][se]                    | 1.0
-`si`           | [SmartIcons Glyphs][si]             | 1.1
+| Prefix         | SVG Icons                           | Version |
+|----------------|-------------------------------------|---------|
+| `bi`           | [Bytesize Icons][bi]                | 1.4     |
+| `ei`           | [Evil Icons][ei]                    | 1.8.0   |
+| `feather`      | [Feather][feather]                  | 4.24.0  |
+| `octicon`      | [GitHub Octicons][octicon]          | 6.0.1   |
+| `oi`           | [Open Iconic][oi]                   | 1.1.0   |
+| `se`           | [Speakemoji][se]                    | 1.0     |
+| `si`           | [SmartIcons Glyphs][si]             | 1.1     |
+| `tabler`       | [Tabler Icons][tabler]              | 1.30.0  |
+| `teenyicons`   | [Teenyicons][teenyicons]            | 0.4.0   |
 
 ## License
 
 This work is licensed under the [The MIT License](LICENSE).
-
-## Donate
-
-You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/sublime-svg-icons) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [bi]: https://github.com/danklammer/bytesize-icons
 [ei]: https://github.com/outpunk/evil-icons
@@ -57,3 +55,5 @@ You are welcome to support this project using [Flattr](https://flattr.com/submit
 [oi]: https://github.com/iconic/open-iconic
 [se]: https://github.com/rizalrenaldi/speakemoji
 [si]: https://github.com/frexy/glyph-iconset
+[tabler]: https://github.com/tabler/tabler-icons
+[teenyicons]: https://github.com/teenyicons/teenyicons

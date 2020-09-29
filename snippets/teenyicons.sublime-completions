@@ -1,0 +1,2406 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.js.jsx, text.html",
+  "completions": [
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-360\" />\n</svg>",
+      "trigger": "teenyicons-360"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ab-testing\" />\n</svg>",
+      "trigger": "teenyicons-ab-testing"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-add-small\" />\n</svg>",
+      "trigger": "teenyicons-add-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-add\" />\n</svg>",
+      "trigger": "teenyicons-add"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-address-book\" />\n</svg>",
+      "trigger": "teenyicons-address-book"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-horizontal-alt\" />\n</svg>",
+      "trigger": "teenyicons-adjust-horizontal-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-adjust-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-vertical-alt\" />\n</svg>",
+      "trigger": "teenyicons-adjust-vertical-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-adjust-vertical\" />\n</svg>",
+      "trigger": "teenyicons-adjust-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-airplay\" />\n</svg>",
+      "trigger": "teenyicons-airplay"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-airpods\" />\n</svg>",
+      "trigger": "teenyicons-airpods"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-alarm\" />\n</svg>",
+      "trigger": "teenyicons-alarm"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-alien\" />\n</svg>",
+      "trigger": "teenyicons-alien"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-bottom\" />\n</svg>",
+      "trigger": "teenyicons-align-bottom"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-center-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-align-center-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-center-vertical\" />\n</svg>",
+      "trigger": "teenyicons-align-center-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-left\" />\n</svg>",
+      "trigger": "teenyicons-align-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-right\" />\n</svg>",
+      "trigger": "teenyicons-align-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-center\" />\n</svg>",
+      "trigger": "teenyicons-align-text-center"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-justify\" />\n</svg>",
+      "trigger": "teenyicons-align-text-justify"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-left\" />\n</svg>",
+      "trigger": "teenyicons-align-text-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-text-right\" />\n</svg>",
+      "trigger": "teenyicons-align-text-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-align-top\" />\n</svg>",
+      "trigger": "teenyicons-align-top"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-anchor\" />\n</svg>",
+      "trigger": "teenyicons-anchor"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-android\" />\n</svg>",
+      "trigger": "teenyicons-android"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-angular\" />\n</svg>",
+      "trigger": "teenyicons-angular"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-anja\" />\n</svg>",
+      "trigger": "teenyicons-anja"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-anti-clockwise\" />\n</svg>",
+      "trigger": "teenyicons-anti-clockwise"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-apple\" />\n</svg>",
+      "trigger": "teenyicons-apple"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-appointments\" />\n</svg>",
+      "trigger": "teenyicons-appointments"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-archive\" />\n</svg>",
+      "trigger": "teenyicons-archive"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-area-chart-alt\" />\n</svg>",
+      "trigger": "teenyicons-area-chart-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-area-chart\" />\n</svg>",
+      "trigger": "teenyicons-area-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-down-circle\" />\n</svg>",
+      "trigger": "teenyicons-arrow-down-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-down-small\" />\n</svg>",
+      "trigger": "teenyicons-arrow-down-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-down\" />\n</svg>",
+      "trigger": "teenyicons-arrow-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-left-circle\" />\n</svg>",
+      "trigger": "teenyicons-arrow-left-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-left-small\" />\n</svg>",
+      "trigger": "teenyicons-arrow-left-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-left\" />\n</svg>",
+      "trigger": "teenyicons-arrow-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-right-circle\" />\n</svg>",
+      "trigger": "teenyicons-arrow-right-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-right-small\" />\n</svg>",
+      "trigger": "teenyicons-arrow-right-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-right\" />\n</svg>",
+      "trigger": "teenyicons-arrow-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-up-circle\" />\n</svg>",
+      "trigger": "teenyicons-arrow-up-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-up-small\" />\n</svg>",
+      "trigger": "teenyicons-arrow-up-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow-up\" />\n</svg>",
+      "trigger": "teenyicons-arrow-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-arrow\" />\n</svg>",
+      "trigger": "teenyicons-arrow"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-artboard\" />\n</svg>",
+      "trigger": "teenyicons-artboard"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-at\" />\n</svg>",
+      "trigger": "teenyicons-at"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-attach\" />\n</svg>",
+      "trigger": "teenyicons-attach"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-attachment\" />\n</svg>",
+      "trigger": "teenyicons-attachment"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-audio-cable\" />\n</svg>",
+      "trigger": "teenyicons-audio-cable"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-audio-document\" />\n</svg>",
+      "trigger": "teenyicons-audio-document"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-azure\" />\n</svg>",
+      "trigger": "teenyicons-azure"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-backspace\" />\n</svg>",
+      "trigger": "teenyicons-backspace"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag-alt\" />\n</svg>",
+      "trigger": "teenyicons-bag-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag-minus\" />\n</svg>",
+      "trigger": "teenyicons-bag-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag-plus\" />\n</svg>",
+      "trigger": "teenyicons-bag-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bag\" />\n</svg>",
+      "trigger": "teenyicons-bag"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bank\" />\n</svg>",
+      "trigger": "teenyicons-bank"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bar-chart\" />\n</svg>",
+      "trigger": "teenyicons-bar-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-barcode\" />\n</svg>",
+      "trigger": "teenyicons-barcode"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-basket-minus\" />\n</svg>",
+      "trigger": "teenyicons-basket-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-basket-plus\" />\n</svg>",
+      "trigger": "teenyicons-basket-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-basket\" />\n</svg>",
+      "trigger": "teenyicons-basket"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bath\" />\n</svg>",
+      "trigger": "teenyicons-bath"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-0\" />\n</svg>",
+      "trigger": "teenyicons-battery-0"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-1\" />\n</svg>",
+      "trigger": "teenyicons-battery-1"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-2\" />\n</svg>",
+      "trigger": "teenyicons-battery-2"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-3\" />\n</svg>",
+      "trigger": "teenyicons-battery-3"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-4\" />\n</svg>",
+      "trigger": "teenyicons-battery-4"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-5\" />\n</svg>",
+      "trigger": "teenyicons-battery-5"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-battery-charge\" />\n</svg>",
+      "trigger": "teenyicons-battery-charge"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bed-double\" />\n</svg>",
+      "trigger": "teenyicons-bed-double"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bed-single\" />\n</svg>",
+      "trigger": "teenyicons-bed-single"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-behance\" />\n</svg>",
+      "trigger": "teenyicons-behance"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bell\" />\n</svg>",
+      "trigger": "teenyicons-bell"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bin\" />\n</svg>",
+      "trigger": "teenyicons-bin"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bitbucket\" />\n</svg>",
+      "trigger": "teenyicons-bitbucket"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bitcoin\" />\n</svg>",
+      "trigger": "teenyicons-bitcoin"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bluetooth\" />\n</svg>",
+      "trigger": "teenyicons-bluetooth"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bold\" />\n</svg>",
+      "trigger": "teenyicons-bold"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-book\" />\n</svg>",
+      "trigger": "teenyicons-book"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bookmark\" />\n</svg>",
+      "trigger": "teenyicons-bookmark"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-all\" />\n</svg>",
+      "trigger": "teenyicons-border-all"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-bottom\" />\n</svg>",
+      "trigger": "teenyicons-border-bottom"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-border-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-inner\" />\n</svg>",
+      "trigger": "teenyicons-border-inner"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-left\" />\n</svg>",
+      "trigger": "teenyicons-border-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-none\" />\n</svg>",
+      "trigger": "teenyicons-border-none"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-outer\" />\n</svg>",
+      "trigger": "teenyicons-border-outer"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-radius\" />\n</svg>",
+      "trigger": "teenyicons-border-radius"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-right\" />\n</svg>",
+      "trigger": "teenyicons-border-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-top\" />\n</svg>",
+      "trigger": "teenyicons-border-top"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-border-vertical\" />\n</svg>",
+      "trigger": "teenyicons-border-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bottom-left\" />\n</svg>",
+      "trigger": "teenyicons-bottom-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bottom-right\" />\n</svg>",
+      "trigger": "teenyicons-bottom-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-box\" />\n</svg>",
+      "trigger": "teenyicons-box"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bracket\" />\n</svg>",
+      "trigger": "teenyicons-bracket"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-briefcase-alt\" />\n</svg>",
+      "trigger": "teenyicons-briefcase-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-briefcase\" />\n</svg>",
+      "trigger": "teenyicons-briefcase"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-brush\" />\n</svg>",
+      "trigger": "teenyicons-brush"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bug\" />\n</svg>",
+      "trigger": "teenyicons-bug"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-building\" />\n</svg>",
+      "trigger": "teenyicons-building"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bulb-off\" />\n</svg>",
+      "trigger": "teenyicons-bulb-off"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-bulb-on\" />\n</svg>",
+      "trigger": "teenyicons-bulb-on"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-button\" />\n</svg>",
+      "trigger": "teenyicons-button"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-c-sharp\" />\n</svg>",
+      "trigger": "teenyicons-c-sharp\tteenyicons-  c-sharp"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-c\" />\n</svg>",
+      "trigger": "teenyicons-c"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calculator\" />\n</svg>",
+      "trigger": "teenyicons-calculator"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-minus\" />\n</svg>",
+      "trigger": "teenyicons-calendar-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-no-access\" />\n</svg>",
+      "trigger": "teenyicons-calendar-no-access"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-plus\" />\n</svg>",
+      "trigger": "teenyicons-calendar-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-tick\" />\n</svg>",
+      "trigger": "teenyicons-calendar-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar-x\" />\n</svg>",
+      "trigger": "teenyicons-calendar-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-calendar\" />\n</svg>",
+      "trigger": "teenyicons-calendar"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-camera\" />\n</svg>",
+      "trigger": "teenyicons-camera"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-candle-chart\" />\n</svg>",
+      "trigger": "teenyicons-candle-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-car\" />\n</svg>",
+      "trigger": "teenyicons-car"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-caret-vertical-circle\" />\n</svg>",
+      "trigger": "teenyicons-caret-vertical-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-caret-vertical-small\" />\n</svg>",
+      "trigger": "teenyicons-caret-vertical-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-caret-vertical\" />\n</svg>",
+      "trigger": "teenyicons-caret-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cart-minus\" />\n</svg>",
+      "trigger": "teenyicons-cart-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cart-plus\" />\n</svg>",
+      "trigger": "teenyicons-cart-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cart\" />\n</svg>",
+      "trigger": "teenyicons-cart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-certificate\" />\n</svg>",
+      "trigger": "teenyicons-certificate"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chat-typing-alt\" />\n</svg>",
+      "trigger": "teenyicons-chat-typing-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chat-typing\" />\n</svg>",
+      "trigger": "teenyicons-chat-typing"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chat\" />\n</svg>",
+      "trigger": "teenyicons-chat"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chatbot\" />\n</svg>",
+      "trigger": "teenyicons-chatbot"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-chrome\" />\n</svg>",
+      "trigger": "teenyicons-chrome"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-church\" />\n</svg>",
+      "trigger": "teenyicons-church"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-circle\" />\n</svg>",
+      "trigger": "teenyicons-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-minus\" />\n</svg>",
+      "trigger": "teenyicons-clipboard-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-no-access\" />\n</svg>",
+      "trigger": "teenyicons-clipboard-no-access"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-plus\" />\n</svg>",
+      "trigger": "teenyicons-clipboard-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-tick\" />\n</svg>",
+      "trigger": "teenyicons-clipboard-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard-x\" />\n</svg>",
+      "trigger": "teenyicons-clipboard-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clipboard\" />\n</svg>",
+      "trigger": "teenyicons-clipboard"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clock\" />\n</svg>",
+      "trigger": "teenyicons-clock"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-clockwise\" />\n</svg>",
+      "trigger": "teenyicons-clockwise"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-code\" />\n</svg>",
+      "trigger": "teenyicons-code"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-codepen\" />\n</svg>",
+      "trigger": "teenyicons-codepen"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cog\" />\n</svg>",
+      "trigger": "teenyicons-cog"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-compass\" />\n</svg>",
+      "trigger": "teenyicons-compass"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-computer\" />\n</svg>",
+      "trigger": "teenyicons-computer"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-contact\" />\n</svg>",
+      "trigger": "teenyicons-contact"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-contract\" />\n</svg>",
+      "trigger": "teenyicons-contract"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cost-estimate\" />\n</svg>",
+      "trigger": "teenyicons-cost-estimate"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cplusplus\" />\n</svg>",
+      "trigger": "teenyicons-cplusplus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-credit-card\" />\n</svg>",
+      "trigger": "teenyicons-credit-card"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-crop\" />\n</svg>",
+      "trigger": "teenyicons-crop"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-css3\" />\n</svg>",
+      "trigger": "teenyicons-css3"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-csv\" />\n</svg>",
+      "trigger": "teenyicons-csv"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-cup\" />\n</svg>",
+      "trigger": "teenyicons-cup"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-curved-connector\" />\n</svg>",
+      "trigger": "teenyicons-curved-connector"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-d3\" />\n</svg>",
+      "trigger": "teenyicons-d3"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-database\" />\n</svg>",
+      "trigger": "teenyicons-database"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-denied\" />\n</svg>",
+      "trigger": "teenyicons-denied"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-deno\" />\n</svg>",
+      "trigger": "teenyicons-deno"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-depth-chart\" />\n</svg>",
+      "trigger": "teenyicons-depth-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-desklamp\" />\n</svg>",
+      "trigger": "teenyicons-desklamp"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-diamond\" />\n</svg>",
+      "trigger": "teenyicons-diamond"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-direction\" />\n</svg>",
+      "trigger": "teenyicons-direction"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-discord\" />\n</svg>",
+      "trigger": "teenyicons-discord"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-discount\" />\n</svg>",
+      "trigger": "teenyicons-discount"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-distribute-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-distribute-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-distribute-vertical\" />\n</svg>",
+      "trigger": "teenyicons-distribute-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-divider-line\" />\n</svg>",
+      "trigger": "teenyicons-divider-line"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-doc\" />\n</svg>",
+      "trigger": "teenyicons-doc"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-docker\" />\n</svg>",
+      "trigger": "teenyicons-docker"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-documents\" />\n</svg>",
+      "trigger": "teenyicons-documents"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-dollar\" />\n</svg>",
+      "trigger": "teenyicons-dollar"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-donut-chart\" />\n</svg>",
+      "trigger": "teenyicons-donut-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-down-circle\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-down-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-down-small\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-down-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-down\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-left-circle\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-left-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-left-small\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-left-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-left\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-right-circle\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-right-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-right-small\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-right-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-right\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-up-circle\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-up-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-up-small\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-up-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-double-caret-up\" />\n</svg>",
+      "trigger": "teenyicons-double-caret-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-down-circle\" />\n</svg>",
+      "trigger": "teenyicons-down-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-down-small\" />\n</svg>",
+      "trigger": "teenyicons-down-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-down\" />\n</svg>",
+      "trigger": "teenyicons-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-download\" />\n</svg>",
+      "trigger": "teenyicons-download"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drag-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-drag-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drag-vertical\" />\n</svg>",
+      "trigger": "teenyicons-drag-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drag\" />\n</svg>",
+      "trigger": "teenyicons-drag"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-dribbble\" />\n</svg>",
+      "trigger": "teenyicons-dribbble"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-drop\" />\n</svg>",
+      "trigger": "teenyicons-drop"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-dropper\" />\n</svg>",
+      "trigger": "teenyicons-dropper"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edge\" />\n</svg>",
+      "trigger": "teenyicons-edge"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit-1\" />\n</svg>",
+      "trigger": "teenyicons-edit-1"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit-circle\" />\n</svg>",
+      "trigger": "teenyicons-edit-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit-small\" />\n</svg>",
+      "trigger": "teenyicons-edit-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-edit\" />\n</svg>",
+      "trigger": "teenyicons-edit"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-elbow-connector\" />\n</svg>",
+      "trigger": "teenyicons-elbow-connector"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-envelope-open\" />\n</svg>",
+      "trigger": "teenyicons-envelope-open"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-envelope\" />\n</svg>",
+      "trigger": "teenyicons-envelope"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eps\" />\n</svg>",
+      "trigger": "teenyicons-eps"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eslint\" />\n</svg>",
+      "trigger": "teenyicons-eslint"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ethereum\" />\n</svg>",
+      "trigger": "teenyicons-ethereum"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-euro\" />\n</svg>",
+      "trigger": "teenyicons-euro"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-exclamation-circle\" />\n</svg>",
+      "trigger": "teenyicons-exclamation-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-exclamation-small\" />\n</svg>",
+      "trigger": "teenyicons-exclamation-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-exclamation\" />\n</svg>",
+      "trigger": "teenyicons-exclamation"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-expand-alt\" />\n</svg>",
+      "trigger": "teenyicons-expand-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-expand\" />\n</svg>",
+      "trigger": "teenyicons-expand"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eye-closed\" />\n</svg>",
+      "trigger": "teenyicons-eye-closed"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-eye\" />\n</svg>",
+      "trigger": "teenyicons-eye"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-face-id\" />\n</svg>",
+      "trigger": "teenyicons-face-id"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-facebook\" />\n</svg>",
+      "trigger": "teenyicons-facebook"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-figma\" />\n</svg>",
+      "trigger": "teenyicons-figma"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-minus\" />\n</svg>",
+      "trigger": "teenyicons-file-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-no-access\" />\n</svg>",
+      "trigger": "teenyicons-file-no-access"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-plus\" />\n</svg>",
+      "trigger": "teenyicons-file-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-tick\" />\n</svg>",
+      "trigger": "teenyicons-file-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file-x\" />\n</svg>",
+      "trigger": "teenyicons-file-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-file\" />\n</svg>",
+      "trigger": "teenyicons-file"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-filter\" />\n</svg>",
+      "trigger": "teenyicons-filter"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-fingerprint\" />\n</svg>",
+      "trigger": "teenyicons-fingerprint"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-firebase\" />\n</svg>",
+      "trigger": "teenyicons-firebase"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flag-alt\" />\n</svg>",
+      "trigger": "teenyicons-flag-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flag\" />\n</svg>",
+      "trigger": "teenyicons-flag"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flip-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-flip-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-flip-vertical\" />\n</svg>",
+      "trigger": "teenyicons-flip-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-float-center\" />\n</svg>",
+      "trigger": "teenyicons-float-center"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-float-left\" />\n</svg>",
+      "trigger": "teenyicons-float-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-float-right\" />\n</svg>",
+      "trigger": "teenyicons-float-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-floorplan\" />\n</svg>",
+      "trigger": "teenyicons-floorplan"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-minus\" />\n</svg>",
+      "trigger": "teenyicons-folder-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-no-access\" />\n</svg>",
+      "trigger": "teenyicons-folder-no-access"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-plus\" />\n</svg>",
+      "trigger": "teenyicons-folder-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-tick\" />\n</svg>",
+      "trigger": "teenyicons-folder-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder-x\" />\n</svg>",
+      "trigger": "teenyicons-folder-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folder\" />\n</svg>",
+      "trigger": "teenyicons-folder"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-folders\" />\n</svg>",
+      "trigger": "teenyicons-folders"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-forward-circle\" />\n</svg>",
+      "trigger": "teenyicons-forward-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-forward-small\" />\n</svg>",
+      "trigger": "teenyicons-forward-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-forward\" />\n</svg>",
+      "trigger": "teenyicons-forward"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-frame\" />\n</svg>",
+      "trigger": "teenyicons-frame"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-framer\" />\n</svg>",
+      "trigger": "teenyicons-framer"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-game-controller-retro\" />\n</svg>",
+      "trigger": "teenyicons-game-controller-retro"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-game-controller\" />\n</svg>",
+      "trigger": "teenyicons-game-controller"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gantt-chart\" />\n</svg>",
+      "trigger": "teenyicons-gantt-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-garage\" />\n</svg>",
+      "trigger": "teenyicons-garage"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gatsbyjs\" />\n</svg>",
+      "trigger": "teenyicons-gatsbyjs"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gba\" />\n</svg>",
+      "trigger": "teenyicons-gba"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gbc\" />\n</svg>",
+      "trigger": "teenyicons-gbc"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ghost\" />\n</svg>",
+      "trigger": "teenyicons-ghost"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gif\" />\n</svg>",
+      "trigger": "teenyicons-gif"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gift\" />\n</svg>",
+      "trigger": "teenyicons-gift"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-branch\" />\n</svg>",
+      "trigger": "teenyicons-git-branch"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-commit\" />\n</svg>",
+      "trigger": "teenyicons-git-commit"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-compare\" />\n</svg>",
+      "trigger": "teenyicons-git-compare"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-fork\" />\n</svg>",
+      "trigger": "teenyicons-git-fork"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-merge\" />\n</svg>",
+      "trigger": "teenyicons-git-merge"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git-pull\" />\n</svg>",
+      "trigger": "teenyicons-git-pull"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-git\" />\n</svg>",
+      "trigger": "teenyicons-git"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-github\" />\n</svg>",
+      "trigger": "teenyicons-github"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-gitlab\" />\n</svg>",
+      "trigger": "teenyicons-gitlab"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-globe-africa\" />\n</svg>",
+      "trigger": "teenyicons-globe-africa"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-globe-americas\" />\n</svg>",
+      "trigger": "teenyicons-globe-americas"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-globe\" />\n</svg>",
+      "trigger": "teenyicons-globe"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-ad\" />\n</svg>",
+      "trigger": "teenyicons-google-ad"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-drive\" />\n</svg>",
+      "trigger": "teenyicons-google-drive"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-play-store\" />\n</svg>",
+      "trigger": "teenyicons-google-play-store"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google-streetview\" />\n</svg>",
+      "trigger": "teenyicons-google-streetview"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-google\" />\n</svg>",
+      "trigger": "teenyicons-google"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-graphql\" />\n</svg>",
+      "trigger": "teenyicons-graphql"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-grid-layout\" />\n</svg>",
+      "trigger": "teenyicons-grid-layout"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hashtag\" />\n</svg>",
+      "trigger": "teenyicons-hashtag"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hd-screen\" />\n</svg>",
+      "trigger": "teenyicons-hd-screen"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hdmi-cable\" />\n</svg>",
+      "trigger": "teenyicons-hdmi-cable"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-headphones\" />\n</svg>",
+      "trigger": "teenyicons-headphones"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-headset\" />\n</svg>",
+      "trigger": "teenyicons-headset"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-heart-circle\" />\n</svg>",
+      "trigger": "teenyicons-heart-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-heart-small\" />\n</svg>",
+      "trigger": "teenyicons-heart-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-heart\" />\n</svg>",
+      "trigger": "teenyicons-heart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hexagon\" />\n</svg>",
+      "trigger": "teenyicons-hexagon"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-history\" />\n</svg>",
+      "trigger": "teenyicons-history"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-home-alt\" />\n</svg>",
+      "trigger": "teenyicons-home-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-home\" />\n</svg>",
+      "trigger": "teenyicons-home"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hospital\" />\n</svg>",
+      "trigger": "teenyicons-hospital"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-hourglass\" />\n</svg>",
+      "trigger": "teenyicons-hourglass"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-house\" />\n</svg>",
+      "trigger": "teenyicons-house"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-html5\" />\n</svg>",
+      "trigger": "teenyicons-html5"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-id\" />\n</svg>",
+      "trigger": "teenyicons-id"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-imac\" />\n</svg>",
+      "trigger": "teenyicons-imac"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-image-alt\" />\n</svg>",
+      "trigger": "teenyicons-image-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-image-document\" />\n</svg>",
+      "trigger": "teenyicons-image-document"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-image\" />\n</svg>",
+      "trigger": "teenyicons-image"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-in-ear-headphones\" />\n</svg>",
+      "trigger": "teenyicons-in-ear-headphones"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-inbox\" />\n</svg>",
+      "trigger": "teenyicons-inbox"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-indent-decrease\" />\n</svg>",
+      "trigger": "teenyicons-indent-decrease"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-indent-increase\" />\n</svg>",
+      "trigger": "teenyicons-indent-increase"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-info-circle\" />\n</svg>",
+      "trigger": "teenyicons-info-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-info-small\" />\n</svg>",
+      "trigger": "teenyicons-info-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-info\" />\n</svg>",
+      "trigger": "teenyicons-info"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-instagram\" />\n</svg>",
+      "trigger": "teenyicons-instagram"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-invoice\" />\n</svg>",
+      "trigger": "teenyicons-invoice"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-italic\" />\n</svg>",
+      "trigger": "teenyicons-italic"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-javascript\" />\n</svg>",
+      "trigger": "teenyicons-javascript"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-joystick\" />\n</svg>",
+      "trigger": "teenyicons-joystick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-jpg\" />\n</svg>",
+      "trigger": "teenyicons-jpg"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-kanban\" />\n</svg>",
+      "trigger": "teenyicons-kanban"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-key\" />\n</svg>",
+      "trigger": "teenyicons-key"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-keyboard\" />\n</svg>",
+      "trigger": "teenyicons-keyboard"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lan-cable\" />\n</svg>",
+      "trigger": "teenyicons-lan-cable"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-laptop\" />\n</svg>",
+      "trigger": "teenyicons-laptop"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-laravel\" />\n</svg>",
+      "trigger": "teenyicons-laravel"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-difference\" />\n</svg>",
+      "trigger": "teenyicons-layers-difference"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-intersect\" />\n</svg>",
+      "trigger": "teenyicons-layers-intersect"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-subtract\" />\n</svg>",
+      "trigger": "teenyicons-layers-subtract"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers-union\" />\n</svg>",
+      "trigger": "teenyicons-layers-union"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-layers\" />\n</svg>",
+      "trigger": "teenyicons-layers"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-left-circle\" />\n</svg>",
+      "trigger": "teenyicons-left-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-left-small\" />\n</svg>",
+      "trigger": "teenyicons-left-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-left\" />\n</svg>",
+      "trigger": "teenyicons-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lego\" />\n</svg>",
+      "trigger": "teenyicons-lego"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lifebuoy\" />\n</svg>",
+      "trigger": "teenyicons-lifebuoy"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lightning-cable\" />\n</svg>",
+      "trigger": "teenyicons-lightning-cable"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-line\" />\n</svg>",
+      "trigger": "teenyicons-line"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-link-remove\" />\n</svg>",
+      "trigger": "teenyicons-link-remove"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-link\" />\n</svg>",
+      "trigger": "teenyicons-link"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-linkedin\" />\n</svg>",
+      "trigger": "teenyicons-linkedin"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-linux-alt\" />\n</svg>",
+      "trigger": "teenyicons-linux-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-linux\" />\n</svg>",
+      "trigger": "teenyicons-linux"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-list-layout\" />\n</svg>",
+      "trigger": "teenyicons-list-layout"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-list-ordered\" />\n</svg>",
+      "trigger": "teenyicons-list-ordered"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-list-unordered\" />\n</svg>",
+      "trigger": "teenyicons-list-unordered"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-litecoin\" />\n</svg>",
+      "trigger": "teenyicons-litecoin"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-loader\" />\n</svg>",
+      "trigger": "teenyicons-loader"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-location\" />\n</svg>",
+      "trigger": "teenyicons-location"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lock-circle\" />\n</svg>",
+      "trigger": "teenyicons-lock-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lock-small\" />\n</svg>",
+      "trigger": "teenyicons-lock-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-lock\" />\n</svg>",
+      "trigger": "teenyicons-lock"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-logout\" />\n</svg>",
+      "trigger": "teenyicons-logout"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-loop\" />\n</svg>",
+      "trigger": "teenyicons-loop"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-magsafe\" />\n</svg>",
+      "trigger": "teenyicons-magsafe"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-markdown\" />\n</svg>",
+      "trigger": "teenyicons-markdown"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-medium\" />\n</svg>",
+      "trigger": "teenyicons-medium"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-menu\" />\n</svg>",
+      "trigger": "teenyicons-menu"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-minus\" />\n</svg>",
+      "trigger": "teenyicons-message-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-no-access\" />\n</svg>",
+      "trigger": "teenyicons-message-no-access"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-plus\" />\n</svg>",
+      "trigger": "teenyicons-message-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-text-alt\" />\n</svg>",
+      "trigger": "teenyicons-message-text-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-text\" />\n</svg>",
+      "trigger": "teenyicons-message-text"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-tick\" />\n</svg>",
+      "trigger": "teenyicons-message-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message-x\" />\n</svg>",
+      "trigger": "teenyicons-message-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-message\" />\n</svg>",
+      "trigger": "teenyicons-message"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-messenger\" />\n</svg>",
+      "trigger": "teenyicons-messenger"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-micro-sd-card\" />\n</svg>",
+      "trigger": "teenyicons-micro-sd-card"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-microphone\" />\n</svg>",
+      "trigger": "teenyicons-microphone"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minimise-alt\" />\n</svg>",
+      "trigger": "teenyicons-minimise-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minimise\" />\n</svg>",
+      "trigger": "teenyicons-minimise"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minus-circle\" />\n</svg>",
+      "trigger": "teenyicons-minus-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minus-small\" />\n</svg>",
+      "trigger": "teenyicons-minus-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-minus\" />\n</svg>",
+      "trigger": "teenyicons-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mobile\" />\n</svg>",
+      "trigger": "teenyicons-mobile"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-money-stack\" />\n</svg>",
+      "trigger": "teenyicons-money-stack"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-money\" />\n</svg>",
+      "trigger": "teenyicons-money"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mongodb\" />\n</svg>",
+      "trigger": "teenyicons-mongodb"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-flat\" />\n</svg>",
+      "trigger": "teenyicons-mood-flat"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-frown\" />\n</svg>",
+      "trigger": "teenyicons-mood-frown"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-laugh\" />\n</svg>",
+      "trigger": "teenyicons-mood-laugh"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-sad\" />\n</svg>",
+      "trigger": "teenyicons-mood-sad"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-smile\" />\n</svg>",
+      "trigger": "teenyicons-mood-smile"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-surprised\" />\n</svg>",
+      "trigger": "teenyicons-mood-surprised"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mood-tongue\" />\n</svg>",
+      "trigger": "teenyicons-mood-tongue"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-moon\" />\n</svg>",
+      "trigger": "teenyicons-moon"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-more-horizontal\" />\n</svg>",
+      "trigger": "teenyicons-more-horizontal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-more-vertical\" />\n</svg>",
+      "trigger": "teenyicons-more-vertical"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mouse\" />\n</svg>",
+      "trigger": "teenyicons-mouse"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mov\" />\n</svg>",
+      "trigger": "teenyicons-mov"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mp3\" />\n</svg>",
+      "trigger": "teenyicons-mp3"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-mp4\" />\n</svg>",
+      "trigger": "teenyicons-mp4"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ms-excel\" />\n</svg>",
+      "trigger": "teenyicons-ms-excel"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ms-powerpoint\" />\n</svg>",
+      "trigger": "teenyicons-ms-powerpoint"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ms-word\" />\n</svg>",
+      "trigger": "teenyicons-ms-word"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-n64\" />\n</svg>",
+      "trigger": "teenyicons-n64"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nes\" />\n</svg>",
+      "trigger": "teenyicons-nes"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-netlify\" />\n</svg>",
+      "trigger": "teenyicons-netlify"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-next-circle\" />\n</svg>",
+      "trigger": "teenyicons-next-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-next-small\" />\n</svg>",
+      "trigger": "teenyicons-next-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-next\" />\n</svg>",
+      "trigger": "teenyicons-next"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nextjs\" />\n</svg>",
+      "trigger": "teenyicons-nextjs"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ngc\" />\n</svg>",
+      "trigger": "teenyicons-ngc"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nintendo-switch\" />\n</svg>",
+      "trigger": "teenyicons-nintendo-switch"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nodejs\" />\n</svg>",
+      "trigger": "teenyicons-nodejs"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-note\" />\n</svg>",
+      "trigger": "teenyicons-note"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-npm\" />\n</svg>",
+      "trigger": "teenyicons-npm"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-nuxtjs\" />\n</svg>",
+      "trigger": "teenyicons-nuxtjs"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-omega\" />\n</svg>",
+      "trigger": "teenyicons-omega"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-opera\" />\n</svg>",
+      "trigger": "teenyicons-opera"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-otp\" />\n</svg>",
+      "trigger": "teenyicons-otp"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-page-break\" />\n</svg>",
+      "trigger": "teenyicons-page-break"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-page-number\" />\n</svg>",
+      "trigger": "teenyicons-page-number"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paintbrush\" />\n</svg>",
+      "trigger": "teenyicons-paintbrush"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paintbucket\" />\n</svg>",
+      "trigger": "teenyicons-paintbucket"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paragraph\" />\n</svg>",
+      "trigger": "teenyicons-paragraph"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-password\" />\n</svg>",
+      "trigger": "teenyicons-password"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-patreon\" />\n</svg>",
+      "trigger": "teenyicons-patreon"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pause-circle\" />\n</svg>",
+      "trigger": "teenyicons-pause-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pause-small\" />\n</svg>",
+      "trigger": "teenyicons-pause-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pause\" />\n</svg>",
+      "trigger": "teenyicons-pause"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paw\" />\n</svg>",
+      "trigger": "teenyicons-paw"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paws\" />\n</svg>",
+      "trigger": "teenyicons-paws"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-paypal\" />\n</svg>",
+      "trigger": "teenyicons-paypal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pdf\" />\n</svg>",
+      "trigger": "teenyicons-pdf"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pen\" />\n</svg>",
+      "trigger": "teenyicons-pen"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phone\" />\n</svg>",
+      "trigger": "teenyicons-phone"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phonecall-blocked\" />\n</svg>",
+      "trigger": "teenyicons-phonecall-blocked"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phonecall-receive\" />\n</svg>",
+      "trigger": "teenyicons-phonecall-receive"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-phonecall\" />\n</svg>",
+      "trigger": "teenyicons-phonecall"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pie-chart-alt\" />\n</svg>",
+      "trigger": "teenyicons-pie-chart-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pie-chart\" />\n</svg>",
+      "trigger": "teenyicons-pie-chart"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pin-alt\" />\n</svg>",
+      "trigger": "teenyicons-pin-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pin\" />\n</svg>",
+      "trigger": "teenyicons-pin"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pinterest\" />\n</svg>",
+      "trigger": "teenyicons-pinterest"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-plant\" />\n</svg>",
+      "trigger": "teenyicons-plant"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-play-circle\" />\n</svg>",
+      "trigger": "teenyicons-play-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-play-small\" />\n</svg>",
+      "trigger": "teenyicons-play-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-play\" />\n</svg>",
+      "trigger": "teenyicons-play"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-plug\" />\n</svg>",
+      "trigger": "teenyicons-plug"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-plus-circle\" />\n</svg>",
+      "trigger": "teenyicons-plus-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-png\" />\n</svg>",
+      "trigger": "teenyicons-png"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pool\" />\n</svg>",
+      "trigger": "teenyicons-pool"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-pound\" />\n</svg>",
+      "trigger": "teenyicons-pound"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-power\" />\n</svg>",
+      "trigger": "teenyicons-power"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ppt\" />\n</svg>",
+      "trigger": "teenyicons-ppt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-print\" />\n</svg>",
+      "trigger": "teenyicons-print"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-python\" />\n</svg>",
+      "trigger": "teenyicons-python"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-qr-code\" />\n</svg>",
+      "trigger": "teenyicons-qr-code"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-question-circle\" />\n</svg>",
+      "trigger": "teenyicons-question-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-question-small\" />\n</svg>",
+      "trigger": "teenyicons-question-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-question\" />\n</svg>",
+      "trigger": "teenyicons-question"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-quote\" />\n</svg>",
+      "trigger": "teenyicons-quote"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rand\" />\n</svg>",
+      "trigger": "teenyicons-rand"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-react\" />\n</svg>",
+      "trigger": "teenyicons-react"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-receipt\" />\n</svg>",
+      "trigger": "teenyicons-receipt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-reddit\" />\n</svg>",
+      "trigger": "teenyicons-reddit"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-redwoodjs\" />\n</svg>",
+      "trigger": "teenyicons-redwoodjs"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-refresh-alt\" />\n</svg>",
+      "trigger": "teenyicons-refresh-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-refresh\" />\n</svg>",
+      "trigger": "teenyicons-refresh"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rewind-circle\" />\n</svg>",
+      "trigger": "teenyicons-rewind-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rewind-small\" />\n</svg>",
+      "trigger": "teenyicons-rewind-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rewind\" />\n</svg>",
+      "trigger": "teenyicons-rewind"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-right-circle\" />\n</svg>",
+      "trigger": "teenyicons-right-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-right-small\" />\n</svg>",
+      "trigger": "teenyicons-right-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-right\" />\n</svg>",
+      "trigger": "teenyicons-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ripple\" />\n</svg>",
+      "trigger": "teenyicons-ripple"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-robot\" />\n</svg>",
+      "trigger": "teenyicons-robot"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-roller\" />\n</svg>",
+      "trigger": "teenyicons-roller"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rollupjs\" />\n</svg>",
+      "trigger": "teenyicons-rollupjs"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-router\" />\n</svg>",
+      "trigger": "teenyicons-router"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rss\" />\n</svg>",
+      "trigger": "teenyicons-rss"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-ruby\" />\n</svg>",
+      "trigger": "teenyicons-ruby"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rupee\" />\n</svg>",
+      "trigger": "teenyicons-rupee"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-rust\" />\n</svg>",
+      "trigger": "teenyicons-rust"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-safari\" />\n</svg>",
+      "trigger": "teenyicons-safari"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-safe\" />\n</svg>",
+      "trigger": "teenyicons-safe"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-save\" />\n</svg>",
+      "trigger": "teenyicons-save"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-scan\" />\n</svg>",
+      "trigger": "teenyicons-scan"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-school\" />\n</svg>",
+      "trigger": "teenyicons-school"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-screen-alt-2\" />\n</svg>",
+      "trigger": "teenyicons-screen-alt-2"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-screen-alt\" />\n</svg>",
+      "trigger": "teenyicons-screen-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-screen\" />\n</svg>",
+      "trigger": "teenyicons-screen"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-scribble\" />\n</svg>",
+      "trigger": "teenyicons-scribble"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sd-card\" />\n</svg>",
+      "trigger": "teenyicons-sd-card"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search-circle\" />\n</svg>",
+      "trigger": "teenyicons-search-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search-property\" />\n</svg>",
+      "trigger": "teenyicons-search-property"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search-small\" />\n</svg>",
+      "trigger": "teenyicons-search-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-search\" />\n</svg>",
+      "trigger": "teenyicons-search"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-section-add\" />\n</svg>",
+      "trigger": "teenyicons-section-add"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-section-remove\" />\n</svg>",
+      "trigger": "teenyicons-section-remove"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-down\" />\n</svg>",
+      "trigger": "teenyicons-send-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-left\" />\n</svg>",
+      "trigger": "teenyicons-send-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-right\" />\n</svg>",
+      "trigger": "teenyicons-send-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send-up\" />\n</svg>",
+      "trigger": "teenyicons-send-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-send\" />\n</svg>",
+      "trigger": "teenyicons-send"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-servers\" />\n</svg>",
+      "trigger": "teenyicons-servers"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-share\" />\n</svg>",
+      "trigger": "teenyicons-share"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shield-tick\" />\n</svg>",
+      "trigger": "teenyicons-shield-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shield-x\" />\n</svg>",
+      "trigger": "teenyicons-shield-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shield\" />\n</svg>",
+      "trigger": "teenyicons-shield"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-shop\" />\n</svg>",
+      "trigger": "teenyicons-shop"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sign\" />\n</svg>",
+      "trigger": "teenyicons-sign"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-signin\" />\n</svg>",
+      "trigger": "teenyicons-signin"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sim\" />\n</svg>",
+      "trigger": "teenyicons-sim"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-simohamed\" />\n</svg>",
+      "trigger": "teenyicons-simohamed"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-skull\" />\n</svg>",
+      "trigger": "teenyicons-skull"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-skype\" />\n</svg>",
+      "trigger": "teenyicons-skype"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-slack\" />\n</svg>",
+      "trigger": "teenyicons-slack"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-snapchat\" />\n</svg>",
+      "trigger": "teenyicons-snapchat"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-snes\" />\n</svg>",
+      "trigger": "teenyicons-snes"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-alphabetically\" />\n</svg>",
+      "trigger": "teenyicons-sort-alphabetically"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-down\" />\n</svg>",
+      "trigger": "teenyicons-sort-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-high-to-low\" />\n</svg>",
+      "trigger": "teenyicons-sort-high-to-low"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-low-to-high\" />\n</svg>",
+      "trigger": "teenyicons-sort-low-to-high"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-reverse-alphabetically\" />\n</svg>",
+      "trigger": "teenyicons-sort-reverse-alphabetically"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sort-up\" />\n</svg>",
+      "trigger": "teenyicons-sort-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sound-off\" />\n</svg>",
+      "trigger": "teenyicons-sound-off"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sound-on\" />\n</svg>",
+      "trigger": "teenyicons-sound-on"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-spotify\" />\n</svg>",
+      "trigger": "teenyicons-spotify"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-spreadsheet\" />\n</svg>",
+      "trigger": "teenyicons-spreadsheet"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-square\" />\n</svg>",
+      "trigger": "teenyicons-square"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stackoverflow\" />\n</svg>",
+      "trigger": "teenyicons-stackoverflow"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stamp\" />\n</svg>",
+      "trigger": "teenyicons-stamp"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-star-circle\" />\n</svg>",
+      "trigger": "teenyicons-star-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-star-small\" />\n</svg>",
+      "trigger": "teenyicons-star-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-star\" />\n</svg>",
+      "trigger": "teenyicons-star"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stop-circle\" />\n</svg>",
+      "trigger": "teenyicons-stop-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stop-small\" />\n</svg>",
+      "trigger": "teenyicons-stop-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stop\" />\n</svg>",
+      "trigger": "teenyicons-stop"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-stopwatch\" />\n</svg>",
+      "trigger": "teenyicons-stopwatch"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-strikethrough\" />\n</svg>",
+      "trigger": "teenyicons-strikethrough"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-subscript\" />\n</svg>",
+      "trigger": "teenyicons-subscript"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-sun\" />\n</svg>",
+      "trigger": "teenyicons-sun"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-superscript\" />\n</svg>",
+      "trigger": "teenyicons-superscript"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-svelte\" />\n</svg>",
+      "trigger": "teenyicons-svelte"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-svg\" />\n</svg>",
+      "trigger": "teenyicons-svg"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-table\" />\n</svg>",
+      "trigger": "teenyicons-table"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tablet\" />\n</svg>",
+      "trigger": "teenyicons-tablet"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tag\" />\n</svg>",
+      "trigger": "teenyicons-tag"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tailwind\" />\n</svg>",
+      "trigger": "teenyicons-tailwind"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-target\" />\n</svg>",
+      "trigger": "teenyicons-target"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-telegram\" />\n</svg>",
+      "trigger": "teenyicons-telegram"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-terminal\" />\n</svg>",
+      "trigger": "teenyicons-terminal"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-text-document-alt\" />\n</svg>",
+      "trigger": "teenyicons-text-document-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-text-document\" />\n</svg>",
+      "trigger": "teenyicons-text-document"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-text\" />\n</svg>",
+      "trigger": "teenyicons-text"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-thumb-down\" />\n</svg>",
+      "trigger": "teenyicons-thumb-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-thumb-up\" />\n</svg>",
+      "trigger": "teenyicons-thumb-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-thumbtack\" />\n</svg>",
+      "trigger": "teenyicons-thumbtack"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tick-circle\" />\n</svg>",
+      "trigger": "teenyicons-tick-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tick-small\" />\n</svg>",
+      "trigger": "teenyicons-tick-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tick\" />\n</svg>",
+      "trigger": "teenyicons-tick"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tiktok\" />\n</svg>",
+      "trigger": "teenyicons-tiktok"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-toggle\" />\n</svg>",
+      "trigger": "teenyicons-toggle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-top-left\" />\n</svg>",
+      "trigger": "teenyicons-top-left"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-top-right\" />\n</svg>",
+      "trigger": "teenyicons-top-right"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-trend-down\" />\n</svg>",
+      "trigger": "teenyicons-trend-down"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-trend-up\" />\n</svg>",
+      "trigger": "teenyicons-trend-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-triangle\" />\n</svg>",
+      "trigger": "teenyicons-triangle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-trophy\" />\n</svg>",
+      "trigger": "teenyicons-trophy"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-tv\" />\n</svg>",
+      "trigger": "teenyicons-tv"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-twitch\" />\n</svg>",
+      "trigger": "teenyicons-twitch"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-twitter\" />\n</svg>",
+      "trigger": "teenyicons-twitter"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-typescript\" />\n</svg>",
+      "trigger": "teenyicons-typescript"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-underline\" />\n</svg>",
+      "trigger": "teenyicons-underline"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-unlock-circle\" />\n</svg>",
+      "trigger": "teenyicons-unlock-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-unlock-small\" />\n</svg>",
+      "trigger": "teenyicons-unlock-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-unlock\" />\n</svg>",
+      "trigger": "teenyicons-unlock"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-up-circle\" />\n</svg>",
+      "trigger": "teenyicons-up-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-up-small\" />\n</svg>",
+      "trigger": "teenyicons-up-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-up\" />\n</svg>",
+      "trigger": "teenyicons-up"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-upload\" />\n</svg>",
+      "trigger": "teenyicons-upload"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-usb-cable\" />\n</svg>",
+      "trigger": "teenyicons-usb-cable"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-circle\" />\n</svg>",
+      "trigger": "teenyicons-user-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-minus\" />\n</svg>",
+      "trigger": "teenyicons-user-minus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-plus\" />\n</svg>",
+      "trigger": "teenyicons-user-plus"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user-square\" />\n</svg>",
+      "trigger": "teenyicons-user-square"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-user\" />\n</svg>",
+      "trigger": "teenyicons-user"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-users\" />\n</svg>",
+      "trigger": "teenyicons-users"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vector-document\" />\n</svg>",
+      "trigger": "teenyicons-vector-document"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-venn-diagram\" />\n</svg>",
+      "trigger": "teenyicons-venn-diagram"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-view-column\" />\n</svg>",
+      "trigger": "teenyicons-view-column"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-view-grid\" />\n</svg>",
+      "trigger": "teenyicons-view-grid"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vim\" />\n</svg>",
+      "trigger": "teenyicons-vim"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-volume-1\" />\n</svg>",
+      "trigger": "teenyicons-volume-1"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-volume-2\" />\n</svg>",
+      "trigger": "teenyicons-volume-2"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-volume-3\" />\n</svg>",
+      "trigger": "teenyicons-volume-3"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vr-headset\" />\n</svg>",
+      "trigger": "teenyicons-vr-headset"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-vue\" />\n</svg>",
+      "trigger": "teenyicons-vue"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wallet-alt\" />\n</svg>",
+      "trigger": "teenyicons-wallet-alt"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wallet\" />\n</svg>",
+      "trigger": "teenyicons-wallet"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wan\" />\n</svg>",
+      "trigger": "teenyicons-wan"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wand\" />\n</svg>",
+      "trigger": "teenyicons-wand"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-watch\" />\n</svg>",
+      "trigger": "teenyicons-watch"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-webpack\" />\n</svg>",
+      "trigger": "teenyicons-webpack"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-whatsapp\" />\n</svg>",
+      "trigger": "teenyicons-whatsapp"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wifi-full\" />\n</svg>",
+      "trigger": "teenyicons-wifi-full"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wifi-low\" />\n</svg>",
+      "trigger": "teenyicons-wifi-low"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wifi-none\" />\n</svg>",
+      "trigger": "teenyicons-wifi-none"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-windows\" />\n</svg>",
+      "trigger": "teenyicons-windows"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-wordpress\" />\n</svg>",
+      "trigger": "teenyicons-wordpress"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-x-circle\" />\n</svg>",
+      "trigger": "teenyicons-x-circle\tteenyicons-  x-circle"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-x-small\" />\n</svg>",
+      "trigger": "teenyicons-x-small\tteenyicons-  x-small"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-x\" />\n</svg>",
+      "trigger": "teenyicons-x"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-xls\" />\n</svg>",
+      "trigger": "teenyicons-xls"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-yen\" />\n</svg>",
+      "trigger": "teenyicons-yen"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-youtube\" />\n</svg>",
+      "trigger": "teenyicons-youtube"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-zip\" />\n</svg>",
+      "trigger": "teenyicons-zip"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-zoom-in\" />\n</svg>",
+      "trigger": "teenyicons-zoom-in"
+    },
+    {
+      "contents": "<svg width=\"${1:15}\" height=\"${1:15}\">\n  <use xlink:href=\"teenyicons-${2:outline}.svg#${2:outline}-zoom-out\" />\n</svg>",
+      "trigger": "teenyicons-zoom-out"
+    }
+  ]
+}
